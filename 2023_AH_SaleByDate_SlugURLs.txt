@@ -1527,6 +1527,7 @@ ListingId	DateTime	URL
 181640199	2023-05-19 17:22:02	unit-24-78-hodgson-crescent-pearce-act-2607
 181640745	2023-05-20 09:40:14	unit-1207-81-cooyong-street-reid-act-2612
 181640873	2023-05-20 12:10:36	taylor-act-2913?tid=181640873
+181640994	2023-05-25 12:50:29	unit-211-81-cooyong-street-reid-act-2612
 181640994	2023-05-25 12:50:29	unit-50-81-cooyong-street-reid-act-2612
 181641095	2023-05-22 10:41:53	3-cargelligo-street-duffy-act-2611
 181641177	2023-05-20 16:50:08	8-rocklands-street-duffy-act-2611
@@ -1542,6 +1543,7 @@ ListingId	DateTime	URL
 181644115	2023-05-23 19:00:11	unit-4-7a-o-hanlon-road-queanbeyan-nsw-2620
 181644132	2023-05-23 06:40:30	26-john-gorton-drive-coombs-act-2611
 181644464	2023-05-23 10:51:02	10-slim-dusty-circuit-moncrieff-act-2914
+181644732	2023-05-26 10:11:58	unit-11-1-beissel-street-belconnen-act-2617
 181644878	2023-05-23 06:40:09	30-crozier-circuit-kambah-act-2902
 181644924	2023-05-25 11:00:17	unit-1-82-tharwa-road-queanbeyan-nsw-2620
 181644953	2023-05-25 13:10:36	unit-63-41-eastlake-parade-kingston-act-2604
@@ -1576,6 +1578,7 @@ ListingId	DateTime	URL
 181648897	2023-05-24 12:46:18	12-sowden-street-mckellar-act-2617
 181648901	2023-05-25 15:19:15	unit-g12-55-currong-street-braddon-act-2612
 181648906	2023-05-24 11:55:14	googong-nsw-2620?tid=181648906
+181648907	2023-05-26 10:09:06	south-jerrabomberra-homes-by-village-lot-903-tralee-nsw-2620?tid=181648907
 181649101	2023-05-24 13:50:49	43-bindugan-crescent-ngunnawal-act-2913
 181649102	2023-05-24 14:20:52	43-allumba-street-queanbeyan-west-nsw-2620
 181649194	2023-05-24 13:53:46	5-octoman-street-forde-act-2914
@@ -1642,3 +1645,11 @@ ListingId	DateTime	URL
 181653748	2023-05-25 16:11:10	unit-61-11-kerridge-street-kingston-act-2604
 181653806	2023-05-25 16:41:58	5-bosisto-place-wanniassa-act-2903
 181654397	2023-05-25 18:30:13	unit-1-69-blamey-crescent-campbell-act-2612
+181654401	2023-05-26 09:30:51	unit-35-77-northbourne-avenue-turner-act-2612
+181654614	2023-05-26 09:50:44	14-heysen-street-weston-act-2611
+181654643	2023-05-26 08:20:11	98-maribyrnong-avenue-kaleen-act-2617
+181654912	2023-05-26 11:10:33	unit-33-81-constitution-avenue-campbell-act-2612
+181654966	2023-05-26 13:05:27	valerie-residence-a-north-facing-3-bedroom-townhouse-dickson-act-2602?tid=181654966
+181655044	2023-05-26 12:01:06	unit-36-18-captain-cook-crescent-griffith-act-2603
+181655097	2023-05-26 11:01:25	unit-37-9-irving-street-phillip-act-2606
+181655106	2023-05-26 11:00:47	6-freebury-street-denman-prospect-act-2611
