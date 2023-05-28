@@ -1527,8 +1527,8 @@ ListingId	DateTime	URL
 181640199	2023-05-19 17:22:02	unit-24-78-hodgson-crescent-pearce-act-2607
 181640745	2023-05-20 09:40:14	unit-1207-81-cooyong-street-reid-act-2612
 181640873	2023-05-20 12:10:36	taylor-act-2913?tid=181640873
-181640994	2023-05-25 12:50:29	unit-211-81-cooyong-street-reid-act-2612
 181640994	2023-05-25 12:50:29	unit-50-81-cooyong-street-reid-act-2612
+181640994	2023-05-25 12:50:29	unit-211-81-cooyong-street-reid-act-2612
 181641095	2023-05-22 10:41:53	3-cargelligo-street-duffy-act-2611
 181641177	2023-05-20 16:50:08	8-rocklands-street-duffy-act-2611
 181641535	2023-05-22 11:21:55	48-edwards-street-higgins-act-2615
@@ -1653,3 +1653,4 @@ ListingId	DateTime	URL
 181655044	2023-05-26 12:01:06	unit-36-18-captain-cook-crescent-griffith-act-2603
 181655097	2023-05-26 11:01:25	unit-37-9-irving-street-phillip-act-2606
 181655106	2023-05-26 11:00:47	6-freebury-street-denman-prospect-act-2611
+181657281	2023-05-27 09:50:11	15-walter-hood-lane-red-hill-act-2603
