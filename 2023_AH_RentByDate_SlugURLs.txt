@@ -1012,6 +1012,7 @@ ListingId	DateTime	URL
 181641521	2023-05-22 09:51:00	2-cygnet-crescent-red-hill-act-2603
 181641532	2023-05-22 10:21:03	unit-613-484-northbourne-avenue-dickson-act-2602
 181641541	2023-05-22 09:41:57	10-wangalo-lane-harrison-act-2914
+181641560	2023-05-27 17:01:06	unit-7-60-callam-street-phillip-act-2606
 181641571	2023-05-22 11:01:44	70-de-little-circuit-greenway-act-2900
 181641619	2023-05-22 11:11:54	unit-11-9-howitt-street-kingston-act-2604
 181641620	2023-05-22 12:01:50	unit-17-33-arthur-blakeley-way-coombs-act-2611
@@ -1101,11 +1102,13 @@ ListingId	DateTime	URL
 181647087	2023-05-24 11:09:27	8-ahern-place-monash-act-2904
 181647089	2023-05-25 23:54:55	36-ayrton-street-gungahlin-act-2912
 181647090	2023-05-26 09:09:29	unit-27-17-medley-street-chifley-act-2606
+181647092	2023-05-28 11:27:49	unit-5-40-henry-kendall-street-franklin-act-2913
 181647116	2023-05-23 17:00:44	unit-9-7-coolac-place-braddon-act-2612
 181647135	2023-05-23 17:10:41	unit-16-8-henry-kendall-street-franklin-act-2913
 181647136	2023-05-23 17:00:41	6-keys-crescent-wanniassa-act-2903
 181647448	2023-05-24 17:03:13	15-fawkner-street-braddon-act-2612
 181647449	2023-05-26 11:59:00	unit-21-260-city-walk-city-act-2601
+181647450	2023-05-27 17:01:15	unit-10g-2-anzac-park-campbell-act-2612
 181647692	2023-05-24 08:50:27	unit-1-75-torrens-street-braddon-act-2612
 181647784	2023-05-24 09:30:45	23-ray-ellis-crescent-forde-act-2914
 181647834	2023-05-24 10:42:02	unit-53-5-burbury-close-barton-act-2600
@@ -1201,6 +1204,7 @@ ListingId	DateTime	URL
 181654615	2023-05-26 10:01:52	unit-32-4-ross-road-queanbeyan-nsw-2620
 181654621	2023-05-26 07:40:11	66a-mueller-street-yarralumla-act-2600
 181654625	2023-05-26 09:30:57	266-wheeler-crescent-wanniassa-act-2903
+181654764	2023-05-27 22:50:08	1-speargrass-road-tralee-nsw-2620
 181654765	2023-05-26 10:20:46	unit-3-2-goldman-street-bruce-act-2617
 181654794	2023-05-26 11:31:02	3-corbin-place-macgregor-act-2615
 181654811	2023-05-26 11:00:44	1-wargila-place-giralang-act-2617
@@ -1228,6 +1232,7 @@ ListingId	DateTime	URL
 181656394	2023-05-26 15:11:11	unit-235-7-irving-street-phillip-act-2606
 181656461	2023-05-26 15:10:50	unit-283-7-irving-street-phillip-act-2606
 181656651	2023-05-26 16:50:41	unit-2-16-ducane-street-forrest-act-2603
+181656651	2023-05-26 16:50:41	unit-1-16-ducane-street-forrest-act-2603
 181656672	2023-05-26 15:50:51	unit-65-12-pioneer-street-amaroo-act-2914
 181656749	2023-05-26 15:50:50	6-benson-crescent-calwell-act-2905
 181656770	2023-05-26 16:41:25	102-jansz-crescent-griffith-act-2603
@@ -1241,3 +1246,7 @@ ListingId	DateTime	URL
 181656865	2023-05-26 18:00:12	unit-242-84-chandler-street-belconnen-act-2617
 181657280	2023-05-26 17:20:23	level-b-unit-1904-15-bowes-street-phillip-act-2606
 181657310	2023-05-26 18:40:15	4-kleinig-street-nicholls-act-2913
+181657411	2023-05-27 01:10:08	unit-11-16-new-south-wales-crescent-forrest-act-2603
+181657681	2023-05-27 14:30:13	unit-29-9-eastlake-parade-kingston-act-2604
+181657816	2023-05-27 06:50:10	10b-cedar-street-harrison-act-2914
+181657987	2023-05-27 17:40:10	166-mabo-boulevard-bonner-act-2914
