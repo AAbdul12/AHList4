@@ -152,3 +152,4 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318163301611	2023-05-28	18-wallabalooa-street-ngunnawal-canberra	$680 per week
 1318151627911	2023-05-28	26-beauchamp-street-deakin-canberra	$850 per week
 1318163301611	2023-05-28	18-wallabalooa-street-ngunnawal-canberra	$680 per week
+1318163127511	2023-05-29	60-pademelon-street-throsby-canberra	$750 per week
