@@ -64,3 +64,29 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318156666711	2023-05-27	19-turner-place-yarralumla-canberra	$1,750,000+
 1318158431511	2023-05-27	18-1-drew-street-greenway-canberra	$699,000
 1318132591511	2023-05-28	29-51-leahy-close-narrabundah-canberra	Offers Over $719,000
+1317938931911	2023-05-30	vivace-north-facing-3-bed-townhome-with-25-bath-and-2-car-throsby-canberra	$799,900
+1318051926911	2023-05-30	form-light-filled-2-bed-2-bath-coombs-canberra	$609,900
+1318054991011	2023-05-30	form-huge-3-bedroom-townhome-coombs-canberra	$874,900
+1318082491711	2023-05-30	63-16-cornelius-street-coombs-canberra	$609,900
+1318082494211	2023-05-30	28-29-seahorse-street-throsby-canberra	$779,900
+1318084375811	2023-05-30	vivace-3-bedroom-with-25-bathrooms-and-oversized-tandem-garage-throsby-canberra	$779,900
+1318084377711	2023-05-30	vivace-oversized-3-bedroom-with-rumpus-room-throsby-canberra	$1,119,000
+1318084622611	2023-05-30	vivace-4-bedroom-with-2-master-bedrooms-throsby-canberra	$874,900
+1318103255911	2023-05-30	vivace-one-of-a-kind-4-bedroom-with-rumpus-corner-townhome-throsby-canberra	$1,119,000
+1318111217611	2023-05-30	vivace-2-bedroom-2-bathroom-with-2-car-throsby-canberra	$609,900+
+1318118919911	2023-05-30	vivace-large-4-bedroom-2-storey-townhome-with-double-garage-throsby-canberra	$1,119,000
+1318130350311	2023-05-30	136-lambrigg-street-farrer-canberra	$900,000
+1318130352011	2023-05-30	39-pavonia-street-rivett-canberra	$700,000
+1318130352111	2023-05-30	33-mckenzie-street-kambah-canberra	$700,000
+1318130352211	2023-05-30	38-buvelot-street-weston-canberra	$990,000
+1318130363411	2023-05-30	6-ulverstone-street-lyons-canberra	$1,100,000
+1318139378811	2023-05-30	29-ferdinand-street-campbell-canberra	$1,895,000+
+1318148475411	2023-05-30	22-92-casey-crescent-calwell-canberra	$750,000+
+1318152961311	2023-05-30	210-45-honeysett-view-kingston-canberra	By Negotiation
+1318153364711	2023-05-30	75-doyle-terrace-chapman-canberra	$1,100,000+
+1318156662711	2023-05-30	26-10-hopegood-place-garran-canberra	Under Offer
+1318159912111	2023-05-30	29-jonsson-court-dunlop-canberra	$777,000 +
+1318160833311	2023-05-30	27-84-kings-canyon-street-harrison-canberra	$668,000
+1318161087111	2023-05-30	unit-413-2-batman-street-braddon-canberra	By Negotiation
+1318163141711	2023-05-30	905-2-gribble-street-gungahlin-canberra	$695,000-$720,000
+1318164537311	2023-05-30	7-10-margules-crescent-taylor-canberra	$699,000+
