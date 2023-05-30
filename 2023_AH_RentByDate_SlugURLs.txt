@@ -892,6 +892,7 @@ ListingId	DateTime	URL
 181631830	2023-05-17 14:51:31	unit-90-66-allara-street-city-act-2601
 181631886	2023-05-17 14:40:38	unit-12-8-giles-street-griffith-act-2603
 181632361	2023-05-22 19:13:51	22a-wenholz-street-farrer-act-2607
+181632362	2023-05-29 14:28:54	unit-16-27-giles-street-kingston-act-2604
 181632433	2023-05-17 15:41:50	level-b-unit-41-121-easty-street-phillip-act-2606
 181632652	2023-05-17 16:20:57	unit-1-8-10-donald-road-queanbeyan-nsw-2620
 181632737	2023-05-17 15:30:43	unit-10-137-blamey-crescent-campbell-act-2612
@@ -1064,6 +1065,7 @@ ListingId	DateTime	URL
 181644978	2023-05-23 10:11:24	unit-40-45-blackall-street-barton-act-2600
 181644986	2023-05-23 09:34:18	unit-23-217-northbourne-avenue-turner-act-2612
 181644987	2023-05-23 13:29:16	unit-ug17-2-anzac-park-campbell-act-2612
+181644990	2023-05-29 20:46:25	22-gatty-place-scullin-act-2614
 181644996	2023-05-23 09:41:32	34-clancy-mckenna-crescent-bonner-act-2914
 181645006	2023-05-23 10:07:30	unit-16-16-morell-close-belconnen-act-2617
 181645050	2023-05-23 12:02:04	52-david-street-turner-act-2612
@@ -1250,3 +1252,4 @@ ListingId	DateTime	URL
 181657681	2023-05-27 14:30:13	unit-29-9-eastlake-parade-kingston-act-2604
 181657816	2023-05-27 06:50:10	10b-cedar-street-harrison-act-2914
 181657987	2023-05-27 17:40:10	166-mabo-boulevard-bonner-act-2914
+181661047	2023-05-29 20:20:11	unit-39-68-hardwick-crescent-holt-act-2615
