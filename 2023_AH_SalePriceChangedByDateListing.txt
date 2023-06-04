@@ -74,6 +74,7 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318084622611	2023-05-30	vivace-4-bedroom-with-2-master-bedrooms-throsby-canberra	$874,900
 1318103255911	2023-05-30	vivace-one-of-a-kind-4-bedroom-with-rumpus-corner-townhome-throsby-canberra	$1,119,000
 1318111217611	2023-05-30	vivace-2-bedroom-2-bathroom-with-2-car-throsby-canberra	$609,900+
+1318115680811	2023-05-30	11-scottsdale-street-lyons-canberra	$1,995,000+
 1318118919911	2023-05-30	vivace-large-4-bedroom-2-storey-townhome-with-double-garage-throsby-canberra	$1,119,000
 1318130350311	2023-05-30	136-lambrigg-street-farrer-canberra	$900,000
 1318130352011	2023-05-30	39-pavonia-street-rivett-canberra	$700,000
@@ -90,3 +91,27 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318161087111	2023-05-30	unit-413-2-batman-street-braddon-canberra	By Negotiation
 1318163141711	2023-05-30	905-2-gribble-street-gungahlin-canberra	$695,000-$720,000
 1318164537311	2023-05-30	7-10-margules-crescent-taylor-canberra	$699,000+
+1318101730311	2023-05-31	514-120-eastern-valley-way-belconnen-canberra	$379,999+
+1318117726711	2023-05-31	6-esk-place-lyons-canberra	$930,000+
+1318134197811	2023-05-31	36-quong-tart-avenue-denman-prospect-canberra	$1,450,000
+1318140276111	2023-05-31	91-stuart-street-narrabundah-canberra	$2,200,000+
+1318143912011	2023-05-31	1-16-colbeck-street-mawson-canberra	Under Offer
+1318145373311	2023-05-31	no-street-name-provided-belconnen-canberra	$570,000
+1318159716411	2023-05-31	5-11-trevillian-quay-kingston-canberra	$499,000+
+1318095921211	2023-06-01	8-45-west-row-city-canberra	$649,999+
+1318138144911	2023-06-01	74-george-seddon-crescent-taylor-canberra	$799,000+
+1318140954011	2023-06-01	15-56-cowlishaw-street-greenway-canberra	$315,000+
+1318145276611	2023-06-01	18-laughton-street-chisholm-canberra	$975,000+
+1318146574311	2023-06-01	2-hamilton-row-yarralumla-canberra	SOLD - Contact Agent
+1318149357711	2023-06-01	304-10-parbery-street-kingston-canberra	$699,000+
+1318157657111	2023-06-01	3-3-mcgowan-place-dickson-canberra	By Negotiation
+1318158474811	2023-06-01	120-72-wentworth-avenue-kingston-canberra	$650,000+
+1318159647911	2023-06-01	12-nina-murdoch-street-franklin-canberra	Offers over $1,390,000.-
+1318116110811	2023-06-02	12-hill-corner-yarralumla-canberra	$3,700,000+
+1318156338311	2023-06-02	41-leslie-dwyer-street-forde-canberra	$1,350,000-$1,450,000
+1318158156311	2023-06-02	182-39-catalano-street-wright-canberra	$405,000
+1318163493911	2023-06-02	10-3-cabarita-terrace-o-malley-canberra	$1,699,000+
+1318129901811	2023-06-03	7-180-monaro-crescent-red-hill-canberra	$499,950
+1318140204611	2023-06-03	23-crone-terrace-taylor-canberra	$550,000+
+1318144019911	2023-06-03	27-mannheim-street-kambah-canberra	By Negotiation
+1318163502311	2023-06-03	4-mcdougall-street-charnwood-canberra	$690,000 - $740,000
