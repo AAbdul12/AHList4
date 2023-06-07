@@ -115,3 +115,25 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318140204611	2023-06-03	23-crone-terrace-taylor-canberra	$550,000+
 1318144019911	2023-06-03	27-mannheim-street-kambah-canberra	By Negotiation
 1318163502311	2023-06-03	4-mcdougall-street-charnwood-canberra	$690,000 - $740,000
+1318104951511	2023-06-05	300-1-anthony-rolfe-avenue-gungahlin-canberra	$469000+
+1318108843711	2023-06-05	5-clothier-street-strathnairn-canberra	By Negotiation
+1318159696011	2023-06-05	2-serra-place-stirling-canberra	$830,000
+1318160633611	2023-06-05	7-1-chifley-place-chifley-canberra	$530,000
+1318163499211	2023-06-05	61-77-gozzard-street-gungahlin-canberra	$365,000
+1318163594411	2023-06-05	42-5-burbury-close-barton-canberra	UNDER OFFER
+1318084377711	2023-06-06	vivace-oversized-3-bedroom-with-rumpus-room-throsby-canberra	$999,900
+1318084622611	2023-06-06	vivace-4-bedroom-with-2-master-bedrooms-throsby-canberra	$849,900
+1318149784211	2023-06-06	1-malcolm-cole-terrace-whitlam-canberra	$1,259,000 +
+1318149784911	2023-06-06	10-euroka-street-narrabundah-canberra	UNDER OFFER
+1318155149611	2023-06-06	43-119-sutherland-crescent-taylor-canberra	$599,000+
+1318160318611	2023-06-06	31-51-musgrave-street-yarralumla-canberra	$1,475,000
+1318163490711	2023-06-06	162-61-john-gorton-drive-wright-canberra	$399,000+
+1318164987211	2023-06-06	23-harkness-street-monash-canberra	$750,000 - $825,000
+1318166188511	2023-06-06	305-4-anzac-park-campbell-canberra	$599,000+
+1317973681811	2023-06-07	17-makinson-view-denman-prospect-canberra	$849,000+
+1318054991011	2023-06-07	form-huge-3-bedroom-townhome-coombs-canberra	$869,900
+1318103255911	2023-06-07	vivace-one-of-a-kind-4-bedroom-with-rumpus-corner-townhome-throsby-canberra	$1,099,900
+1318118919911	2023-06-07	vivace-large-4-bedroom-2-storey-townhome-with-double-garage-throsby-canberra	$1,099,900
+1318163542511	2023-06-07	2-geerilong-gardens-reid-canberra	By Negotiation
+1318164347811	2023-06-07	129-1-anthony-rolfe-avenue-gungahlin-canberra	Under Offer! - Contact Agent
+1318165158011	2023-06-07	69-217-northbourne-avenue-turner-canberra	$660,000+
