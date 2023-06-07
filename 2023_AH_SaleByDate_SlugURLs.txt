@@ -515,8 +515,8 @@ ListingId	DateTime	URL
 181399770	2023-02-23 14:41:19	395-urila-road-burra-nsw-2620
 181401515	2023-02-24 09:10:44	8-brownbill-street-coombs-act-2611
 181401985	2023-02-24 11:41:10	45-quiros-street-red-hill-act-2603
-181402046	2023-02-24 00:00:00	23-crone-terrace-taylor-act-2913
 181402046	2023-02-24 09:50:35	23-crone-terrace-taylor-act-2913
+181402046	2023-02-24 00:00:00	23-crone-terrace-taylor-act-2913
 181402047	2023-02-24 09:51:18	198-monaro-crescent-red-hill-act-2603
 181402305	2023-02-24 13:51:20	unit-409-335-anketell-street-greenway-act-2900
 181402761	2023-02-24 13:30:48	91-stuart-street-narrabundah-act-2604
