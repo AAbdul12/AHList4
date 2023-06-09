@@ -137,3 +137,16 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318163542511	2023-06-07	2-geerilong-gardens-reid-canberra	By Negotiation
 1318164347811	2023-06-07	129-1-anthony-rolfe-avenue-gungahlin-canberra	Under Offer! - Contact Agent
 1318165158011	2023-06-07	69-217-northbourne-avenue-turner-canberra	$660,000+
+1317938931911	2023-06-08	vivace-north-facing-3-bed-townhome-with-25-bath-and-2-car-throsby-canberra	$799,900
+1318121615311	2023-06-08	12-rosenthal-street-campbell-canberra	$2,099,000 - $2,179,000
+1318129483211	2023-06-08	107-walker-crescent-narrabundah-canberra	$2,100,000+
+1318129919911	2023-06-08	9-cosgrove-street-curtin-canberra	Offers Over $725,000
+1318143665011	2023-06-08	17-dooring-street-braddon-canberra	$420,000+
+1318152729711	2023-06-08	21-yuranigh-court-ngunnawal-canberra	By Negotiation
+1318157524011	2023-06-08	47-71-giles-street-kingston-canberra	$559,000
+1318158864611	2023-06-08	1-hawken-street-monash-canberra	By Negotiation
+1318160290211	2023-06-08	2003-3-grazier-lane-belconnen-canberra	$620,000+
+1318164919411	2023-06-08	5-octoman-street-forde-canberra	$1,199,000+
+1318165211911	2023-06-08	stage-2b-block-a-section-ax-denman-prospect-canberra	$795,000 - $845,000
+1318084375811	2023-06-09	vivace-3-bedroom-with-25-bathrooms-and-oversized-tandem-garage-throsby-canberra	$759,900
+1318111709211	2023-06-09	422-2-terry-connolly-street-coombs-canberra	$689,000+
