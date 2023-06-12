@@ -371,3 +371,13 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318166881311	2023-06-09	3-simons-close-mckellar-canberra	$660 Per Week
 1318167102111	2023-06-09	60-60-kingsland-parade-casey-canberra	$460 per week
 1318167106911	2023-06-09	96-mainwaring-rich-circuit-palmerston-canberra	$570 per week
+1318163496211	2023-06-10	1301-6-gribble-street-gungahlin-canberra	$630 per week
+1318165508711	2023-06-10	57-96-mcmichael-terrace-denman-prospect-canberra	$680 pw
+1318166925311	2023-06-10	2-conder-street-weston-canberra	$600 pw
+1318143930611	2023-06-11	5-henderson-street-garran-canberra	$770-$820 per week
+1318151356211	2023-06-11	223-1-elouera-street-braddon-canberra	$520 per week
+1318158934611	2023-06-11	5-75-torrens-street-braddon-canberra	$595 per week
+1318163461911	2023-06-11	46-knox-street-watson-canberra	$500 per week
+1318164499011	2023-06-11	22-gatty-place-scullin-canberra	$600 per week
+1318164769211	2023-06-11	1-75-torrens-street-braddon-canberra	$595 per week
+1318166225211	2023-06-12	3-bradfield-street-downer-canberra	$815 per week
