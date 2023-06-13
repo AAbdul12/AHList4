@@ -150,3 +150,20 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318165211911	2023-06-08	stage-2b-block-a-section-ax-denman-prospect-canberra	$795,000 - $845,000
 1318084375811	2023-06-09	vivace-3-bedroom-with-25-bathrooms-and-oversized-tandem-garage-throsby-canberra	$759,900
 1318111709211	2023-06-09	422-2-terry-connolly-street-coombs-canberra	$689,000+
+1318140473911	2023-06-10	611-25-edinburgh-avenue-city-canberra	$535,000+
+1318158225111	2023-06-10	130-jim-pike-avenue-gordon-canberra	$835,000
+1318159535811	2023-06-10	509-6-gribble-street-gungahlin-canberra	$569,999+
+1318160408311	2023-06-10	89-bettong-avenue-throsby-canberra	$699,000
+1318161806411	2023-06-10	21-sue-geh-circuit-nicholls-canberra	$1,700,000 +
+1318164117711	2023-06-10	8-rocklands-street-duffy-canberra	$900,000+
+1318084377711	2023-06-11	vivace-oversized-3-bedroom-with-rumpus-room-throsby-canberra	$899,900+
+1318150023011	2023-06-12	50-566-cotter-road-wright-canberra	$399,000 +
+1318163141711	2023-06-12	905-2-gribble-street-gungahlin-canberra	Expressions of Interest
+1318163805211	2023-06-12	23-dalman-crescent-o-malley-canberra	$3,450,000+
+1317996363011	2023-06-13	no-street-name-provided-whitlam-canberra	$999,900+
+1318078598611	2023-06-13	acacia-4-bedroom-townhouse-including-self-contained-studio-with-views-whitlam-canberra	$1,200,000+
+1318112942811	2023-06-13	48-finniss-crescent-narrabundah-canberra	$2,850,000
+1318152998311	2023-06-13	2-wisdom-place-hughes-canberra	$1,749,000-$1,849,000
+1318156666711	2023-06-13	19-turner-place-yarralumla-canberra	$1,700,000
+1318158044211	2023-06-13	29-rafferty-street-chapman-canberra	$1,250,000+
+1318160265211	2023-06-13	163-61-john-gorton-drive-wright-canberra	$425,000
