@@ -167,3 +167,24 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318156666711	2023-06-13	19-turner-place-yarralumla-canberra	$1,700,000
 1318158044211	2023-06-13	29-rafferty-street-chapman-canberra	$1,250,000+
 1318160265211	2023-06-13	163-61-john-gorton-drive-wright-canberra	$425,000
+1318084377711	2023-06-14	vivace-oversized-3-bedroom-with-rumpus-room-throsby-canberra	$849,900
+1318084622611	2023-06-14	vivace-4-bedroom-with-2-master-bedrooms-throsby-canberra	$849,900
+1318111217611	2023-06-14	vivace-2-bedroom-2-bathroom-with-2-car-throsby-canberra	$599,900+
+1318129520711	2023-06-14	g03-258-northbourne-avenue-dickson-canberra	$495,000+
+1318129553811	2023-06-14	53-tishler-street-wright-canberra	Offers Over $630,000
+1318139914311	2023-06-14	allegro-3-bed-with-single-car-garage-plus-car-space-throsby-canberra	$729,900
+1318153098011	2023-06-14	7-werribee-crescent-farrer-canberra	Offers above $1,350,000
+1318158800511	2023-06-14	218-50-eastlake-parade-kingston-canberra	$345,000+
+1318160781111	2023-06-14	114-pennefather-street-higgins-canberra	$949,000+
+1318163045311	2023-06-14	11-86-anzac-park-campbell-canberra	$550,000+
+1318165728111	2023-06-14	15-walter-hood-lane-red-hill-canberra	$1,449,000 - $1,549,000
+1318166114511	2023-06-14	51-macfarlane-burnet-avenue-macgregor-canberra	$960,000+
+1318168218711	2023-06-14	19-1-hoffmann-street-moncrieff-canberra	$595,000+
+1318057784911	2023-06-15	44-magenta-square-amaroo-canberra	Contact Agent
+1318072248711	2023-06-15	8-esson-place-garran-canberra	$1,200,000
+1318131113911	2023-06-15	block-i-section-aw-denman-prospect-canberra	$849,000 - $889,000
+1318139787511	2023-06-15	38-311-flemington-road-franklin-canberra	$520,000 +
+1318154306711	2023-06-15	205-1-the-causeway-kingston-canberra	$495,000+
+1318158873511	2023-06-15	29-17-trevillian-quay-kingston-canberra	$2,585,000
+1318163141711	2023-06-15	905-2-gribble-street-gungahlin-canberra	Expressions of Interest
+1318163580411	2023-06-15	7-slater-place-evatt-canberra	$775,000+
