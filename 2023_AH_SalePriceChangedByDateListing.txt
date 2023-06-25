@@ -225,3 +225,21 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318163295211	2023-06-21	91-20-allara-street-canberra-canberra	By Negotiation
 1318166813911	2023-06-21	15-lawrenson-circuit-jacka-canberra	$998,000-$1,078,000
 1318169914711	2023-06-21	53-callabonna-street-kaleen-canberra	$1,175,000
+1318001516211	2023-06-22	25-32-leahy-close-narrabundah-canberra	$1,000,000+
+1318035009811	2023-06-22	elia-g-type-town-home-taylor-canberra	$599,900
+1318125143011	2023-06-22	28-arthur-circle-forrest-canberra	By Negotiation
+1318139494511	2023-06-22	elia-3-bedroom-north-facing-townhouse-taylor-canberra	$699,900
+1318155072911	2023-06-22	wova-wova-a-rising-mixed-use-community-in-woden-1-bedroom-woden-canberra	$470,900
+1318155149611	2023-06-22	43-119-sutherland-crescent-taylor-canberra	$580,000+
+1318163140911	2023-06-22	24-barramundi-street-throsby-canberra	By Negotiation
+1318166188511	2023-06-22	305-4-anzac-park-campbell-canberra	$560,000+
+1318168354111	2023-06-22	8-6-goodchild-street-lyneham-canberra	Offers
+1318128922411	2023-06-23	8-sievers-view-taylor-canberra	$619,000+
+1318131152711	2023-06-23	205-358-northbourne-avenue-dickson-canberra	$620,000+
+1318163834611	2023-06-23	7-64-arndell-street-macquarie-canberra	$1,295,000
+1318164318311	2023-06-23	72-hibberd-crescent-forde-canberra	$699,000+
+1318165224811	2023-06-23	45-de-graaff-street-holder-canberra	$925,000+
+1318141736311	2023-06-24	3-roe-street-griffith-canberra	UNDER OFFER
+1318166440011	2023-06-24	36-noongale-court-ngunnawal-canberra	Offers Over $659,000
+1318166787911	2023-06-24	18-1-bellette-street-weston-canberra	$860,000+
+1318167007511	2023-06-24	30-muntz-street-chisholm-canberra	$879,000
