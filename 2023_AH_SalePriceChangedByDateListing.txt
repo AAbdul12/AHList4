@@ -243,3 +243,69 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318166440011	2023-06-24	36-noongale-court-ngunnawal-canberra	Offers Over $659,000
 1318166787911	2023-06-24	18-1-bellette-street-weston-canberra	$860,000+
 1318167007511	2023-06-24	30-muntz-street-chisholm-canberra	$879,000
+1318082689811	2023-06-26	2-kallir-street-denman-prospect-canberra	$1,365,000+
+1318111172211	2023-06-26	30-george-seddon-crescent-taylor-canberra	$619,000
+1318169963611	2023-06-26	57-234-flemington-road-harrison-canberra	$369,000
+1318114261411	2023-06-28	50-sibosado-street-denman-prospect-canberra	$1,230,000-$1,400,000
+1318137893111	2023-06-29	9-melbourne-avenue-forrest-canberra	$7,500,000+
+1317963728711	2023-07-01	2-keewong-street-crace-canberra	By Negotiation
+1317973681811	2023-07-01	17-makinson-view-denman-prospect-canberra	$799,000+
+1318170101611	2023-07-02	2-15-weavell-place-kambah-canberra	$700,000+
+1318117726711	2023-07-03	6-esk-place-lyons-canberra	$899,000+
+1318128029511	2023-07-03	95-235-flemington-road-franklin-canberra	$550,000+
+1318131606511	2023-07-03	425-1-anthony-rolfe-avenue-gungahlin-canberra	Offers Over $799,000
+1318139783311	2023-07-03	block-23-31-malcolm-cole-terrace-whitlam-canberra	$2,900,000
+1318142289111	2023-07-03	36-gordon-ford-way-taylor-canberra	$800,000+
+1318155149611	2023-07-03	43-119-sutherland-crescent-taylor-canberra	By Negotiation
+1318157524011	2023-07-03	47-71-giles-street-kingston-canberra	$540,000
+1318163109811	2023-07-03	4-pogney-place-richardson-canberra	$650,000- $675,000
+1318163707911	2023-07-03	211-90-swain-street-gungahlin-canberra	By Negotiation
+1318164495311	2023-07-03	63-41-eastlake-parade-kingston-canberra	Offers over $600,000
+1318166740011	2023-07-03	13-233-flemington-road-franklin-canberra	$690,000 - $720,000
+1318166875311	2023-07-03	105-335-anketell-street-greenway-canberra	By Negotiation
+1318167530711	2023-07-03	77-51-nullarbor-avenue-franklin-canberra	$380,000
+1318168557711	2023-07-03	25-cathcart-close-chisholm-canberra	$699,000
+1318168581411	2023-07-03	139-98-corinna-street-phillip-canberra	$455,000
+1318168628311	2023-07-03	607-2-marcus-clarke-street-city-canberra	$699,000
+1318168692111	2023-07-03	5-gelane-street-ngunnawal-canberra	$799,000+
+1318170110911	2023-07-03	31-29-state-circle-deakin-canberra	$799,000 - $839,000
+1318170707911	2023-07-03	9-nethercote-street-taylor-canberra	$1,399,000
+1318082494211	2023-07-04	27-29-seahorse-street-throsby-canberra	$749,900+
+1318099036511	2023-07-04	18-swagman-street-lawson-canberra	Offers Over $1,989,000
+1318157762011	2023-07-04	89-newdegate-street-deakin-canberra	$1,699,000+
+1318168354111	2023-07-04	8-6-goodchild-street-lyneham-canberra	Offers over $675,000
+1318170225411	2023-07-04	8-quokka-street-throsby-canberra	$959,000 +
+1318171677611	2023-07-04	203-2-terry-connolly-street-coombs-canberra	$599,000+
+1318172093211	2023-07-04	19-investigator-street-red-hill-canberra	$1,899,000 - $1,965,000
+1318147489611	2023-07-05	28-84-kings-canyon-street-harrison-canberra	By Negotiation
+1318154694111	2023-07-05	13-pademelon-street-throsby-canberra	$595,000+
+1318158039211	2023-07-05	12-1-anthony-rolfe-avenue-gungahlin-canberra	$699,000+
+1318160650011	2023-07-05	1-28-allan-street-curtin-canberra	$1,599,000+
+1318163027211	2023-07-05	19-15-bowman-street-macquarie-canberra	499,000+
+1318164677311	2023-07-05	18-vickers-crescent-flynn-canberra	$849,000+
+1318169355511	2023-07-05	45-14-national-circuit-barton-canberra	$900,000+
+1318171007611	2023-07-05	12-ogden-close-fadden-canberra	$1,050,000 +
+1318171392111	2023-07-05	4-112-blamey-crescent-campbell-canberra	$1,699,000
+1318172884411	2023-07-05	308-1-mouat-street-lyneham-canberra	$650,000+
+1318072081611	2023-07-06	form-3-bedroom-2-bathroom-with-double-car-garage-coombs-canberra	$699,900
+1318103639411	2023-07-06	143-sculthorpe-avenue-whitlam-canberra	$650000+
+1318111709211	2023-07-06	422-2-terry-connolly-street-coombs-canberra	Offers Over $709,000
+1318142939211	2023-07-06	16-everist-street-taylor-canberra	$610,000+
+1318143665011	2023-07-06	17-dooring-street-braddon-canberra	$400,000+
+1318150057411	2023-07-06	1-5-mokoan-place-duffy-canberra	$1,199,000+
+1318164934311	2023-07-06	70-8-baudinette-circuit-bruce-canberra	$399,000
+1318166440911	2023-07-06	29-buchan-crescent-forde-canberra	$1,200,000 - $1,300,000
+1318166456011	2023-07-06	105-63-dooring-street-dickson-canberra	$670,000+
+1318168282611	2023-07-06	7-prescott-street-farrer-canberra	Offers Over $1,200,000
+1318168502411	2023-07-06	74a-mcmichael-terrace-denman-prospect-canberra	$719,000 - $749,000
+1318147974411	2023-07-07	1712-120-eastern-valley-way-belconnen-canberra	$399,000+
+1318158074011	2023-07-07	133-33-wentworth-avenue-kingston-canberra	$460,000
+1318165728111	2023-07-07	15-walter-hood-lane-red-hill-canberra	$1,400,000 - $1,500,000
+1318170139111	2023-07-07	126-54-printers-way-kingston-canberra	$499,000+
+1318168664111	2023-07-08	6-147-bill-ferguson-circuit-bonner-canberra	$775,000+
+1318100216311	2023-07-10	1116-3-grazier-lane-belconnen-canberra	$399,000+
+1318146892611	2023-07-10	4-nethercote-street-taylor-canberra	Offers Above $1,149,000+
+1318170114111	2023-07-10	3-radburn-street-taylor-canberra	By Negotiation
+1318170496211	2023-07-10	73-140-anketell-street-greenway-canberra	$399,000+
+1318170704711	2023-07-10	154-77-northbourne-avenue-turner-canberra	$550,000
+1318173629511	2023-07-10	124-de-little-circuit-greenway-canberra	$875,000+
