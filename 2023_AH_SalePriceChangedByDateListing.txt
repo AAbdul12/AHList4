@@ -309,3 +309,22 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318170496211	2023-07-10	73-140-anketell-street-greenway-canberra	$399,000+
 1318170704711	2023-07-10	154-77-northbourne-avenue-turner-canberra	$550,000
 1318173629511	2023-07-10	124-de-little-circuit-greenway-canberra	$875,000+
+1318131152711	2023-07-11	205-358-northbourne-avenue-dickson-canberra	$600,000+
+1318139783311	2023-07-11	block-23-31-malcolm-cole-terrace-whitlam-canberra	$2,700,000
+1318158063711	2023-07-11	5-120-giles-street-kingston-canberra	$1,795,000+
+1318158596311	2023-07-11	34-15-howitt-street-kingston-canberra	Offers Above $550,000
+1318158767711	2023-07-11	132-mcmichael-terrace-denman-prospect-canberra	$900,000
+1318158892911	2023-07-11	12-golgerth-street-denman-prospect-canberra	$990,000
+1318163822711	2023-07-11	8-barcoo-place-kaleen-canberra	$875,000
+1318166188511	2023-07-11	305-4-anzac-park-campbell-canberra	$540,000+
+1318171372111	2023-07-11	203-63-dooring-street-dickson-canberra	$660,000+
+1318173726211	2023-07-11	1-11-clara-close-amaroo-canberra	$650,000-$700,000
+1318114261411	2023-07-12	50-sibosado-street-denman-prospect-canberra	$740,000-$1,400,000
+1318160312011	2023-07-12	172-15-mower-place-phillip-canberra	$650,000 +
+1318160528811	2023-07-12	36-norman-fisher-circuit-bruce-canberra	$1,099,000
+1318164882211	2023-07-12	9-135-easty-street-phillip-canberra	$615,000+
+1318165173911	2023-07-12	19-macalister-crescent-curtin-canberra	$1,020,000
+1318166523111	2023-07-12	79-64-college-street-belconnen-canberra	$420,000
+1318166789011	2023-07-12	23-roseworthy-crescent-farrer-canberra	$1,599,000
+1318167127111	2023-07-12	68-2-mcmichael-terrace-denman-prospect-canberra	$455,000
+1318163494711	2023-07-13	8-pholeros-way-taylor-canberra	$679,000
