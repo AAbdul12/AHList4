@@ -328,3 +328,52 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318166789011	2023-07-12	23-roseworthy-crescent-farrer-canberra	$1,599,000
 1318167127111	2023-07-12	68-2-mcmichael-terrace-denman-prospect-canberra	$455,000
 1318163494711	2023-07-13	8-pholeros-way-taylor-canberra	$679,000
+1318137946911	2023-07-14	10-thynne-street-bruce-canberra	$345,000+
+1318139817111	2023-07-14	240-southern-cross-drive-latham-canberra	$850,000-$900,000
+1318173545911	2023-07-14	42-mainwaring-rich-circuit-palmerston-canberra	$670,000-$700,000
+1318003841111	2023-07-15	73-15-bowman-street-macquarie-canberra	$550,000+
+1318168863511	2023-07-15	5b-reynolds-street-curtin-canberra	$1,799,000
+1317548853611	2023-07-16	no-street-name-provided-moncrieff-canberra	$850,000+
+1318175551911	2023-07-16	135-45-catalano-street-wright-canberra	$675,000+
+1318163499211	2023-07-17	61-77-gozzard-street-gungahlin-canberra	$345,000
+1318167375611	2023-07-17	21-19-moorhouse-street-o-connor-canberra	$499,000
+1318170112811	2023-07-17	85-2-peter-cullen-way-wright-canberra	$625,000+
+1318135780711	2023-07-18	74-longmore-crescent-wanniassa-canberra	By Negotiation
+1318165728111	2023-07-18	15-walter-hood-lane-red-hill-canberra	$1,350,000 - $1,450,000
+1318170756111	2023-07-18	702-21-marcus-clarke-street-city-canberra	Offers over $695,000
+1318173398711	2023-07-18	3-djerrkura-street-bonner-canberra	$690,000+
+1318175500711	2023-07-18	15-2-bamblett-rise-denman-prospect-canberra	$529,000+
+1318053745311	2023-07-19	44-hazel-hawke-avenue-whitlam-canberra	$699,000+
+1318129541611	2023-07-19	64-vahland-street-taylor-canberra	$1,150,000 - $1,200,000
+1318137693511	2023-07-19	16-banner-street-o-connor-canberra	By Negotiation
+1318142174211	2023-07-19	3-10-canterbury-crescent-deakin-canberra	$2,880,000
+1318149261711	2023-07-19	57-maggie-scott-terrace-whitlam-canberra	By Negotiation
+1318168215811	2023-07-19	807-335-anketell-street-greenway-canberra	Offers Over $385,000
+1318170698811	2023-07-19	33-melomys-circuit-throsby-canberra	$ 925,000 +
+1318171619311	2023-07-19	22-28-torrens-street-braddon-canberra	$595,000+
+1318172708711	2023-07-19	3-3a-ashley-drive-wanniassa-canberra	$1,100,000
+1318173282811	2023-07-19	1-35-withnell-circuit-kambah-canberra	By Negotiation
+1318175987011	2023-07-19	40-allman-circuit-macquarie-canberra	$699,000+
+1318149784211	2023-07-20	1-malcolm-cole-terrace-whitlam-canberra	$1,189,000 +
+1318155896011	2023-07-20	10-4-6-coolac-place-braddon-canberra	Offers Over $1,399,900
+1318168419411	2023-07-20	302-6-grazier-lane-belconnen-canberra	$388,000
+1318170448511	2023-07-20	2001-3-grazier-lane-belconnen-canberra	$410,000+
+1318171793511	2023-07-20	9-47-49-lorraway-street-holt-canberra	Offers Over $699,000
+1318171816911	2023-07-20	46-57-benjamin-way-belconnen-canberra	$575,000 - $605,000
+1318174737011	2023-07-20	12-2-hoffmann-street-moncrieff-canberra	$699,000+
+1317938931911	2023-07-21	vivace-north-facing-3-bed-townhome-with-25-bath-and-2-car-throsby-canberra	$759,900+
+1318084375811	2023-07-21	vivace-3-bedroom-with-25-bathrooms-and-oversized-tandem-garage-throsby-canberra	$729,900
+1318103255911	2023-07-21	vivace-one-of-a-kind-4-bedroom-with-rumpus-corner-townhome-throsby-canberra	$949,900+
+1318118919911	2023-07-21	vivace-large-4-bedroom-2-storey-townhome-with-double-garage-throsby-canberra	$949,900+
+1318165211911	2023-07-21	stage-2b-block-a-section-ax-denman-prospect-canberra	$749,000
+1318166702111	2023-07-21	6-51-sandover-circuit-amaroo-canberra	By Negotiation
+1318173757511	2023-07-21	85-mcmichael-terrace-denman-prospect-canberra	$769,900+
+1318173778711	2023-07-21	26-1-calaby-street-coombs-canberra	$679,900+
+1318176047811	2023-07-21	52-225-robin-boyd-crescent-taylor-canberra	$599,900
+1318088366211	2023-07-22	6b-freshwater-street-throsby-canberra	$759,900+
+1318173540811	2023-07-22	27-diamond-street-amaroo-canberra	$899,000+
+1318175484511	2023-07-22	33-20-beissel-street-belconnen-canberra	$599,000+
+1318175950311	2023-07-22	84-13-chandler-street-belconnen-canberra	$648,000-$678,000
+1318137468911	2023-07-23	19-14-16-new-south-wales-crescent-forrest-canberra	By Negotiation
+1318168664111	2023-07-23	6-147-bill-ferguson-circuit-bonner-canberra	Contact Agent
+1318100990611	2023-07-24	elia-23-1-devenish-street-taylor-act-2917-taylor-canberra	$779,900
