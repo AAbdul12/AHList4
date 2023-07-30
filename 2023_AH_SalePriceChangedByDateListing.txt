@@ -377,3 +377,37 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318137468911	2023-07-23	19-14-16-new-south-wales-crescent-forrest-canberra	By Negotiation
 1318168664111	2023-07-23	6-147-bill-ferguson-circuit-bonner-canberra	Contact Agent
 1318100990611	2023-07-24	elia-23-1-devenish-street-taylor-act-2917-taylor-canberra	$779,900
+1318143912111	2023-07-24	4-bray-place-curtin-canberra	$1,200,000+
+1318146334411	2023-07-24	13-eggins-street-denman-prospect-canberra	$735,000 - $755,000
+1318166848611	2023-07-24	10-ada-norris-avenue-denman-prospect-canberra	$1,649,000+
+1318170225411	2023-07-24	8-quokka-street-throsby-canberra	$929,000 +
+1318171412311	2023-07-24	2501-15-bowes-street-phillip-canberra	$1,900,000+
+1318172990111	2023-07-24	207-484-northbourne-ave-dickson-canberra	$469,000+
+1318173867711	2023-07-24	28-gilmore-crescent-garran-canberra	$1,150,000 - $1,200,000
+1318177279711	2023-07-24	13-frearson-street-strathnairn-canberra	$1,050,000-$1,150,000
+1318107241911	2023-07-25	block-c-section-bk-strathnairn-canberra	$790,000 - $840,000
+1318147489611	2023-07-25	28-84-kings-canyon-street-harrison-canberra	Offers over $660,000
+1318159653811	2023-07-25	22-18-cornelius-street-coombs-canberra	$699,000+
+1318164875111	2023-07-25	10-gruzman-view-taylor-canberra	$1,379,000+
+1318168628311	2023-07-25	607-2-marcus-clarke-street-city-canberra	$665,000+
+1318169383711	2023-07-25	8-tooms-place-lyons-canberra	$895,000
+1318171534011	2023-07-25	33-11-wimmera-street-harrison-canberra	$475,000 - $525,000
+1318173667011	2023-07-25	74-128-john-gorton-drive-coombs-canberra	$799,000+
+1318174781211	2023-07-25	22-murrung-crescent-ngunnawal-canberra	$729,000
+1318175873711	2023-07-25	101-59-constitution-avenue-campbell-canberra	$730,000 - $780,000
+1318175937611	2023-07-25	26-29-state-circle-deakin-canberra	$499,000+
+1318172194911	2023-07-26	2012-120-eastern-valley-way-belconnen-canberra	$350,000 - $400,000
+1318175159611	2023-07-26	91-148-flemington-road-harrison-canberra	$345,000+
+1318175669311	2023-07-26	25-dalziel-street-gowrie-canberra	$920,000+
+1318023025911	2023-07-27	703-240-bunda-street-city-canberra	By Negotiation
+1318072081611	2023-07-27	form-3-bedroom-2-bathroom-with-double-car-garage-coombs-canberra	$699,900
+1318171826611	2023-07-27	36-fisken-crescent-kambah-canberra	$1,225,000
+1318173661111	2023-07-27	504-47-currong-street-north-braddon-canberra	$699,000+
+1318174502311	2023-07-27	80-60-john-gorton-drive-coombs-canberra	$630,000
+1318172279211	2023-07-28	1-mari-funaki-street-whitlam-canberra	$ 1,549,000+
+1318177248311	2023-07-28	5-29-state-circle-deakin-canberra	$520,000
+1318168863511	2023-07-29	5b-reynolds-street-curtin-canberra	$1,699,000+
+1318173719311	2023-07-29	2-130-blamey-crescent-campbell-canberra	$1,700,000+
+1318175247111	2023-07-29	8-helmrich-street-moncrieff-canberra	By Negotiation
+1318108843711	2023-07-30	5-clothier-street-strathnairn-canberra	$600,000+
+1318175952511	2023-07-30	11-joe-croft-street-bonner-canberra	$950,000+
