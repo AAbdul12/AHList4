@@ -411,3 +411,25 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318175247111	2023-07-29	8-helmrich-street-moncrieff-canberra	By Negotiation
 1318108843711	2023-07-30	5-clothier-street-strathnairn-canberra	$600,000+
 1318175952511	2023-07-30	11-joe-croft-street-bonner-canberra	$950,000+
+1317938931911	2023-07-31	vivace-north-facing-3-bed-townhome-with-25-bath-and-2-car-throsby-canberra	$760,000+
+1318113020311	2023-07-31	2-eardley-street-bruce-canberra	$445,000+
+1318137946911	2023-07-31	10-thynne-street-bruce-canberra	$335,000+
+1318163109811	2023-07-31	4-pogney-place-richardson-canberra	$600,000- $650,000
+1318171354711	2023-07-31	129-bernard-heinze-avenue-moncrieff-canberra	$729,000 +
+1318173549711	2023-07-31	415-25-edinburgh-avenue-city-canberra	$495,000+
+1318175451811	2023-07-31	39-ivo-whitton-circuit-kambah-canberra	$1,800,000+
+1318175890811	2023-07-31	707-1-grazier-lane-belconnen-canberra	$519,000+
+1318175920311	2023-07-31	81-1-anthony-rolfe-avenue-gungahlin-canberra	$520,000+
+1318175987011	2023-07-31	40-allman-circuit-macquarie-canberra	$649,000 +
+1318176043311	2023-07-31	301-241-northbourne-avenue-lyneham-canberra	Offers Over $690,000
+1317836581311	2023-08-01	no-street-name-provided-whitlam-canberra	$1,190,000
+1318150108011	2023-08-01	314-80-chandler-street-belconnen-canberra	Offers above $449,000+
+1318153110911	2023-08-01	86-14-hoolihan-street-denman-prospect-canberra	$798,000
+1318163808911	2023-08-01	1001-15-bowes-street-phillip-canberra	$389,000 +
+1318171812911	2023-08-01	75-2-mcmichael-terrace-denman-prospect-canberra	$480,000
+1318173757511	2023-08-01	85-mcmichael-terrace-denman-prospect-canberra	$749,000
+1318175587011	2023-08-01	207-16-moore-street-city-canberra	Offers over $615,000
+1318175649411	2023-08-01	28-mary-lee-street-bonython-canberra	$1,000,000 to $1,050,000
+1318177440211	2023-08-01	59-1-mouat-street-lyneham-canberra	Offers Over $425,000
+1318178924011	2023-08-01	180-41-philip-hodgins-street-wright-canberra	$409,000+
+1318178926111	2023-08-01	11-cashman-street-denman-prospect-canberra	$1,549,000+
