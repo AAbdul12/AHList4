@@ -433,3 +433,27 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318177440211	2023-08-01	59-1-mouat-street-lyneham-canberra	Offers Over $425,000
 1318178924011	2023-08-01	180-41-philip-hodgins-street-wright-canberra	$409,000+
 1318178926111	2023-08-01	11-cashman-street-denman-prospect-canberra	$1,549,000+
+1318124383611	2023-08-02	727-1-elouera-street-braddon-canberra	$625,000 - $650,000
+1318154683611	2023-08-02	93-stonehaven-crescent-deakin-canberra	$1,895,000
+1318155057911	2023-08-02	69-14-hoolihan-street-denman-prospect-canberra	$578,000
+1318168502411	2023-08-02	74a-mcmichael-terrace-denman-prospect-canberra	$699,000 - $739,000
+1318170295611	2023-08-02	26-fullston-way-holt-canberra	$1,350,000+
+1318173393111	2023-08-02	5-31-eastlake-parade-kingston-canberra	$520,000
+1318173445111	2023-08-02	14-34-leahy-close-narrabundah-canberra	$620,000 - $645,000
+1318174823111	2023-08-02	1804-161-emu-bank-belconnen-canberra	$780,000
+1318175452311	2023-08-02	376-1-anthony-rolfe-avenue-gungahlin-canberra	$375,000
+1318175551911	2023-08-02	135-45-catalano-street-wright-canberra	$650,000
+1318176065811	2023-08-02	15-111-canberra-avenue-griffith-canberra	$630,000 +
+1318105261911	2023-08-03	block-c-section-ax-denman-prospect-canberra	$699,000+
+1318149737511	2023-08-03	10-custance-street-farrer-canberra	$1,399,000+
+1318168354111	2023-08-03	8-6-goodchild-street-lyneham-canberra	$648,000
+1318170110111	2023-08-03	412-107-canberra-avenue-griffith-canberra	$699,000+ (Offers welcome)
+1318171655111	2023-08-03	123-bettong-avenue-throsby-canberra	By Negotiation
+1318175107611	2023-08-03	8-30-blackall-street-barton-canberra	$820,000 - $840,000
+1318176066511	2023-08-03	57-tazewell-circuit-nicholls-canberra	$900,000+
+1318033824811	2023-08-04	industry-north-corner-3-bedroom-terrace-home-braddon-canberra	$1,399,000
+1318143701611	2023-08-04	177-41-philip-hodgins-street-wright-canberra	$385,000
+1318145276611	2023-08-04	18-laughton-street-chisholm-canberra	$955,000
+1318168633611	2023-08-04	taylor-by-verv-8-esplin-street-taylor-canberra	$1,200,000+
+1318171272911	2023-08-04	16-eungella-street-duffy-canberra	$945,000
+1318180595311	2023-08-04	216-55-currong-street-braddon-canberra	$480,000 +
