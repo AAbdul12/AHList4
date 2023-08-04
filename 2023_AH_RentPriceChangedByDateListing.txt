@@ -1148,6 +1148,7 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318177290611	2023-08-04	809-1-elourea-street-braddon-canberra	$530 pw
 1318177292811	2023-08-04	7-hobson-place-ainslie-canberra	$800 per week
 1318177296711	2023-08-04	2211-2-grazier-lane-belconnen-canberra	$630 per week
+1318178043511	2023-08-04	10-montefiore-crescent-conder-canberra	$725 per week
 1318178914411	2023-08-04	424-22-lonsdale-street-braddon-canberra	$515 per week
 1318179255311	2023-08-04	9-75-bellhouse-cres-moncrieff-canberra	$650 per week
 1318180866511	2023-08-04	40-nsw-crescent-barton-canberra	$1150 per week
