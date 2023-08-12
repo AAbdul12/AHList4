@@ -508,4 +508,5 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318165510611	2023-08-11	6-freebury-street-denman-prospect-canberra	$1,195,000+
 1318175530911	2023-08-11	812-15-bowes-street-phillip-canberra	$515,000 +
 1318182411311	2023-08-11	66-marie-pitt-street-franklin-canberra	Offers Over $1,400,000
+1318072253111	2023-08-12	calypso-three-bedroom-penthouse-dickson-canberra	$1,085,000+
 1318175484511	2023-08-12	33-20-beissel-street-belconnen-canberra	$570,000+
