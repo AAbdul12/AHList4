@@ -185,8 +185,8 @@ ListingId	DateTime	URL
 181033687	2022-10-06 18:44:20	hakea-type-3-denman-prospect-act-2611?tid=181033687
 181040653	2022-10-13 00:00:00	38-rochelle-street-moncrieff-act-2914
 181040971	2022-10-17 09:36:48	26-cynthea-teague-crescent-greenway-act-2900?tid=181040971
-181050819	2022-10-25 00:00:00	unit-61-9-irving-street-phillip-act-2606
 181050819	2022-10-25 19:30:26	unit-61-9-irving-street-phillip-act-2606
+181050819	2022-10-25 00:00:00	unit-61-9-irving-street-phillip-act-2606
 181052394	2022-10-13 11:00:59	8-schomburgk-street-yarralumla-act-2600
 181057076	2022-10-14 11:42:01	13-fairfield-street-crace-act-2911
 181072835	2022-10-27 15:42:05	g6-the-zara-penthouse-gungahlin-act-2912?tid=181072835
@@ -256,8 +256,8 @@ ListingId	DateTime	URL
 181229449	2023-01-19 09:14:53	ekko-3-bedroom-townhouse-whitlam-act-2611?tid=181229449
 181235808	2023-02-02 14:26:34	the-markets-residences-truly-iconic-custom-design-penthouse-collection-belconnen-act-2617?tid=181235808
 181236280	2023-01-06 18:30:15	15-dulcie-holland-crescent-moncrieff-act-2914
-181237089	2023-02-08 09:57:30	the-markets-residences-perfect-townhouse-alternative-3-bd-2-bth-winter-garden-belconnen-act-2617?tid=181237089
 181237089	2023-02-08 09:57:30	the-markets-residences-nrth-view-3-bed-custom-living-ev-sustainability-pack-belconnen-act-2617?tid=181237089
+181237089	2023-02-08 09:57:30	the-markets-residences-perfect-townhouse-alternative-3-bd-2-bth-winter-garden-belconnen-act-2617?tid=181237089
 181237091	2023-01-25 14:29:20	ekko-2-bedroom-townhouse-whitlam-act-2611?tid=181237091
 181243639	2023-06-02 16:22:08	35-hawke-street-googong-nsw-2620
 181244729	2022-12-21 15:20:30	15-hayes-street-queanbeyan-nsw-2620
@@ -1064,8 +1064,8 @@ ListingId	DateTime	URL
 181553397	2023-06-19 14:16:34	26-cynthea-teague-crescent-greenway-act-2900?tid=181553397
 181553398	2023-06-19 14:20:42	26-cynthea-teague-crescent-greenway-act-2900?tid=181553398
 181553437	2023-04-21 02:32:15	16-whitmore-crescent-watson-act-2602
-181553871	2023-04-20 20:32:04	lot-3104-googong-road-googong-nsw-2620?tid=181553871
 181553871	2023-04-20 20:32:04	googong-nsw-2620?tid=181553871
+181553871	2023-04-20 20:32:04	lot-3104-googong-road-googong-nsw-2620?tid=181553871
 181554064	2023-04-21 10:32:01	29-toppano-street-moncrieff-act-2914
 181554242	2023-04-21 10:32:08	13-landsborough-street-griffith-act-2603
 181554336	2023-04-21 09:42:05	33-lockyer-street-griffith-act-2603
@@ -1149,8 +1149,8 @@ ListingId	DateTime	URL
 181575240	2023-05-01 16:42:11	unit-47-71-giles-street-kingston-act-2604
 181575538	2023-05-01 17:32:02	30-saltbush-parade-tralee-nsw-2620
 181575727	2023-06-19 12:31:06	150-anketell-street-greenway-act-2900?tid=181575727
-181575728	2023-05-05 14:48:07	south-jerrabomberra-homes-by-village-lot-918-tralee-nsw-2620?tid=181575728
 181575728	2023-05-05 14:48:07	south-jerrabomberra-homes-by-the-village-building-co-lot-918-tralee-nsw-2620?tid=181575728
+181575728	2023-05-05 14:48:07	south-jerrabomberra-homes-by-village-lot-918-tralee-nsw-2620?tid=181575728
 181575730	2023-05-04 15:17:03	40-de-burgh-street-lyneham-act-2602?tid=181575730
 181575731	2023-05-09 11:34:10	40-de-burgh-street-lyneham-act-2602?tid=181575731
 181575739	2023-05-04 08:41:12	unit-113-1-the-causeway-kingston-act-2604
@@ -1164,8 +1164,8 @@ ListingId	DateTime	URL
 181577481	2023-05-02 13:21:01	29-paget-street-bruce-act-2617
 181577620	2023-05-02 12:52:03	89-newdegate-street-deakin-act-2600
 181577846	2023-05-05 11:23:12	south-jerrabomberra-homes-by-village-lot-902-tralee-nsw-2620?tid=181577846
-181577847	2023-05-05 14:30:06	south-jerrabomberra-homes-by-village-lot-914-tralee-nsw-2620?tid=181577847
 181577847	2023-05-05 14:30:06	south-jerrabomberra-homes-by-the-village-building-co-lot-914-tralee-nsw-2620?tid=181577847
+181577847	2023-05-05 14:30:06	south-jerrabomberra-homes-by-village-lot-914-tralee-nsw-2620?tid=181577847
 181577848	2023-05-04 15:17:42	40-de-burgh-street-lyneham-act-2602?tid=181577848
 181578405	2023-05-02 15:22:10	6-mcilveen-place-oxley-act-2903
 181579844	2023-05-02 18:10:24	14-rylah-crescent-wanniassa-act-2903
@@ -1479,8 +1479,8 @@ ListingId	DateTime	URL
 181610895	2023-05-15 14:01:04	54-pennington-crescent-calwell-act-2905
 181611821	2023-05-15 15:10:33	11-esmond-avenue-jerrabomberra-nsw-2619
 181617363	2023-05-15 16:31:26	20-coomera-street-harrison-act-2914
-181617537	2023-05-15 17:10:23	32-reginald-road-googong-nsw-2620
 181617537	2023-05-15 00:00:00	32-reginald-road-googong-nsw-2620
+181617537	2023-05-15 17:10:23	32-reginald-road-googong-nsw-2620
 181618064	2023-05-15 16:41:24	21-sue-geh-circuit-nicholls-act-2913
 181625924	2023-05-16 08:42:03	unit-1710-2-grazier-lane-belconnen-act-2617
 181626954	2023-05-16 13:00:48	unit-2-17-uriarra-road-queanbeyan-nsw-2620
