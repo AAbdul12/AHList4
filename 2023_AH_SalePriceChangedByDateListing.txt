@@ -496,6 +496,7 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318177994311	2023-08-09	1-17-higgins-place-higgins-canberra	$499,900+
 1318178435311	2023-08-09	16-2-pipeclay-street-lawson-canberra	Offers Above 649,000+
 1318181657111	2023-08-09	6-38-gozzard-street-gungahlin-canberra	Offers Above $499,000+
+1318151454511	2023-08-10	51-21-christina-stead-street-franklin-canberra	$365,000 - $385,000
 1318166555511	2023-08-10	55-57-benjamin-way-belconnen-canberra	$380,000+
 1318168579611	2023-08-10	50-amaroo-street-reid-canberra	By Negotiation
 1318170158611	2023-08-10	301-1-boolee-street-reid-canberra	$749,000+
@@ -504,3 +505,7 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318176010411	2023-08-10	24-endeavour-street-red-hill-canberra	$2,950,000+
 1318177225311	2023-08-10	15-ebeling-court-nicholls-canberra	$1,550,000-$1,650,000
 1318179716211	2023-08-10	180-robin-boyd-crescent-taylor-canberra	$1,320,000+
+1318165510611	2023-08-11	6-freebury-street-denman-prospect-canberra	$1,195,000+
+1318175530911	2023-08-11	812-15-bowes-street-phillip-canberra	$515,000 +
+1318182411311	2023-08-11	66-marie-pitt-street-franklin-canberra	Offers Over $1,400,000
+1318175484511	2023-08-12	33-20-beissel-street-belconnen-canberra	$570,000+
