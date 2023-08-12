@@ -1242,3 +1242,22 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318180735511	2023-08-10	46-9-irving-street-phillip-canberra	$620 per week
 1318181683511	2023-08-10	11-23-kellick-place-gordon-canberra	$550 per week
 1318181711711	2023-08-10	8-siroset-close-dunlop-canberra	$790 per week
+1318000063411	2023-08-11	109-81-cooyong-street-city-canberra	$720 - $730 per week
+1318052805811	2023-08-11	507-83-cooyong-street-reid-canberra	$700 per week
+1318169573911	2023-08-11	99-72-wentworth-ave-kingston-canberra	$550 per week
+1318172178111	2023-08-11	66-shakespeare-crescent-fraser-canberra	$650 per week
+1318174440611	2023-08-11	7-charteris-crescent-chifley-canberra	$535 per week
+1318174851011	2023-08-11	36-hopetoun-circuit-deakin-canberra	$650 per week
+1318177553511	2023-08-11	4-preiss-pl-kambah-canberra	$580 per week
+1318177584911	2023-08-11	39-london-circuit-city-canberra	$580 per week
+1318178498511	2023-08-11	1a-37-sculthorpe-avenue-whitlam-canberra	$720 per week
+1318178552411	2023-08-11	94-10-ipima-street-braddon-canberra	$550 pw
+1318179302511	2023-08-11	6-5-david-street-o-connor-canberra	$875 per week
+1318180297811	2023-08-11	39-1-allambee-street-reid-canberra	$750 per week
+1318180884511	2023-08-11	44-carcoar-terrace-watson-canberra	$590 Per Week
+1318181324911	2023-08-11	23-mackinolty-street-scullin-canberra	$605 per week
+1318181903011	2023-08-11	11-22-max-jacobs-avenue-wright-canberra	$580 pw
+1318181908411	2023-08-11	77-beechworth-street-watson-canberra	$610 Per Week
+1318149388411	2023-08-12	4-bedroom-study-vivace-throsby-canberra	$699 per week
+1318149404011	2023-08-12	4-bedroom-vivace-throsby-canberra	$799 per week
+1318149435611	2023-08-12	3-bedroom-vivace-throsby-canberra	$599 per week
