@@ -510,3 +510,38 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318182411311	2023-08-11	66-marie-pitt-street-franklin-canberra	Offers Over $1,400,000
 1318072253111	2023-08-12	calypso-three-bedroom-penthouse-dickson-canberra	$1,085,000+
 1318175484511	2023-08-12	33-20-beissel-street-belconnen-canberra	$570,000+
+1318178449111	2023-08-13	15-bowes-street-phillip-canberra	By Negotiation
+1318100990611	2023-08-14	elia-23-1-devenish-street-taylor-act-2917-taylor-canberra	$749,900+
+1318175920311	2023-08-14	81-1-anthony-rolfe-avenue-gungahlin-canberra	$465,000+
+1318175976411	2023-08-14	515-55-currong-street-braddon-canberra	469,000+
+1318176064911	2023-08-14	104-endeavour-street-red-hill-canberra	$2,349,000+
+1318176071911	2023-08-14	33-ada-baker-street-forde-canberra	By Negotiation
+1318180267911	2023-08-14	77-68-hardwick-crescent-holt-canberra	Offers over $525,000
+1318180626411	2023-08-14	215-robin-boyd-crescent-taylor-canberra	$1,029,000+
+1318180658611	2023-08-14	18-yellowfin-street-throsby-canberra	$895,000+
+1318181645311	2023-08-14	40-pat-lovell-crescent-whitlam-canberra	Offers above $639,000
+1318113020311	2023-08-15	2-eardley-street-bruce-canberra	$425,000+
+1318137360611	2023-08-15	302-15-bowes-street-phillip-canberra	$440,000.00+
+1318137693511	2023-08-15	16-banner-street-o-connor-canberra	$2,400,000
+1318147976911	2023-08-15	37-27-coxen-street-hughes-canberra	$240,000+
+1318168535111	2023-08-15	49-41-pearlman-street-coombs-canberra	$675,000
+1318173257411	2023-08-15	313-19-challis-street-dickson-canberra	Offers Above $429,900
+1318175932211	2023-08-15	401-258-northbourne-avenue-dickson-canberra	By Negotiation
+1318180306811	2023-08-15	33-lance-hill-avenue-dunlop-canberra	By Negotiation
+1318180623811	2023-08-15	18-8-baudinette-circuit-bruce-canberra	$385,000
+1318181200911	2023-08-15	7-2-eardley-street-bruce-canberra	Offers Over $380,000
+1318149620711	2023-08-16	44-9-braybrooke-street-bruce-canberra	$650,000 - $675,000
+1318153110911	2023-08-16	86-14-hoolihan-street-denman-prospect-canberra	$765,000+
+1318169882611	2023-08-16	23-69-morrison-street-kambah-canberra	Offers over $560,000
+1318170112811	2023-08-16	85-2-peter-cullen-way-wright-canberra	$599,000 - $625,000
+1318175835311	2023-08-16	49-40-philip-hodgins-street-wright-canberra	$720,000 - $750,000
+1318177865611	2023-08-16	21-41-leahy-close-narrabundah-canberra	$299,000
+1318177994211	2023-08-16	707-8-gribble-street-gungahlin-canberra	$430,000
+1318182034111	2023-08-16	9-keewong-street-crace-canberra	$1,060,000-$1,100,000
+1318182701311	2023-08-16	31-68-college-street-belconnen-canberra	$399,000
+1318174826011	2023-08-17	level-15-1511-120-eastern-valley-way-belconnen-canberra	$389,000
+1318177244911	2023-08-17	24-parkin-street-torrens-canberra	Offers Over $1,100,000
+1318178923911	2023-08-17	37-bruce-dittmar-street-forde-canberra	By Negotiation
+1318180300811	2023-08-17	41-nambucca-street-kaleen-canberra	$800,000+
+1318182289011	2023-08-17	g06-63-dooring-street-dickson-canberra	$680,000+
+1318182311811	2023-08-17	elia-22-1-devenish-street-taylor-act-2917-taylor-canberra	$699,900+
