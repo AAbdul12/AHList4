@@ -716,3 +716,36 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318187456911	2023-09-11	97-13-15-sturt-avenue-griffith-canberra	$530,000+
 1318187484111	2023-09-11	54-turbayne-crescent-forde-canberra	$909,000+
 1318188855811	2023-09-11	10-25-temperley-street-nicholls-canberra	$1,185,000+
+1318061351511	2023-09-12	no-street-name-provided-macnamara-canberra	$520,000 - $920,000
+1318163805311	2023-09-12	221-38-gozzard-street-gungahlin-canberra	$355,000+
+1318165054111	2023-09-12	34-1-gungahlin-place-gungahlin-canberra	$355,000+
+1318168687111	2023-09-12	321-325-anketell-street-greenway-canberra	By Negotiation
+1318181067211	2023-09-12	21-77-macarthur-avenue-o-connor-canberra	$435,000
+1318181685311	2023-09-12	33-glenelg-street-kaleen-canberra	$1,300,000-$1,350,000
+1318183734311	2023-09-12	26-baratta-street-crace-canberra	$899,000 - $949,000
+1318184939411	2023-09-12	346-1-mouat-street-lyneham-canberra	$645,000+
+1318186038311	2023-09-12	4-soderston-street-taylor-canberra	$1,499,000+
+1318189161611	2023-09-12	68-burrumarra-avenue-ngunnawal-canberra	$775,000-$825,000
+1318189266811	2023-09-12	78-lexcen-avenue-nicholls-canberra	$1,450,000-$1,550,000
+1318178032011	2023-09-13	3-18-kenyon-circuit-monash-canberra	$710,000
+1318185711111	2023-09-13	elia-42-227-robin-boyd-crescent-taylor-act-taylor-canberra	$569,900
+1318187591211	2023-09-13	17-115-canberra-avenue-griffith-canberra	$669,000+
+1318188891911	2023-09-13	35-petersilka-street-gungahlin-canberra	$995,000 - $1,045,000
+1318189008611	2023-09-13	8-137-jabanungga-avenue-ngunnawal-canberra	$649,000 - $679,000
+1318116335211	2023-09-14	24-beasley-street-pearce-canberra	By Negotiation
+1318145276611	2023-09-14	18-laughton-street-chisholm-canberra	$945,000
+1318168741311	2023-09-14	bolza-street-macnamara-canberra	$999,000+
+1318181920611	2023-09-14	block-o-section-bk-macnamara-canberra	$695,000
+1318182660211	2023-09-14	5-normanby-crescent-deakin-canberra	$3,900,000+
+1318183589011	2023-09-14	724-81-cooyong-st-reid-canberra	$699,000
+1318184052811	2023-09-14	26-5-sydney-avenue-barton-canberra	$545,000+
+1318185694011	2023-09-14	83-1-windjana-street-harrison-canberra	$499,000+
+1318185856211	2023-09-14	2-17-macleay-street-turner-canberra	829,000+
+1318187444311	2023-09-14	42-kirkwood-crescent-gordon-canberra	$989,000
+1318189065311	2023-09-14	5-3-dyara-close-ngunnawal-canberra	$585,000+
+1318142254311	2023-09-15	29-21-wiseman-street-macquarie-canberra	$299,000+
+1318171412311	2023-09-15	2501-15-bowes-street-phillip-canberra	$1,750,000+
+1318183738611	2023-09-15	37-nangor-street-waramanga-canberra	$995,000
+1318175551911	2023-09-16	135-45-catalano-street-wright-canberra	By Negotiation
+1318183911911	2023-09-16	11-woralul-street-waramanga-canberra	By Negotiation
+1318190101311	2023-09-16	156-miller-street-o-connor-canberra	$1,400,000+
