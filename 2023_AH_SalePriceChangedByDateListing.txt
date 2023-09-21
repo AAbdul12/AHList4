@@ -749,3 +749,41 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318175551911	2023-09-16	135-45-catalano-street-wright-canberra	By Negotiation
 1318183911911	2023-09-16	11-woralul-street-waramanga-canberra	By Negotiation
 1318190101311	2023-09-16	156-miller-street-o-connor-canberra	$1,400,000+
+1318178989511	2023-09-17	33-getting-crescent-campbell-canberra	By Negotiation
+1318180270711	2023-09-17	145-64-college-street-belconnen-canberra	By Negotiation
+1318174502311	2023-09-18	80-60-john-gorton-drive-coombs-canberra	$585,000+
+1318178449111	2023-09-18	15-bowes-street-phillip-canberra	$629,000
+1318182014911	2023-09-18	29-311-anketell-street-greenway-canberra	$489,000+
+1318187466611	2023-09-18	29-paul-coe-crescent-ngunnawal-canberra	$920,000
+1318188233411	2023-09-18	6-wallaby-place-nicholls-canberra	$899,000+
+1318188242011	2023-09-18	31-ruby-hunter-rise-moncrieff-canberra	$1,059,999+
+1318189142811	2023-09-18	46-10-burke-crescent-kingston-canberra	$550,000 - $575,000
+1318074538811	2023-09-19	302-1-boolee-street-reid-canberra	$849,900
+1318148479511	2023-09-19	31-renouf-street-casey-canberra	By Negotiation
+1318180579411	2023-09-19	91-259-northbourne-avenue-lyneham-canberra	$750,000+
+1318185383811	2023-09-19	2601-3-grazier-lane-belconnen-canberra	$845,000 - $885,000
+1318187086311	2023-09-19	514-100-swain-street-gungahlin-canberra	$399,900
+1318190862611	2023-09-19	99-pockett-avenue-banks-canberra	$729,000+
+1318104911811	2023-09-20	14-dale-circuit-kambah-canberra	$1,050,000+
+1318147974411	2023-09-20	1712-120-eastern-valley-way-belconnen-canberra	$379,000+
+1318170114111	2023-09-20	3-radburn-street-taylor-canberra	By Negotiation
+1318175500711	2023-09-20	15-2-bamblett-rise-denman-prospect-canberra	$495,000+
+1318175505211	2023-09-20	92-104-henry-kendall-street-franklin-canberra	$525,000+
+1318177877811	2023-09-20	46-20-eyre-street-kingston-canberra	$699,000-$729,000
+1318182301811	2023-09-20	6-kendall-place-nicholls-canberra	$1,299,000+
+1318184125711	2023-09-20	27-fitchett-street-garran-canberra	$1,800,000+
+1318186098411	2023-09-20	24-18-ruzicka-street-taylor-canberra	$529,990
+1318187118011	2023-09-20	151-45-catalano-street-wright-canberra	Offers Over $489,000+
+1318187571111	2023-09-20	401-6-gribble-street-gungahlin-canberra	$549,000+
+1318187572511	2023-09-20	9-belmore-gardens-barton-canberra	By Negotiation
+1318188436311	2023-09-20	30-1-gungahlin-place-gungahlin-canberra	$340,000 +
+1318190162411	2023-09-20	56-dooland-court-nicholls-canberra	By Negotiation
+1318160390611	2023-09-21	2701-1-grazier-lane-belconnen-canberra	$949,000+
+1318178510311	2023-09-21	124-2-hinder-street-gungahlin-canberra	$525,000+
+1318183528111	2023-09-21	7-murrjinelle-circuit-bonner-canberra	Offers above $699,000
+1318183911911	2023-09-21	11-woralul-street-waramanga-canberra	1million +
+1318185704711	2023-09-21	55-40-swain-street-gungahlin-canberra	$309,000+
+1318187148211	2023-09-21	1-spooner-street-taylor-canberra	By Negotiation
+1318187417911	2023-09-21	84-25-pinkerton-circuit-lakeview-gardens-kambah-canberra	$709,000
+1318189088511	2023-09-21	30-bainbridge-close-chisholm-canberra	For Sale $1,050,000
+1318191246011	2023-09-21	96-230-flemington-road-harrison-canberra	$449,000+
