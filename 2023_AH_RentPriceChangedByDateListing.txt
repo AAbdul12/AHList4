@@ -1723,3 +1723,87 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318190686311	2023-09-15	501-1-elouera-street-braddon-canberra	$600 per week
 1318190918311	2023-09-15	528-335-anketell-street-greenway-canberra	$620 per week
 1318184497711	2023-09-16	199-robin-boyd-crescent-taylor-canberra	$750 per week
+1318188514911	2023-09-17	610-222-city-walk-city-canberra	$500 per week
+1318172554311	2023-09-18	98-vasey-crescent-campbell-canberra	$1,000 per week
+1318178498511	2023-09-18	1a-37-sculthorpe-avenue-whitlam-canberra	$670 per week
+1318181076411	2023-09-18	34-15-limburg-way-greenway-canberra	$600 pw
+1318181895911	2023-09-18	127-gilmore-crescent-garran-canberra	$630 pw
+1318184118111	2023-09-18	5-46-kings-canyon-st-harrison-canberra	$695 per week
+1318185397611	2023-09-18	406-42-mort-st-braddon-canberra	$710 per week
+1318185557711	2023-09-18	4-38-burnie-street-lyons-canberra	$840 per week
+1318185756611	2023-09-18	19-58-wentworth-avenue-kingston-canberra	$650 per week
+1318186659611	2023-09-18	24-lester-terrace-moncrieff-canberra	$725 per week
+1318186980511	2023-09-18	17-gosman-close-oxley-canberra	$580 per week
+1318187262011	2023-09-18	2-carroll-street-hughes-canberra	$640 per week
+1318187516911	2023-09-18	4-8-giles-street-kingston-canberra	$520 per week
+1318188771211	2023-09-18	127-eggleston-crescent-chifley-canberra	$630
+1318189820411	2023-09-18	12-31-giles-street-kingston-canberra	$525 per week
+1318190519311	2023-09-18	1-15-wanderlight-avenue-lawson-canberra	$680 per week
+1318190538611	2023-09-18	108-mainwaring-rich-circuit-palmerston-canberra	$580 per week
+1318191266811	2023-09-18	3-17-eastlake-parade-kingston-canberra	$780 per week
+1318191273611	2023-09-18	85-1-surprize-place-phillip-canberra	$465 per week
+1318191532811	2023-09-18	102a-2-gribble-street-gungahlin-canberra	$415 per week
+1318191549611	2023-09-18	506-42-mort-st-braddon-canberra	$680 per week
+1318180331311	2023-09-19	1a-33-sculthorpe-avenue-whitlam-canberra	$670 per week
+1318182110511	2023-09-19	715-240-bunda-street-city-canberra	$720 pw
+1318184128711	2023-09-19	11-41-hampton-circuit-yarralumla-canberra	$460 per week
+1318184372811	2023-09-19	67-beechworth-street-watson-canberra	$650 per week
+1318184992311	2023-09-19	46-47-mcmillan-crescent-griffith-canberra	$400 pw
+1318186354711	2023-09-19	10-boucicault-place-chapman-canberra	$1,250 per week
+1318186652211	2023-09-19	2-14-holder-street-turner-canberra	$925 per week
+1318187343411	2023-09-19	3-169-oodgeroo-avenue-franklin-canberra	$480 per week
+1318188764211	2023-09-19	11-haines-street-curtin-canberra	$1,100 per week
+1318188926011	2023-09-19	7-mundawari-circuit-ngunnawal-canberra	$570 per week
+1318189300911	2023-09-19	12-43-hampton-circuit-yarralumla-canberra	$760 per week
+1318189525511	2023-09-19	92-lambrigg-street-farrer-canberra	$580pw
+1318189892311	2023-09-19	705-15-bowes-st-phillip-canberra	$490 per week
+1318191910211	2023-09-19	7-cann-close-palmerston-canberra	$570 pw
+1318191927711	2023-09-19	610-16-moore-street-city-canberra	$750 per week
+1318192002011	2023-09-19	12-portus-place-bruce-canberra	$900 per week
+1318171665111	2023-09-20	7-17-trevillian-quay-kingston-canberra	$2,400  pw
+1318172677211	2023-09-20	49-9-15-oxley-street-griffith-canberra	$430 pw
+1318182834711	2023-09-20	no-street-name-provided-watson-canberra	$650 pw
+1318185212511	2023-09-20	6-71-mina-wylie-crescent-gordon-canberra	$510 pw
+1318185726611	2023-09-20	9-7-purnell-place-calwell-canberra	$720 per week
+1318186057611	2023-09-20	2-75-torrens-street-braddon-canberra	$560 per week
+1318186110811	2023-09-20	118-ida-west-street-bonner-canberra	$695 per week
+1318186325611	2023-09-20	6-139-143-blamey-cres-campbell-canberra	$530 per week
+1318187633411	2023-09-20	1-43-majura-avenue-dickson-canberra	$895 per week
+1318187635311	2023-09-20	3-43-majura-avenue-dickson-canberra	$795 per week
+1318187651211	2023-09-20	2-43-majura-avenue-dickson-canberra	$845 per week
+1318187897711	2023-09-20	4-12-ellison-harvie-close-greenway-canberra	$700 Per Week
+1318188137611	2023-09-20	38-227-robin-boyd-crescent-taylor-canberra	$570 per week
+1318188415511	2023-09-20	20-12-ellison-harvie-close-greenway-canberra	$620 Per Week
+1318188422411	2023-09-20	22-12-ellison-harvie-close-greenway-canberra	$560 Per Week
+1318188438111	2023-09-20	23-12-ellison-harvey-close-greenway-canberra	$750 Per Week
+1318188812911	2023-09-20	4-43-majura-avenue-dickson-canberra	$795 per week
+1318190004511	2023-09-20	61-39-woodberry-avenue-coombs-canberra	$560 per week
+1318190169011	2023-09-20	1612-240-bunda-street-city-canberra	$1,400 per week
+1318190354711	2023-09-20	30-blamey-crescent-campbell-canberra	$760 per week
+1318190907611	2023-09-20	17-22-jelinek-street-taylor-canberra	$700 per week
+1318190953911	2023-09-20	65-11-trevillian-quay-kingston-canberra	$790 per week
+1318191529011	2023-09-20	27-29-state-circle-deakin-canberra	$575 per week
+1318068670511	2023-09-21	no-street-name-provided-kaleen-canberra	$620 per week
+1318110703611	2023-09-21	3-john-winter-street-gungahlin-canberra	$850 per week
+1318149434811	2023-09-21	3-bedroom-rumpus-vivace-throsby-canberra	$649 per week
+1318158504111	2023-09-21	5-hogg-street-casey-canberra	$640 per week
+1318171273311	2023-09-21	37-gellibrand-street-campbell-canberra	$990 per week
+1318177323811	2023-09-21	141-15-coranderrk-street-city-canberra	$500-$580 per week
+1318177707311	2023-09-21	76-17-19-oxley-street-griffith-canberra	$430 pw
+1318178645811	2023-09-21	2-diane-barwick-st-franklin-canberra	$1,250 per week
+1318179603011	2023-09-21	24-fuller-street-deakin-canberra	$790 per week
+1318180334211	2023-09-21	32-charteris-crescent-chifley-canberra	$1050 per week
+1318180526811	2023-09-21	79-dumas-st-mckellar-canberra	$900 per week
+1318183892811	2023-09-21	1-15-fitzroy-street-forrest-canberra	$575 per week
+1318184388711	2023-09-21	25-71-mina-wylie-crescent-gordon-canberra	$495 per week
+1318184780811	2023-09-21	44-67-negus-crescent-watson-canberra	$720
+1318185230711	2023-09-21	114-plimsoll-drive-casey-canberra	$650
+1318187418811	2023-09-21	8-51-freda-bennett-circle-nicholls-canberra	$570 pw
+1318187878511	2023-09-21	2-44-lascelles-circuit-kambah-canberra	$770 per week
+1318189151311	2023-09-21	6-arnhem-place-red-hill-canberra	$840 per week
+1318189235211	2023-09-21	52-creswell-street-campbell-canberra	$960 per week
+1318190453111	2023-09-21	15-3-gordon-street-canberra-canberra	$700 per week
+1318191026911	2023-09-21	10-23-tay-street-watson-canberra	$455 Per Week
+1318191094311	2023-09-21	501-42-mort-street-braddon-canberra	$690 per week
+1318191290211	2023-09-21	80a-arndell-street-macquarie-canberra	$630 pw
+1318191570111	2023-09-21	10-1-basedow-street-torrens-canberra	$545 pw
