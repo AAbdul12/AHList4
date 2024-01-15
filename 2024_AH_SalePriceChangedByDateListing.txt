@@ -1,0 +1,30 @@
+ListingId	UpdateOnDate	Address	NewPrice
+1318201567211	2024-01-03	90-darwinia-terrace-chapman-canberra	$995,000+
+1318193731011	2024-01-08	1-18-horbury-street-phillip-canberra	$650,000 +
+1318212535011	2024-01-08	33-40-mort-street-braddon-canberra	$499,000+
+1317847743111	2024-01-09	no-street-name-provided-strathnairn-canberra	$950,000+
+1318202659511	2024-01-09	167-1-anthony-rolfe-avenue-gungahlin-canberra	$445,000+
+1318210685611	2024-01-09	1217-15-bowes-street-phillip-canberra	$575,000+
+1318082494211	2024-01-10	23-25-seahorse-street-throsby-canberra	$759,900+
+1318131089811	2024-01-10	1006-25-edinburgh-avenue-city-canberra	$475,000
+1318183818411	2024-01-10	14-limb-circuit-moncrieff-canberra	$999,000+
+1318194345811	2024-01-10	139-badimara-street-fisher-canberra	$899,000+
+1318197418911	2024-01-10	318-15-jardine-street-kingston-canberra	$810,000+
+1318207222911	2024-01-10	2-higham-place-dunlop-canberra	$710,000+
+1318207271611	2024-01-10	54-35-torrens-street-braddon-canberra	$420,000+
+1318212892411	2024-01-10	56-maitland-street-hackett-canberra	$1,250,000
+1318215062511	2024-01-10	14-adamson-crescent-wanniassa-canberra	$1,200,000+
+1317872107811	2024-01-11	69-jill-landsberg-terrace-strathnairn-canberra	$899,000+
+1318043152211	2024-01-11	telfer-street-coombs-canberra	$499,900+
+1318142979611	2024-01-11	allegro-oversized-3-bedroom-with-double-garage-throsby-canberra	$849,900+
+1318142979711	2024-01-11	allegro-large-3-bedroom-townhome-with-oversized-2-car-garage-storage-throsby-canberra	$799,900+
+1318147976911	2024-01-11	37-27-coxen-street-hughes-canberra	$210,000+
+1318196235611	2024-01-11	level-8-320-1-launceston-street-phillip-canberra	Offers over $440,000
+1318207233611	2024-01-11	98-jaeger-circuit-bruce-canberra	$1,790,000 - $1,890,000
+1318216454011	2024-01-11	68-phyllis-ashton-circuit-gungahlin-canberra	$890,000 +
+1318197765111	2024-01-12	34-barraclough-crescent-monash-canberra	$800,000+
+1318201584511	2024-01-13	804-15-bowes-street-phillip-canberra	$399,999 - $419,999
+1318210015711	2024-01-13	59-dobbin-circuit-nicholls-canberra	By Negotiation
+1318205532611	2024-01-14	1-merfield-place-giralang-canberra	$1,350,000+
+1318187826911	2024-01-15	24-14-boolee-street-reid-canberra	$390,000+
+1318211363711	2024-01-15	19-2-light-street-griffith-canberra	$1,250,000
