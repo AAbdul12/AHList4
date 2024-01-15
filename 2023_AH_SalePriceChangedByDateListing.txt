@@ -1106,3 +1106,11 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318199624111	2023-11-08	20-corrigan-place-isaacs-canberra	$1,590,000+
 1318201554911	2023-11-08	108-16-moore-street-city-canberra	$520,000
 1318203484111	2023-11-08	9-5-devenish-street-taylor-canberra	$599,900
+1318202675111	2023-11-28	1-bussell-crescent-cook-canberra	$1,485,000+
+1318207439311	2023-12-06	23-2-light-street-griffith-canberra	$915,000 - $930,000
+1318211347911	2023-12-08	118-50-ellenborough-street-lyneham-canberra	$1,095,000+
+1318179110611	2023-12-11	37-18-cornelius-street-coombs-canberra	By Negotiation
+1318211048611	2023-12-13	the-establishment-814-90-swain-street-gungahlin-canberra	$620,000+
+1318185345811	2023-12-14	13-bob-whan-street-strathnairn-canberra	Forthcoming Auction
+1318199658011	2023-12-18	62-investigator-street-red-hill-canberra	By Negotiation
+1318195035611	2023-12-22	612-120-eastern-valley-way-belconnen-canberra	$380,000+
