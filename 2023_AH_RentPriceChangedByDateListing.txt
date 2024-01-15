@@ -2173,3 +2173,9 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318200902311	2023-11-08	9-yandell-way-casey-canberra	$630 pw
 1318202234311	2023-11-08	62-53-holborrow-avenue-denman-prospect-canberra	$510 per week
 1318202731311	2023-11-08	36-jarrah-street-o-connor-canberra	$600 per week
+1318069275811	2023-11-14	51-pearl-gibbs-circuit-bonner-canberra	$350 per week
+1318205743811	2023-11-22	no-street-name-provided-franklin-canberra	$220 per week
+1318204836811	2023-12-06	1-32-mugglestone-place-bruce-canberra	$650 per week
+1318211387611	2023-12-24	hobbs-street-o-connor-canberra	$695 per week
+1318177453611	2023-12-27	no-street-name-provided-florey-canberra	$625 per week
+1318211799711	2023-12-30	no-street-name-provided-belconnen-canberra	$450 per week
