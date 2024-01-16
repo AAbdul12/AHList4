@@ -31,11 +31,15 @@ ListingId	DateTime	URL
 181429797	2023-07-11 11:26:06	allegro-large-3-bedroom-townhome-with-oversized-2-car-garage-storage-throsby-act-2914?tid=181429797
 181429798	2023-07-10 19:41:04	allegro-3-bedroom-with-double-side-by-side-garage-throsby-act-2914?tid=181429798
 181535024	2023-04-14 14:50:54	unit-6-20-de-burgh-street-lyneham-act-2602
+181588735	2023-05-05 11:12:02	unit-29-17-trevillian-quay-kingston-act-2604
+181588929	2023-05-05 12:01:12	12-golgerth-street-denman-prospect-act-2611
 181648896	2023-05-24 12:05:17	1-mcpherson-street-googong-nsw-2620
 181784353	2023-07-18 16:12:05	unit-16-2-pipeclay-street-lawson-act-2617
 181838184	2023-08-09 14:32:02	14-limb-circuit-moncrieff-act-2914
 181838521	2023-08-09 00:00:00	59-bluestone-gardens-jerrabomberra-nsw-2619
+181840566	2023-08-10 00:00:00	unit-1-26-longford-street-lyons-act-2606
 181856829	2023-08-17 09:00:23	unit-5-28-black-street-yarralumla-act-2600
+181870982	2023-08-23 11:02:08	106-hazel-hawke-avenue-whitlam-act-2611
 181872170	2023-08-23 00:00:00	2-copperfield-place-jerrabomberra-nsw-2619
 181890872	2023-08-31 07:22:14	level-6-628-81-cooyong-street-reid-act-2612?tid=181890872
 181907309	2023-09-06 17:10:43	unit-103-43-arthur-blakeley-way-coombs-act-2611
@@ -46,7 +50,9 @@ ListingId	DateTime	URL
 181943458	2023-09-21 11:00:44	139-badimara-street-fisher-act-2611
 181950282	2023-09-25 00:00:00	unit-83-100-henry-kendall-street-franklin-act-2913
 181959957	2023-09-28 09:42:03	unit-71-60-kingsland-parade-casey-act-2913
+181961147	2023-09-28 14:52:08	unit-201-86-northbourne-avenue-braddon-act-2612
 181974189	2023-10-04 13:53:23	unit-318-15-jardine-street-kingston-act-2604
+181974706	2023-10-04 14:09:58	unit-317-19-marcus-clarke-street-city-act-2601
 181977813	2023-10-12 15:45:03	mount-burra-lot-303-burra-nsw-2620?tid=181977813
 181977814	2023-10-12 16:04:08	mount-burra-lot-307-burra-nsw-2620?tid=181977814
 181980605	2023-10-12 16:08:24	mount-burra-lot-308-burra-nsw-2620?tid=181980605
@@ -60,6 +66,7 @@ ListingId	DateTime	URL
 181997696	2023-10-12 15:02:20	283-bettong-avenue-throsby-act-2914
 181997697	2023-10-12 16:01:43	mount-burra-lot-306-burra-nsw-2620?tid=181997697
 182000489	2023-10-13 11:12:03	1-cygnet-crescent-red-hill-act-2603
+182008333	2023-10-17 12:52:03	70-vahland-street-taylor-act-2913
 182013159	2023-10-18 14:52:09	unit-13-14-chauvel-street-campbell-act-2612
 182015546	2023-10-19 09:43:07	unit-26-311-flemington-road-franklin-act-2913
 182021118	2023-10-20 15:52:12	24-casilda-street-harrison-act-2914
@@ -71,6 +78,7 @@ ListingId	DateTime	URL
 182053231	2023-11-02 09:47:05	40-shumack-street-weetangera-act-2614
 182053902	2023-11-02 12:52:18	unit-41-3-gordon-street-city-act-2601
 182054457	2023-11-02 13:22:18	40-endeavour-street-red-hill-act-2603
+182057285	2023-11-03 10:52:02	unit-1306-6-gribble-street-gungahlin-act-2912
 182057461	2023-11-03 09:22:09	15-swinney-street-casey-act-2913
 182058215	2023-11-03 14:32:05	unit-52-18-leichhardt-street-griffith-act-2603
 182059518	2023-11-03 17:02:06	50-mackennal-street-lyneham-act-2602
@@ -81,6 +89,8 @@ ListingId	DateTime	URL
 182072336	2023-11-09 09:42:01	98-jaeger-circuit-bruce-act-2617
 182072832	2023-11-09 13:42:01	5-poyitt-street-franklin-act-2913
 182073088	2023-11-09 12:12:03	unit-502-16-moore-street-city-act-2601
+182080678	2023-11-13 21:51:26	unit-91-2-edinburgh-avenue-city-act-2601
+182081157	2023-11-13 22:05:30	5-katz-place-spence-act-2615
 182087948	2023-11-15 10:02:48	unit-820-1-elouera-street-braddon-act-2612
 182088552	2023-11-15 12:52:03	51-harold-white-avenue-coombs-act-2611
 182089411	2023-11-15 14:52:07	unit-207-335-anketell-street-greenway-act-2900
@@ -93,10 +103,13 @@ ListingId	DateTime	URL
 182114128	2023-11-23 11:02:11	unit-1-163-waterfall-drive-jerrabomberra-nsw-2619
 182125237	2024-01-11 08:01:44	unit-31-23-jondol-place-isabella-plains-act-2905
 182130496	2023-11-29 14:51:13	unit-9-78-derrima-road-queanbeyan-nsw-2620
+182132706	2023-11-30 14:21:33	unit-101-1-elouera-street-braddon-act-2612
 182132775	2023-11-30 12:20:45	19-cameleer-lane-strathnairn-act-2615
+182133215	2023-11-30 14:41:45	unit-22-30-lonsdale-street-braddon-act-2612
 182148031	2023-12-06 12:10:46	36-zakharov-avenue-forde-act-2914
 182152375	2023-12-07 15:22:09	71-mobourne-street-bonner-act-2914
 182164540	2023-12-13 14:51:06	68-phyllis-ashton-circuit-gungahlin-act-2912
+182165791	2023-12-14 08:50:57	4-laurence-close-jerrabomberra-nsw-2619
 182171787	2023-12-18 09:30:50	40-violet-terrace-tralee-nsw-2620
 182172099	2023-12-18 11:41:37	7-roope-close-calwell-act-2905
 182172556	2023-12-18 14:01:21	unit-17-20-clare-burton-crescent-franklin-act-2913
@@ -301,6 +314,7 @@ ListingId	DateTime	URL
 182213161	2024-01-12 11:11:01	unit-10-2-serventy-street-wright-act-2611
 182213187	2024-01-12 10:42:00	8-mcgill-street-evatt-act-2617
 182213230	2024-01-12 11:30:34	37-mcintosh-street-scullin-act-2614
+182213275	2024-01-15 12:01:15	9-baxter-loop-googong-nsw-2620
 182213414	2024-01-12 10:50:52	unit-40-5-seahorse-street-throsby-act-2914
 182213439	2024-01-12 11:31:45	2-cann-close-palmerston-act-2913
 182213482	2024-01-12 13:40:47	unit-g02-100-de-burgh-street-lyneham-act-2602
@@ -314,3 +328,14 @@ ListingId	DateTime	URL
 182214736	2024-01-12 16:22:12	50-burrumarra-avenue-ngunnawal-act-2913
 182214796	2024-01-12 16:22:53	15-beveridge-crescent-forde-act-2914
 182215415	2024-01-12 17:10:29	4-13-15-mowatt-street-queanbeyan-nsw-2620?tid=182215415
+182216455	2024-01-15 10:21:25	unit-6-8-mcgowan-place-dickson-act-2602
+182216563	2024-01-15 10:21:46	unit-26-43-kirkland-circuit-macgregor-act-2615
+182216693	2024-01-15 10:51:03	unit-42-40-philip-hodgins-street-wright-act-2611
+182217318	2024-01-15 13:50:48	157-oodgeroo-avenue-franklin-act-2913
+182217551	2024-01-15 12:31:05	8-henry-street-cook-act-2614
+182217578	2024-01-15 14:52:05	2-42-buttle-street-queanbeyan-nsw-2620?tid=182217578
+182217919	2024-01-15 17:01:07	unit-10-3-mcgowan-place-dickson-act-2602
+182217927	2024-01-15 16:51:33	unit-14-30-cunningham-street-kingston-act-2604
+182218321	2024-01-15 15:21:30	7-kelly-place-higgins-act-2615
+182218513	2024-01-15 16:01:07	level-7-unit-59-301-flemington-road-franklin-act-2913
+182219559	2024-01-15 19:50:16	6-cazneaux-crescent-weston-act-2611
