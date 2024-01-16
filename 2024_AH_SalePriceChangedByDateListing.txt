@@ -27,4 +27,13 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318210015711	2024-01-13	59-dobbin-circuit-nicholls-canberra	By Negotiation
 1318205532611	2024-01-14	1-merfield-place-giralang-canberra	$1,350,000+
 1318187826911	2024-01-15	24-14-boolee-street-reid-canberra	$390,000+
+1318208321911	2024-01-15	187-45-west-row-city-canberra	$875,000
+1318209019511	2024-01-15	13-20-eyre-street-kingston-canberra	By Negotiation
 1318211363711	2024-01-15	19-2-light-street-griffith-canberra	$1,250,000
+1318167516811	2024-01-16	no-street-name-provided-macnamara-canberra	$639,700
+1318171051711	2024-01-16	renaissance-r3-large-3-bed-park-side-with-easterly-sun-griffith-canberra	$1,199,900
+1318184058911	2024-01-16	44-20-eyre-street-kingston-canberra	$749,000+
+1318189143811	2024-01-16	level-6-609-6-furzer-street-phillip-canberra	$474,000
+1318189152211	2024-01-16	renaissance-r3-unparalleled-inner-south-living-griffith-canberra	$1,449,900
+1318213781411	2024-01-16	23-rodway-street-yarralumla-canberra	By Negotiation
+1318216620011	2024-01-16	10-coppin-place-weetangera-canberra	Offers Over $1,595,000
