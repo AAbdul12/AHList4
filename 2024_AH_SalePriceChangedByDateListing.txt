@@ -35,5 +35,27 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318184058911	2024-01-16	44-20-eyre-street-kingston-canberra	$749,000+
 1318189143811	2024-01-16	level-6-609-6-furzer-street-phillip-canberra	$474,000
 1318189152211	2024-01-16	renaissance-r3-unparalleled-inner-south-living-griffith-canberra	$1,449,900
+1318201264811	2024-01-16	14-de-bortoli-street-harrison-canberra	By Negotiation
+1318211447411	2024-01-16	24-barramundi-street-throsby-canberra	Contact Agent
 1318213781411	2024-01-16	23-rodway-street-yarralumla-canberra	By Negotiation
 1318216620011	2024-01-16	10-coppin-place-weetangera-canberra	Offers Over $1,595,000
+1318164606911	2024-01-17	1602-4-grazier-lane-belconnen-canberra	$549,900+
+1318186255711	2024-01-17	55-11-trevillian-quay-kingston-canberra	$629,000+
+1318189088511	2024-01-17	30-bainbridge-close-chisholm-canberra	Offers Over $950,000
+1318197743911	2024-01-17	29-cygnet-crescent-red-hill-canberra	By Negotiation
+1318201620611	2024-01-17	1-norfolk-street-red-hill-canberra	$1,550,000
+1318203661211	2024-01-17	1-8-aurora-close-mawson-canberra	$1,395,000
+1318203764611	2024-01-17	27-harris-street-hackett-canberra	$1,275,000
+1318204155311	2024-01-17	8-47-majura-avenue-dickson-canberra	$449,000
+1318207539311	2024-01-17	119-ida-west-street-bonner-canberra	$1,295,000+
+1318218119311	2024-01-17	410-240-bunda-street-canberra-canberra	$700,000+
+1318194292011	2024-01-18	31-pindari-crescent-o-malley-canberra	Offers Over $2,300,000
+1318199285711	2024-01-18	block-av-section-ag-road-114-macnamara-canberra	369m2 asking $475,000
+1318201669411	2024-01-18	8-mindarie-street-narrabundah-canberra	$1,190,000
+1318207280111	2024-01-18	32-lockyer-street-griffith-canberra	$3,549,000+
+1318212528611	2024-01-18	16-21-tenison-woods-circuit-bonython-canberra	$480,000+
+1318145475511	2024-01-19	1-11-moncrieff-street-dickson-canberra	By Negotiation
+1318205660311	2024-01-19	36b-60-wattle-street-lyneham-canberra	$335,000
+1318208026211	2024-01-19	13-16-bradfield-street-downer-canberra	By Negotiation
+1318209006411	2024-01-19	4-12-condamine-street-turner-canberra	$694,900
+1318212528711	2024-01-19	16-gamburra-street-ngunnawal-canberra	$695,000+
