@@ -58,4 +58,5 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318205660311	2024-01-19	36b-60-wattle-street-lyneham-canberra	$335,000
 1318208026211	2024-01-19	13-16-bradfield-street-downer-canberra	By Negotiation
 1318209006411	2024-01-19	4-12-condamine-street-turner-canberra	$694,900
+1318211529211	2024-01-19	6-53-mcmillan-crescent-griffith-canberra	$475,000+
 1318212528711	2024-01-19	16-gamburra-street-ngunnawal-canberra	$695,000+
