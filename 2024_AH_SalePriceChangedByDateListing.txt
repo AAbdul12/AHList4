@@ -60,3 +60,6 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318209006411	2024-01-19	4-12-condamine-street-turner-canberra	$694,900
 1318211529211	2024-01-19	6-53-mcmillan-crescent-griffith-canberra	$475,000+
 1318212528711	2024-01-19	16-gamburra-street-ngunnawal-canberra	$695,000+
+1318197765711	2024-01-20	117-45-eastlake-parade-kingston-canberra	$599,000 +
+1318212991211	2024-01-20	281-325-anketell-street-greenway-canberra	$530,000
+1318220997211	2024-01-20	5-phillipa-weeks-street-watson-canberra	$700,000+
