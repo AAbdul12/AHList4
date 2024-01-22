@@ -92,3 +92,16 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318219411411	2024-01-19	56-tepper-circuit-kambah-canberra	$750 pw
 1318219651611	2024-01-19	6-7-bowen-drive-barton-canberra	$1,100 per week
 1318220003911	2024-01-19	19-mari-funaki-st-whitlam-canberra	$1,000 per week
+1318214788811	2024-01-20	106-barada-crescent-aranda-canberra	$715 per week
+1318216620511	2024-01-20	40-rowntree-crescent-isaacs-canberra	$830 per week
+1318214961111	2024-01-21	24-nullagine-street-fisher-canberra	$650 per week
+1318221632611	2024-01-21	6-5-summerfield-close-denman-prospect-canberra	$680 per week
+1318103987111	2024-01-22	165-15-coranderrk-street-city-canberra	$950 per week
+1318195456211	2024-01-22	13-grounds-cres-greenway-canberra	$665 per week
+1318208166511	2024-01-22	26-kondelea-way-denman-prospect-canberra	$1,000.00 per week
+1318214515211	2024-01-22	7-watchorn-close-holt-canberra	$590 per week
+1318216429911	2024-01-22	70-7-summerfield-close-denman-prospect-canberra	$540 per week
+1318217601311	2024-01-22	111-8-veryard-lane-belconnen-canberra	$480 per week
+1318219565011	2024-01-22	48-nangor-street-waramanga-canberra	$760 pw
+1318221464711	2024-01-22	31-devonport-street-lyons-canberra	$650 per week
+1318221598911	2024-01-22	125-sutherland-crescent-taylor-canberra	$700 per week
