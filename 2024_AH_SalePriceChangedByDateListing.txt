@@ -63,3 +63,7 @@ ListingId	UpdateOnDate	Address	NewPrice
 1318197765711	2024-01-20	117-45-eastlake-parade-kingston-canberra	$599,000 +
 1318212991211	2024-01-20	281-325-anketell-street-greenway-canberra	$530,000
 1318220997211	2024-01-20	5-phillipa-weeks-street-watson-canberra	$700,000+
+1318177292911	2024-01-21	107-77-northbourne-avenue-turner-canberra	$545,000+
+1318204464711	2024-01-21	29-229-robin-boyd-crescent-taylor-canberra	$639,900+
+1318204583411	2024-01-22	19-adcock-place-banks-canberra	$1,090,000 - $1,140,000
+1318215329611	2024-01-22	327-20-anzac-park-campbell-canberra	By Negotiation
