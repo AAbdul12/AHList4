@@ -35,6 +35,8 @@ ListingId	DateTime	URL
 181237091	2023-01-25 14:29:20	ekko-2-bedroom-townhouse-da-approved-whitlam-act-2611?tid=181237091
 181291697	2023-01-19 09:14:36	ekko-2-bedroom-study-da-approved-whitlam-act-2611?tid=181291697
 181295207	2023-01-18 00:00:00	unit-g03-258-northbourne-avenue-dickson-act-2602
+181295461	2023-01-27 15:50:05	woden-green-tower-2-2-bedroom-office-media-type-b-phillip-act-2606?tid=181295461
+181295463	2023-01-27 16:14:31	woden-green-tower-2-2-bedroom-type-g-phillip-act-2606?tid=181295463
 181429797	2023-07-11 11:26:06	allegro-large-3-bedroom-townhome-with-oversized-2-car-garage-storage-throsby-act-2914?tid=181429797
 181429798	2023-07-10 19:41:04	allegro-3-bedroom-with-double-side-by-side-garage-throsby-act-2914?tid=181429798
 181477547	2023-03-23 10:52:03	121-blamey-crescent-campbell-act-2612
@@ -63,6 +65,7 @@ ListingId	DateTime	URL
 181907309	2023-09-06 17:10:43	unit-103-43-arthur-blakeley-way-coombs-act-2611
 181922058	2023-09-13 09:42:12	unit-g04-6-provan-street-campbell-act-2612
 181922971	2023-09-13 11:52:08	unit-77-77-northbourne-avenue-turner-act-2612
+181926280	2023-09-14 11:32:33	18-bindaga-place-aranda-act-2614
 181926429	2023-09-14 11:42:06	145-antill-street-downer-act-2602
 181926577	2023-09-14 11:52:41	19-timbarra-crescent-o-malley-act-2606
 181939471	2023-09-20 09:32:00	7-bibby-place-florey-act-2615
@@ -447,6 +450,8 @@ ListingId	DateTime	URL
 182224665	2024-01-17 14:31:00	unit-5-8-mcgowan-place-dickson-act-2602
 182224706	2024-01-17 13:10:34	unit-43-14-grace-munro-crescent-strathnairn-act-2615
 182224727	2024-01-18 11:34:25	unit-19-60-john-gorton-drive-coombs-act-2611
+182224729	2024-01-22 12:45:02	127-20-allara-canberra-act-2601?tid=182224729
+182224731	2024-01-22 13:26:15	unit-55-260-city-walk-city-act-2601
 182224770	2024-01-17 14:10:29	unit-12-30-cunningham-street-kingston-act-2604
 182225262	2024-01-17 14:20:38	5-lochee-place-stirling-act-2611
 182225287	2024-01-17 15:52:02	unit-20-12-waniassa-street-queanbeyan-east-nsw-2620
@@ -562,3 +567,15 @@ ListingId	DateTime	URL
 182232228	2024-01-19 16:20:40	unit-8-29-forbes-street-turner-act-2612
 182232474	2024-01-19 15:10:25	unit-40-11-trevillian-quay-kingston-act-2604
 182232907	2024-01-19 17:20:37	42-levine-street-evatt-act-2617
+182234411	2024-01-22 12:01:00	60-hugh-mckay-crescent-dunlop-act-2615
+182234450	2024-01-22 12:20:35	22-munro-road-crestwood-nsw-2620
+182234488	2024-01-22 08:10:13	2-hillbar-rise-karabar-nsw-2620
+182234502	2024-01-22 09:31:20	60-carbeen-street-rivett-act-2611
+182234548	2024-01-22 09:30:47	level-a-unit-36-2-veryard-lane-belconnen-act-2617
+182235170	2024-01-22 13:10:49	unit-2-3-charles-street-queanbeyan-nsw-2620
+182235400	2024-01-22 13:22:05	52-bradfield-street-downer-act-2602
+182235437	2024-01-22 13:21:07	unit-98-31-thynne-street-bruce-act-2617
+182235719	2024-01-22 14:11:11	32-eric-de-salis-street-macgregor-act-2615
+182235901	2024-01-22 15:00:46	145-sculthorpe-avenue-whitlam-act-2611
+182236531	2024-01-22 16:20:11	14-woodburn-street-chisholm-act-2905
+182236907	2024-01-22 16:42:12	unit-16-2-donald-road-queanbeyan-nsw-2620
