@@ -739,3 +739,8 @@ ListingId	DateTime	URL
 182248200	2024-01-25 16:32:04	unit-17-2-eileen-good-street-greenway-act-2900
 182248202	2024-01-25 17:00:00	44-barber-crescent-flynn-act-2615
 182248280	2024-01-25 17:20:44	level-13-1302-3-grazier-lane-belconnen-act-2617?tid=182248280
+182249442	2024-01-26 11:00:16	unit-14-4-heard-street-mawson-act-2607
+182249459	2024-01-26 15:10:15	unit-15-76-leichhardt-street-griffith-act-2603
+182249620	2024-01-26 12:30:15	unit-106-22-eyre-street-kingston-act-2604
+182249700	2024-01-26 17:10:13	unit-1214-25-edinburgh-avenue-city-act-2601
+182249772	2024-01-26 20:30:15	14-myulung-street-ngunnawal-act-2913
