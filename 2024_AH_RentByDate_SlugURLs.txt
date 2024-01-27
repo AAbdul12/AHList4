@@ -999,12 +999,14 @@ ListingId	DateTime	URL
 182245208	2024-01-25 09:40:44	unit-14-30-ijong-street-braddon-act-2612
 182245311	2024-01-25 06:40:10	69-captain-cook-crescent-griffith-act-2603
 182245316	2024-01-25 09:21:27	unit-7-14-mcgowan-street-dickson-act-2602
+182245381	2024-01-26 23:08:35	12a-purser-street-chifley-act-2606
 182245449	2024-01-25 12:42:06	unit-105-36-paul-coe-crescent-ngunnawal-act-2913
 182245461	2024-01-25 10:42:04	11-mainwaring-rich-circuit-palmerston-act-2913
 182245512	2024-01-25 14:32:10	32-34-gosse-street-kingston-act-2604?tid=182245512
 182245520	2024-01-25 10:20:31	unit-4-50-hillcrest-street-crace-act-2911
 182245551	2024-01-25 10:50:55	2-barrallier-street-griffith-act-2603
 182245597	2024-01-25 11:50:47	168-mabo-blvd-bonner-act-2914?tid=182245597
+182245641	2024-01-26 16:15:23	25-dobikin-street-crace-act-2911
 182245801	2024-01-25 11:10:31	7-elder-street-braddon-act-2612
 182245813	2024-01-25 12:12:01	unit-27-21-dawes-street-kingston-act-2604
 182245825	2024-01-25 11:50:37	2-buchan-crescent-forde-act-2914
@@ -1030,6 +1032,7 @@ ListingId	DateTime	URL
 182247322	2024-01-25 15:50:57	unit-11-43-hampton-circuit-yarralumla-act-2600
 182247330	2024-01-25 15:11:23	level-b-unit-1804-15-bowes-street-phillip-act-2606
 182247340	2024-01-25 15:21:36	unit-708-55-dooring-street-dickson-act-2602
+182247362	2024-01-26 19:43:32	34-mckail-crescent-stirling-act-2611
 182247380	2024-01-25 15:32:05	unit-77-75-elizabeth-jolley-crescent-franklin-act-2913
 182247721	2024-01-25 16:10:35	unit-15-39-43-crawford-street-queanbeyan-nsw-2620
 182247808	2024-01-25 17:01:13	20-pasmore-close-kaleen-act-2617
@@ -1043,5 +1046,9 @@ ListingId	DateTime	URL
 182248282	2024-01-25 17:41:22	unit-1119-240-bunda-street-city-act-2601
 182248291	2024-01-25 17:41:51	21-walton-street-isaacs-act-2607
 182248544	2024-01-25 18:40:21	unit-7-6-cunningham-street-griffith-act-2603
+182249257	2024-01-26 08:40:15	191-chuculba-street-giralang-act-2617?tid=182249257
 182249300	2024-01-25 22:00:20	unit-8-11-howitt-street-kingston-act-2604
 182249341	2024-01-25 22:50:09	18-stonehouse-street-franklin-act-2913
+182249345	2024-01-26 08:20:09	25-22-leicchardt-street-kingston-act-2604?tid=182249345
+182249536	2024-01-26 16:50:11	unit-344-1-mouat-street-lyneham-act-2602
+182249690	2024-01-26 20:03:52	4-derrima-road-queanbeyan-nsw-2620
