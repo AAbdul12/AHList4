@@ -895,6 +895,7 @@ ListingId	DateTime	URL
 182237578	2024-01-22 18:30:21	unit-806-1-grazier-lane-belconnen-act-2617
 182237611	2024-01-23 11:00:47	unit-3-69-torrens-street-braddon-act-2612
 182237703	2024-01-23 10:50:51	unit-18-3-burbury-close-barton-act-2600?tid=182237703
+182237707	2024-01-27 10:50:14	unit-1313-39-london-circuit-city-act-2601
 182237727	2024-01-24 16:34:15	scrivener-street-o-connor-act-2602?tid=182237727
 182237745	2024-01-23 10:41:52	15-parer-street-scullin-act-2614
 182237861	2024-01-23 10:10:58	5-coora-place-jerrabomberra-nsw-2619
@@ -1018,6 +1019,7 @@ ListingId	DateTime	URL
 182246071	2024-01-25 12:11:39	unit-24-1-gungahlin-place-gungahlin-act-2912
 182246121	2024-01-25 12:50:43	unit-1-22-lowe-street-queanbeyan-nsw-2620
 182246133	2024-01-25 17:28:48	unit-66-7-summerfield-close-denman-prospect-act-2611
+182246134	2024-01-27 01:20:09	unit-417-253-northbourne-avenue-lyneham-act-2602
 182246495	2024-01-25 13:30:43	unit-22-3-waddell-place-curtin-act-2605
 182246583	2024-01-25 15:30:48	96-robin-boyd-crescent-taylor-act-2913
 182246732	2024-01-25 13:30:53	unit-5-26-narryer-close-palmerston-act-2913
@@ -1052,3 +1054,6 @@ ListingId	DateTime	URL
 182249345	2024-01-26 08:20:09	25-22-leicchardt-street-kingston-act-2604?tid=182249345
 182249536	2024-01-26 16:50:11	unit-344-1-mouat-street-lyneham-act-2602
 182249690	2024-01-26 20:03:52	4-derrima-road-queanbeyan-nsw-2620
+182249691	2024-01-27 19:29:42	1-davis-street-weetangera-act-2614
+182249932	2024-01-27 11:37:24	gilmore-act-2905?tid=182249932
+182250202	2024-01-27 22:04:44	18-briger-street-taylor-act-2913
