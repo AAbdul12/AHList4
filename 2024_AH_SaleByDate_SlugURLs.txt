@@ -20,6 +20,7 @@ ListingId	DateTime	URL
 180792813	2022-07-08 00:00:00	56-kunapalari-street-throsby-act-2914
 180809268	2023-01-12 11:55:37	the-markets-residences-glasshouse-4-bed-family-home-architectural-masterpiece-belconnen-act-2617?tid=180809268
 180843776	2022-07-29 15:28:42	woden-green-tower-1-type-c-2-bedroom-office-media-phillip-act-2606?tid=180843776
+180936287	2023-02-09 00:00:00	the-markets-residences-perfect-townhouse-alternative-2-bd-2-bth-flexible-living-belconnen-act-2617?tid=180936287
 180936288	2023-01-12 12:05:28	the-markets-residences-canberra-s-most-anticipated-penthouse-collection-2m-28m-belconnen-act-2617?tid=180936288
 180936296	2023-01-12 12:08:18	the-markets-residences-perfect-townhouse-alternative-3-bd-2-bth-2-living-belconnen-act-2617?tid=180936296
 180990365	2022-09-20 07:22:02	18-swagman-street-lawson-act-2617
@@ -38,6 +39,7 @@ ListingId	DateTime	URL
 181216153	2022-12-08 12:32:02	12-rosenthal-street-campbell-act-2612
 181229449	2023-01-19 09:14:53	ekko-3-bedroom-townhouse-da-approved-whitlam-act-2611?tid=181229449
 181235808	2023-02-02 14:26:34	the-markets-residences-canberra-s-most-anticipated-penthouse-collection-12m-18m-belconnen-act-2617?tid=181235808
+181237089	2023-02-08 09:57:30	the-markets-residences-perfect-townhouse-alternative-3-bd-2-bth-winter-garden-belconnen-act-2617?tid=181237089
 181237091	2023-01-25 14:29:20	ekko-2-bedroom-townhouse-da-approved-whitlam-act-2611?tid=181237091
 181266493	2023-01-09 00:00:00	unit-235-81-cooyong-street-reid-act-2612
 181291696	2023-02-02 10:41:53	ekko-2-bedroom-apartment-da-approved-whitlam-act-2611?tid=181291696
