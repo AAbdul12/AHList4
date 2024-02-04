@@ -770,6 +770,7 @@ ListingId	DateTime	URL
 182227168	2024-01-17 20:00:15	26-albert-street-queanbeyan-nsw-2620
 182227248	2024-01-18 12:05:57	15-black-street-yarralumla-act-2600
 182227250	2024-01-23 14:08:27	50-antill-street-dickson-act-2602?tid=182227250
+182227256	2024-02-03 14:29:08	47-blacket-street-downer-act-2602
 182227298	2024-01-19 09:17:49	100-harrington-circuit-kambah-act-2902
 182227299	2024-01-19 12:29:51	101-limb-circuit-moncrieff-act-2914
 182227300	2024-01-29 11:09:21	unit-24-135-blamey-crescent-campbell-act-2612
@@ -911,6 +912,7 @@ ListingId	DateTime	URL
 182237707	2024-01-27 10:50:14	unit-1313-39-london-circuit-city-act-2601
 182237727	2024-01-24 16:34:15	scrivener-street-o-connor-act-2602?tid=182237727
 182237745	2024-01-23 10:41:52	15-parer-street-scullin-act-2614
+182237846	2024-02-03 18:11:23	4-foster-place-watson-act-2602
 182237861	2024-01-23 10:10:58	5-coora-place-jerrabomberra-nsw-2619
 182237873	2024-01-23 10:11:28	level-a-unit-4-2-veryard-lane-belconnen-act-2617
 182237874	2024-01-23 10:42:11	37-toppano-street-moncrieff-act-2914
@@ -1237,6 +1239,7 @@ ListingId	DateTime	URL
 182261927	2024-02-01 10:22:14	unit-17-19-thynne-street-bruce-act-2617
 182262083	2024-02-01 09:20:43	unit-502-27-lonsdale-street-braddon-act-2612
 182262092	2024-02-02 16:01:34	3-cubillo-crescent-ngunnawal-act-2913
+182262094	2024-02-03 20:25:01	unit-403-53-mort-street-braddon-act-2612
 182262115	2024-02-01 08:20:16	unit-77-77-northbourne-avenue-turner-act-2612?tid=182262115
 182262172	2024-02-01 08:50:30	level-d-unit-324-85-eyre-street-kingston-act-2604
 182262228	2024-02-01 01:40:10	unit-9-11-fawkner-street-braddon-act-2612
@@ -1295,6 +1298,7 @@ ListingId	DateTime	URL
 182265936	2024-02-02 09:50:50	unit-81-25-pinkerton-circuit-kambah-act-2902
 182265967	2024-02-02 11:22:17	1-5-crest-road-queanbeyan-nsw-2620?tid=182265967
 182266092	2024-02-02 09:10:39	unit-706-25-edinburgh-avenue-acton-act-2601
+182266162	2024-02-03 11:22:44	unit-18-98-corinna-street-phillip-act-2606
 182266172	2024-02-02 09:51:10	unit-19-3a-stornaway-road-queanbeyan-nsw-2620
 182266175	2024-02-02 11:20:40	11-chermside-street-deakin-act-2600
 182266218	2024-02-02 09:11:04	unit-10-28-watson-street-turner-act-2612
@@ -1328,3 +1332,5 @@ ListingId	DateTime	URL
 182269043	2024-02-02 21:50:09	unit-56-77-northbourne-avenue-turner-act-2612
 182269065	2024-02-02 22:30:14	unit-2-29-moore-street-turner-act-2612
 182269094	2024-02-02 22:10:11	unit-90-10-ipima-street-braddon-act-2612
+182269472	2024-02-03 10:50:14	18-kinkead-street-evatt-act-2617
+182269722	2024-02-03 17:45:11	90-mobourne-street-bonner-act-2914
