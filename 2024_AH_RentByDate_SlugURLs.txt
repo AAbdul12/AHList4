@@ -1248,6 +1248,7 @@ ListingId	DateTime	URL
 182262243	2024-02-01 12:00:49	unit-5-3-keith-street-scullin-act-2614
 182262273	2024-02-01 10:20:56	unit-11-77-derrington-crescent-bonython-act-2905
 182262282	2024-02-01 10:22:02	3-darke-street-torrens-act-2607
+182262309	2024-02-04 12:28:19	9-gurrit-place-ngunnawal-act-2913
 182262328	2024-02-01 07:40:09	unit-24-1-evergood-close-weston-act-2611
 182262335	2024-02-01 10:01:30	unit-81-1-surprize-place-phillip-act-2606
 182262348	2024-02-01 11:23:53	53-hilder-street-weston-act-2611
@@ -1272,6 +1273,7 @@ ListingId	DateTime	URL
 182263913	2024-02-01 15:31:54	93-namadgi-circuit-palmerston-act-2913
 182264040	2024-02-01 15:42:07	unit-923-240-bunda-street-city-act-2601
 182264112	2024-02-02 23:20:00	unit-12-37-totterdell-street-belconnen-act-2617
+182264113	2024-02-04 12:34:18	10-carroll-street-hughes-act-2605
 182264118	2024-02-01 15:20:42	unit-14-10-wilkins-street-mawson-act-2607
 182264188	2024-02-01 16:02:05	unit-5-18-gilmore-place-queanbeyan-nsw-2620
 182264207	2024-02-01 16:20:57	unit-3-8-edmondson-street-campbell-act-2612
@@ -1321,6 +1323,7 @@ ListingId	DateTime	URL
 182267334	2024-02-02 14:21:08	level-a-unit-28-116-easty-street-phillip-act-2606
 182267383	2024-02-02 15:31:13	unit-68-102-giles-street-kingston-act-2604
 182267629	2024-02-02 14:30:44	unit-515-2-grazier-lane-belconnen-act-2617
+182268140	2024-02-04 15:02:33	unit-36-20-allara-street-city-act-2601
 182268181	2024-02-02 16:31:30	unit-4-19-21-henderson-road-queanbeyan-nsw-2620
 182268335	2024-02-02 18:01:01	unit-1207-81-cooyong-street-reid-act-2612?tid=182268335
 182268351	2024-02-02 18:00:35	unit-13-33-37-macquoid-street-queanbeyan-east-nsw-2620
@@ -1333,4 +1336,7 @@ ListingId	DateTime	URL
 182269065	2024-02-02 22:30:14	unit-2-29-moore-street-turner-act-2612
 182269094	2024-02-02 22:10:11	unit-90-10-ipima-street-braddon-act-2612
 182269472	2024-02-03 10:50:14	18-kinkead-street-evatt-act-2617
+182269568	2024-02-04 17:20:10	12-yellowfin-street-throsby-act-2914
+182269646	2024-02-04 10:50:10	5-allwood-street-chifley-act-2606
 182269722	2024-02-03 17:45:11	90-mobourne-street-bonner-act-2914
+182269954	2024-02-04 14:59:23	unit-21-115-canberra-avenue-griffith-act-2603
