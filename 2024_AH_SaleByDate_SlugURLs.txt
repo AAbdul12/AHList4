@@ -76,6 +76,8 @@ ListingId	DateTime	URL
 181568252	2023-05-04 15:19:43	40-de-burgh-street-lyneham-act-2602?tid=181568252
 181571360	2023-05-04 15:18:19	40-de-burgh-street-lyneham-act-2602?tid=181571360
 181585547	2023-05-04 17:04:50	2-terry-connolly-street-coombs-act-2611?tid=181585547
+181585551	2023-05-16 16:06:02	south-jerrabomberra-lot-723-tralee-nsw-2620?tid=181585551
+181585552	2023-05-16 16:17:19	south-jerrabomberra-lot-832-tralee-nsw-2620?tid=181585552
 181588646	2024-02-02 15:28:09	1-hawken-street-monash-act-2904
 181588735	2023-05-05 11:12:02	unit-29-17-trevillian-quay-kingston-act-2604
 181588929	2023-05-05 12:01:12	12-golgerth-street-denman-prospect-act-2611
@@ -97,8 +99,8 @@ ListingId	DateTime	URL
 181843916	2023-08-11 00:00:00	level-d-unit-79-116-easty-street-phillip-act-2606
 181856829	2023-08-17 09:00:23	unit-5-28-black-street-yarralumla-act-2600
 181860390	2023-08-18 11:01:27	unit-157-1-mouat-street-lyneham-act-2602
-181861096	2023-08-18 12:22:04	unit-226-81-cooyong-street-reid-act-2612
 181861096	2024-02-02 14:03:54	unit-226-81-cooyong-street-reid-act-2612
+181861096	2023-08-18 12:22:04	unit-226-81-cooyong-street-reid-act-2612
 181862557	2023-08-18 00:00:00	unit-55-11-trevillian-quay-kingston-act-2604
 181870861	2023-08-23 10:12:03	unit-306-253-northbourne-avenue-lyneham-act-2602
 181870982	2023-08-23 11:02:08	106-hazel-hawke-avenue-whitlam-act-2611
@@ -155,8 +157,8 @@ ListingId	DateTime	URL
 182011681	2023-10-20 09:20:38	unit-33-170-john-gorton-drive-coombs-act-2611
 182013159	2023-10-18 14:52:09	unit-13-14-chauvel-street-campbell-act-2612
 182013167	2023-10-18 14:10:38	unit-177-41-chandler-street-belconnen-act-2617
-182015213	2023-10-19 00:00:00	unit-17-27-leahy-close-narrabundah-act-2604
 182015213	2023-10-19 09:22:16	unit-17-27-leahy-close-narrabundah-act-2604
+182015213	2023-10-19 00:00:00	unit-17-27-leahy-close-narrabundah-act-2604
 182015546	2023-10-19 09:43:07	unit-26-311-flemington-road-franklin-act-2913
 182015701	2023-10-19 11:42:34	53-cunningham-street-kingston-act-2604
 182015802	2023-10-19 11:42:04	unit-1-37-southbar-road-karabar-nsw-2620
@@ -252,8 +254,8 @@ ListingId	DateTime	URL
 182120755	2023-11-27 11:02:07	unit-37-1-greenwood-street-denman-prospect-act-2611
 182125237	2024-01-11 08:01:44	unit-31-23-jondol-place-isabella-plains-act-2905
 182130496	2023-11-29 14:51:13	unit-9-78-derrima-road-queanbeyan-nsw-2620
-182132647	2023-11-30 00:00:00	22-bottrill-street-bonython-act-2905
 182132647	2023-11-30 08:40:37	22-bottrill-street-bonython-act-2905
+182132647	2023-11-30 00:00:00	22-bottrill-street-bonython-act-2905
 182132706	2023-11-30 14:21:33	unit-101-1-elouera-street-braddon-act-2612
 182132775	2023-11-30 12:20:45	19-cameleer-lane-strathnairn-act-2615
 182132838	2023-11-30 15:40:47	unit-12-128-easty-street-phillip-act-2606
@@ -1381,3 +1383,4 @@ ListingId	DateTime	URL
 182285987	2024-02-09 13:12:01	unit-161-15-coranderrk-street-city-act-2601
 182286553	2024-02-09 16:42:06	unit-308-21-challis-street-dickson-act-2602
 182287255	2024-02-09 16:32:21	unit-134-72-college-street-belconnen-act-2617
+182288368	2024-02-10 17:13:39	amaroo-act-2914?tid=182288368
