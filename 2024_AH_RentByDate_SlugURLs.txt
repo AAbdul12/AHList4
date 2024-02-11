@@ -13,8 +13,8 @@ ListingId	DateTime	URL
 182125291	2024-01-11 14:01:15	50-antill-street-dickson-act-2602?tid=182125291
 182126147	2024-01-08 11:53:40	50-antill-street-dickson-act-2602?tid=182126147
 182126593	2024-01-17 16:26:56	unit-105-189-gorman-drive-googong-nsw-2620
-182129529	2024-01-03 13:20:38	unit-509-21-marcus-clarke-street-city-act-2601
 182129529	2024-01-29 14:51:02	unit-509-21-marcus-clarke-street-city-act-2601
+182129529	2024-01-03 13:20:38	unit-509-21-marcus-clarke-street-city-act-2601
 182131035	2024-01-30 10:56:56	unit-90-170-flemington-road-harrison-act-2914
 182132027	2024-01-10 15:21:10	unit-30-31-disney-court-belconnen-act-2617
 182132404	2024-02-08 13:24:49	3-breen-place-jerrabomberra-nsw-2619
@@ -122,6 +122,7 @@ ListingId	DateTime	URL
 182191402	2024-01-03 09:43:49	unit-105-26-cynthea-teague-crescent-greenway-act-2900
 182191415	2024-01-03 09:50:58	unit-69-1-mouat-street-lyneham-act-2602
 182191527	2024-01-02 21:10:14	unit-813-335-anketell-street-greenway-act-2900
+182191542	2024-02-10 17:05:38	unit-14-126-thynne-street-bruce-act-2617
 182191542	2024-01-03 09:20:26	unit-14-126-thynne-street-bruce-act-2617
 182191543	2024-01-03 09:50:48	unit-55-109-canberra-avenue-griffith-act-2603
 182191559	2024-01-03 09:30:26	64-patrick-white-circuit-franklin-act-2913
@@ -1566,6 +1567,7 @@ ListingId	DateTime	URL
 182284910	2024-02-09 10:32:06	8-18-booth-street-queanbeyan-nsw-2620?tid=182284910
 182284996	2024-02-09 09:52:02	6-chelsworth-street-wright-act-2611
 182285024	2024-02-09 09:22:02	unit-34-92-casey-crescent-calwell-act-2905
+182285053	2024-02-10 14:02:36	22-boobialla-street-o-connor-act-2602
 182285062	2024-02-09 16:01:15	unit-409-1-anthony-rolfe-avenue-gungahlin-act-2912
 182285110	2024-02-09 10:22:13	10-ancher-street-taylor-act-2913
 182285170	2024-02-09 11:32:08	unit-610-241-northbourne-avenue-lyneham-act-2602
@@ -1611,3 +1613,6 @@ ListingId	DateTime	URL
 182287276	2024-02-09 17:26:45	unit-66-125-wellsvale-drive-googong-nsw-2620
 182287531	2024-02-09 18:22:01	unit-5-13-majura-avenue-dickson-act-2602
 182287759	2024-02-09 18:22:02	unit-5-80-gozzard-street-gungahlin-act-2912
+182287926	2024-02-10 09:52:02	14-2-booth-street-queanbeyan-nsw-2620?tid=182287926
+182288198	2024-02-10 07:42:00	level-c-unit-12-33-eastlake-parade-kingston-act-2604
+182288288	2024-02-10 12:01:05	133-atherton-street-downer-act-2602
