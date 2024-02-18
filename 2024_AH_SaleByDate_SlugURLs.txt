@@ -69,6 +69,7 @@ ListingId	DateTime	URL
 181350388	2023-02-07 15:00:50	level-a-unit-401-85-eyre-street-kingston-act-2604
 181357566	2023-02-09 14:22:38	ekko-3-bedroom-townhouse-whitlam-act-2611?tid=181357566
 181357578	2023-02-09 14:44:41	viva-18-storksbill-terrace-south-jerrabomberra-nsw-2620?tid=181357578
+181393796	2023-02-22 09:12:03	ekko-2-bedroom-townhouse-da-approved-whitlam-act-2611?tid=181393796
 181393805	2023-08-01 13:29:37	allegro-3-bedroom-with-single-garage-plus-car-space-throsby-act-2914?tid=181393805
 181429796	2023-08-01 13:28:26	allegro-oversized-3-bedroom-with-double-garage-throsby-act-2914?tid=181429796
 181429797	2023-07-11 11:26:06	allegro-large-3-bedroom-townhome-with-oversized-2-car-garage-storage-throsby-act-2914?tid=181429797
@@ -99,6 +100,7 @@ ListingId	DateTime	URL
 181754910	2023-07-06 17:58:18	unit-63-68-college-street-belconnen-act-2617
 181779937	2023-08-16 12:15:06	salus-unit-19-moncrieff-act-2914?tid=181779937
 181779948	2023-08-17 15:06:43	salus-unit-13-moncrieff-act-2914?tid=181779948
+181779949	2023-08-21 10:47:15	salus-unit-2-moncrieff-act-2914?tid=181779949
 181784353	2023-07-18 16:12:05	unit-16-2-pipeclay-street-lawson-act-2617
 181806221	2024-02-14 13:10:39	56-euree-street-reid-act-2612
 181818555	2023-08-02 00:00:00	unit-631-45-ainslie-avenue-braddon-act-2612
@@ -115,8 +117,8 @@ ListingId	DateTime	URL
 181856829	2023-08-17 09:00:23	unit-5-28-black-street-yarralumla-act-2600
 181857022	2023-08-17 00:00:00	10-mirri-close-throsby-act-2914
 181860390	2023-08-18 11:01:27	unit-157-1-mouat-street-lyneham-act-2602
-181861096	2024-02-02 14:03:54	unit-226-81-cooyong-street-reid-act-2612
 181861096	2023-08-18 12:22:04	unit-226-81-cooyong-street-reid-act-2612
+181861096	2024-02-02 14:03:54	unit-226-81-cooyong-street-reid-act-2612
 181862557	2023-08-18 00:00:00	unit-55-11-trevillian-quay-kingston-act-2604
 181870861	2023-08-23 10:12:03	unit-306-253-northbourne-avenue-lyneham-act-2602
 181870982	2023-08-23 11:02:08	106-hazel-hawke-avenue-whitlam-act-2611
@@ -1140,8 +1142,8 @@ ListingId	DateTime	URL
 182266133	2024-02-02 12:02:08	unit-15-17-thynne-street-bruce-act-2617
 182266141	2024-02-02 07:30:14	unit-17-3-ovens-street-griffith-act-2603
 182266144	2024-02-02 09:20:56	unit-9-77-leichhardt-street-kingston-act-2604
-182266159	2024-02-02 12:59:19	bruce-act-2617?tid=182266159
 182266159	2024-02-02 12:59:19	unit-10-19-thynne-street-bruce-act-2617
+182266159	2024-02-02 12:59:19	bruce-act-2617?tid=182266159
 182266164	2024-02-08 10:25:52	13-easterbrook-place-gowrie-act-2904
 182266166	2024-02-12 11:40:40	13-cottrell-place-richardson-act-2905
 182266181	2024-02-02 08:50:15	9-bainton-crescent-melba-act-2615
@@ -1376,6 +1378,7 @@ ListingId	DateTime	URL
 182282877	2024-02-13 17:29:23	209-tillyard-drive-fraser-act-2615
 182282935	2024-02-08 14:32:16	55-hesba-brinsmead-street-franklin-act-2913
 182282967	2024-02-15 09:18:05	unit-3-73-tharwa-road-queanbeyan-nsw-2620
+182282970	2024-02-17 13:17:13	87-gozzard-street-gungahlin-act-2912?tid=182282970
 182282973	2024-02-08 14:32:04	unit-1-13a-david-street-o-connor-act-2602
 182282981	2024-02-08 15:10:29	69-antill-street-downer-act-2602
 182282983	2024-02-08 14:42:13	4-brimage-place-kambah-act-2902
