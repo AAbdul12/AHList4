@@ -1696,6 +1696,7 @@ ListingId	DateTime	URL
 182291922	2024-02-13 13:20:35	unit-27-2-light-street-griffith-act-2603
 182291969	2024-02-13 09:52:04	23-dalkin-crescent-casey-act-2913
 182292005	2024-02-12 19:42:10	unit-1305-90-swain-street-gungahlin-act-2912
+182292045	2024-02-25 00:44:48	unit-15-5-colmer-street-bruce-act-2617
 182292119	2024-02-13 10:42:08	unit-39-45-athllon-drive-greenway-act-2900
 182292154	2024-02-13 10:22:10	unit-12-56-henderson-road-queanbeyan-nsw-2620
 182292277	2024-02-13 09:00:15	unit-212-39-benjamin-way-belconnen-act-2617
@@ -2090,3 +2091,5 @@ ListingId	DateTime	URL
 182325553	2024-02-23 23:12:00	9-elsie-cornish-way-taylor-act-2913
 182325666	2024-02-23 20:22:01	unit-1-40-pearlman-street-coombs-act-2611
 182325671	2024-02-23 18:22:01	unit-8-8-powlett-street-kaleen-act-2617
+182325899	2024-02-25 13:02:00	9-loch-street-yarralumla-act-2600
+182326467	2024-02-25 20:12:02	level-b-unit-1515-15-bowes-street-phillip-act-2606?tid=182326467
