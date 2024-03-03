@@ -1280,8 +1280,8 @@ ListingId	DateTime	URL
 182262243	2024-02-01 12:00:49	unit-5-3-keith-street-scullin-act-2614
 182262273	2024-02-01 10:20:56	unit-11-77-derrington-crescent-bonython-act-2905
 182262282	2024-02-01 10:22:02	3-darke-street-torrens-act-2607
-182262309	2024-03-01 15:49:40	9-gurrit-place-ngunnawal-act-2913
 182262309	2024-02-04 12:28:19	9-gurrit-place-ngunnawal-act-2913
+182262309	2024-03-01 15:49:40	9-gurrit-place-ngunnawal-act-2913
 182262310	2024-02-06 20:35:11	level-a-unit-18-25-eastlake-parade-kingston-act-2604
 182262319	2024-02-13 09:03:26	7-carruthers-street-curtin-act-2605
 182262328	2024-02-01 07:40:09	unit-24-1-evergood-close-weston-act-2611
