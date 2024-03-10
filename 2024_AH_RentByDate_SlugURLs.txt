@@ -356,8 +356,8 @@ ListingId	DateTime	URL
 182203335	2024-01-09 12:02:14	unit-2209-1-grazier-lane-belconnen-act-2617
 182203367	2024-01-09 14:51:10	unit-43-35-cromwell-circuit-isabella-plains-act-2905
 182203402	2024-01-09 12:20:55	unit-14-10-ijong-street-braddon-act-2612
-182203403	2024-01-09 12:21:03	4-tregear-close-theodore-act-2905
 182203403	2024-02-19 12:20:04	4-tregear-close-theodore-act-2905
+182203403	2024-01-09 12:21:03	4-tregear-close-theodore-act-2905
 182203420	2024-01-09 12:50:29	14-olympus-way-lyons-act-2606
 182203430	2024-01-09 12:22:10	unit-717-84-northbourne-avenue-braddon-act-2612
 182203585	2024-01-09 13:51:08	level-a-unit-6-25-eastlake-parade-kingston-act-2604
@@ -1033,8 +1033,8 @@ ListingId	DateTime	URL
 182244834	2024-01-24 21:30:12	unit-1-1-river-drive-karabar-nsw-2620
 182245010	2024-01-31 13:33:53	46-clancy-mckenna-crescent-bonner-act-2914
 182245184	2024-01-25 07:30:11	unit-10-65-constitution-avenue-campbell-act-2612
-182245186	2024-02-29 08:33:32	16-smalley-circuit-giralang-act-2617
 182245186	2024-01-25 09:10:54	16-smalley-circuit-giralang-act-2617
+182245186	2024-02-29 08:33:32	16-smalley-circuit-giralang-act-2617
 182245208	2024-01-25 09:40:44	unit-14-30-ijong-street-braddon-act-2612
 182245311	2024-01-25 06:40:10	69-captain-cook-crescent-griffith-act-2603
 182245316	2024-01-25 09:21:27	unit-7-14-mcgowan-street-dickson-act-2602
@@ -1283,8 +1283,8 @@ ListingId	DateTime	URL
 182262243	2024-02-01 12:00:49	unit-5-3-keith-street-scullin-act-2614
 182262273	2024-02-01 10:20:56	unit-11-77-derrington-crescent-bonython-act-2905
 182262282	2024-02-01 10:22:02	3-darke-street-torrens-act-2607
-182262309	2024-03-01 15:49:40	9-gurrit-place-ngunnawal-act-2913
 182262309	2024-02-04 12:28:19	9-gurrit-place-ngunnawal-act-2913
+182262309	2024-03-01 15:49:40	9-gurrit-place-ngunnawal-act-2913
 182262310	2024-02-06 20:35:11	level-a-unit-18-25-eastlake-parade-kingston-act-2604
 182262319	2024-02-13 09:03:26	7-carruthers-street-curtin-act-2605
 182262328	2024-02-01 07:40:09	unit-24-1-evergood-close-weston-act-2611
@@ -1816,8 +1816,8 @@ ListingId	DateTime	URL
 182301159	2024-02-15 15:22:15	unit-24-15-howitt-street-kingston-act-2604
 182301176	2024-02-15 16:22:00	17-volpato-street-forde-act-2914
 182301282	2024-02-15 16:22:06	unit-1-12-challis-street-dickson-act-2602
-182301283	2024-02-15 16:12:07	unit-48-15-hoolihan-street-denman-prospect-act-2611
 182301283	2024-03-06 16:51:30	unit-48-15-hoolihan-street-denman-prospect-act-2611
+182301283	2024-02-15 16:12:07	unit-48-15-hoolihan-street-denman-prospect-act-2611
 182301477	2024-02-15 17:42:01	unit-46-11-kerridge-street-kingston-act-2604
 182301522	2024-02-15 16:52:01	unit-159-44-46-macquarie-street-barton-act-2600
 182301588	2024-02-15 16:45:03	5-delprat-circuit-monash-act-2904
