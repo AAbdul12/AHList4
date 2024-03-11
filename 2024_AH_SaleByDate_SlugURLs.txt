@@ -111,8 +111,8 @@ ListingId	DateTime	URL
 181529493	2023-04-13 09:31:45	karinya-residence-2-denman-prospect-act-2611?tid=181529493
 181529568	2023-04-13 09:32:03	karinya-residence-5-denman-prospect-act-2611?tid=181529568
 181529568	2023-04-13 09:32:03	karinya-premium-four-bedroom-plus-rumpus-denman-prospect-act-2611?tid=181529568
-181529607	2023-04-13 09:31:37	karinya-residence-1-denman-prospect-act-2611?tid=181529607
 181529607	2023-04-13 09:31:37	karinya-grand-four-bedroom-plus-study-denman-prospect-act-2611?tid=181529607
+181529607	2023-04-13 09:31:37	karinya-residence-1-denman-prospect-act-2611?tid=181529607
 181535024	2023-04-14 14:50:54	unit-6-20-de-burgh-street-lyneham-act-2602
 181550730	2023-04-21 15:35:58	the-lazenby-townhouse-1-strathnairn-act-2615?tid=181550730
 181550731	2023-04-21 15:36:02	the-lazenby-townhouse-3-strathnairn-act-2615?tid=181550731
@@ -161,8 +161,8 @@ ListingId	DateTime	URL
 181856829	2023-08-17 09:00:23	unit-5-28-black-street-yarralumla-act-2600
 181857022	2023-08-17 00:00:00	10-mirri-close-throsby-act-2914
 181860390	2023-08-18 11:01:27	unit-157-1-mouat-street-lyneham-act-2602
-181861096	2023-08-18 12:22:04	unit-226-81-cooyong-street-reid-act-2612
 181861096	2024-02-02 14:03:54	unit-226-81-cooyong-street-reid-act-2612
+181861096	2023-08-18 12:22:04	unit-226-81-cooyong-street-reid-act-2612
 181862557	2023-08-18 00:00:00	unit-55-11-trevillian-quay-kingston-act-2604
 181870861	2023-08-23 10:12:03	unit-306-253-northbourne-avenue-lyneham-act-2602
 181870982	2023-08-23 11:02:08	106-hazel-hawke-avenue-whitlam-act-2611
@@ -382,8 +382,8 @@ ListingId	DateTime	URL
 182129709	2023-11-30 12:09:05	norrebro-unit-23-1-bunninyong-beechworth-street-watson-watson-act-2602?tid=182129709
 182129881	2023-11-29 13:51:08	unit-8-10-ovens-street-griffith-act-2603
 182130496	2023-11-29 14:51:13	unit-9-78-derrima-road-queanbeyan-nsw-2620
-182132647	2023-11-30 08:40:37	22-bottrill-street-bonython-act-2905
 182132647	2023-11-30 00:00:00	22-bottrill-street-bonython-act-2905
+182132647	2023-11-30 08:40:37	22-bottrill-street-bonython-act-2905
 182132706	2023-11-30 14:21:33	unit-101-1-elouera-street-braddon-act-2612
 182132775	2023-11-30 12:20:45	19-cameleer-lane-strathnairn-act-2615
 182132838	2023-11-30 15:40:47	unit-12-128-easty-street-phillip-act-2606
@@ -718,8 +718,8 @@ ListingId	DateTime	URL
 182224706	2024-01-17 13:10:34	unit-43-14-grace-munro-crescent-strathnairn-act-2615
 182224726	2024-02-21 10:40:45	solai-open-plan-living-just-2-mins-stroll-to-denman-shops-type-j-denman-prospect-act-2611?tid=182224726
 182224727	2024-01-18 11:34:25	unit-19-60-john-gorton-drive-coombs-act-2611
-182224729	2024-01-22 12:45:02	127-20-allara-canberra-act-2601?tid=182224729
 182224729	2024-01-22 12:45:02	127-20-allara-street-canberra-act-2601?tid=182224729
+182224729	2024-01-22 12:45:02	127-20-allara-canberra-act-2601?tid=182224729
 182224731	2024-01-22 13:26:15	unit-55-260-city-walk-city-act-2601
 182224770	2024-01-17 14:10:29	unit-12-30-cunningham-street-kingston-act-2604
 182225262	2024-01-17 14:20:38	5-lochee-place-stirling-act-2611
@@ -1032,8 +1032,8 @@ ListingId	DateTime	URL
 182251477	2024-01-30 10:35:23	unit-3-12-ellison-harvie-close-greenway-act-2900
 182251478	2024-02-01 09:21:11	74b-novar-street-yarralumla-act-2600
 182251485	2024-02-08 11:49:26	8-keaney-street-macgregor-act-2615
-182251612	2024-01-29 14:10:34	4b-yampi-place-fisher-act-2611
 182251612	2024-01-29 14:10:34	4b-yampi-street-fisher-act-2611?tid=182251612
+182251612	2024-01-29 14:10:34	4b-yampi-place-fisher-act-2611
 182252000	2024-01-29 15:42:09	unit-10-34-alex-colley-crescent-wright-act-2611
 182252706	2024-01-29 16:11:51	7-regent-drive-queanbeyan-nsw-2620?tid=182252706
 182253127	2024-02-01 17:30:38	125-monaro-station-road-royalla-nsw-2620?tid=182253127
@@ -2429,3 +2429,5 @@ ListingId	DateTime	URL
 182360531	2024-03-08 15:41:31	unit-9-57-benjamin-way-belconnen-act-2617
 182360539	2024-03-08 15:41:32	34b-lorn-road-queanbeyan-nsw-2620?tid=182360539
 182361130	2024-03-08 16:52:03	unit-23-10-ipima-street-braddon-act-2612
+182362015	2024-03-09 00:10:29	2-mccardell-street-taylor-act-2913?tid=182362015
+182362520	2024-03-09 17:29:44	unit-11-12-maris-king-street-casey-act-2913
