@@ -353,8 +353,8 @@ ListingId	DateTime	URL
 182203233	2024-01-09 12:01:40	36-ashburner-street-higgins-act-2615
 182203292	2024-01-09 11:41:59	unit-21-1-buik-place-belconnen-act-2617
 182203294	2024-01-09 12:41:37	unit-506-84-northbourne-avenue-braddon-act-2612
-182203313	2024-01-09 12:01:31	unit-1-8-ardlethan-street-fisher-act-2611
 182203313	2024-03-14 09:23:54	unit-1-8-ardlethan-street-fisher-act-2611
+182203313	2024-01-09 12:01:31	unit-1-8-ardlethan-street-fisher-act-2611
 182203335	2024-01-09 12:02:14	unit-2209-1-grazier-lane-belconnen-act-2617
 182203367	2024-01-09 14:51:10	unit-43-35-cromwell-circuit-isabella-plains-act-2905
 182203402	2024-01-09 12:20:55	unit-14-10-ijong-street-braddon-act-2612
@@ -1529,6 +1529,7 @@ ListingId	DateTime	URL
 182279643	2024-02-08 10:32:14	46-samaria-street-crace-act-2911
 182279652	2024-02-07 16:12:06	708-240-bunda-street-canberra-act-2601?tid=182279652
 182279656	2024-02-07 17:22:03	unit-4-44-otway-street-harrison-act-2914
+182280005	2024-03-24 19:40:55	unit-44-15-aspinall-street-watson-act-2602
 182280005	2024-02-07 17:31:11	unit-44-15-aspinall-street-watson-act-2602
 182280962	2024-02-07 18:30:21	unit-519-90-swain-street-gungahlin-act-2912
 182281296	2024-02-08 09:12:01	3-ada-evans-street-watson-act-2602
@@ -1548,8 +1549,8 @@ ListingId	DateTime	URL
 182281639	2024-02-09 16:02:02	65-burnie-street-lyons-act-2606
 182281671	2024-02-08 11:32:07	unit-16-2-eardley-street-bruce-act-2617
 182281686	2024-02-09 14:25:16	61-antill-street-downer-act-2602
-182281688	2024-03-07 11:40:44	29-olympus-way-lyons-act-2606
 182281688	2024-02-12 18:10:06	29-olympus-way-lyons-act-2606
+182281688	2024-03-07 11:40:44	29-olympus-way-lyons-act-2606
 182281691	2024-02-16 15:37:01	unit-30-1-3-mckay-street-turner-act-2612
 182281694	2024-02-08 11:19:36	33-thunder-circuit-harrison-act-2914
 182281695	2024-02-13 15:37:43	unit-1-72-canberra-avenue-griffith-act-2603
@@ -1821,8 +1822,8 @@ ListingId	DateTime	URL
 182301159	2024-02-15 15:22:15	unit-24-15-howitt-street-kingston-act-2604
 182301176	2024-02-15 16:22:00	17-volpato-street-forde-act-2914
 182301282	2024-02-15 16:22:06	unit-1-12-challis-street-dickson-act-2602
-182301283	2024-02-15 16:12:07	unit-48-15-hoolihan-street-denman-prospect-act-2611
 182301283	2024-03-06 16:51:30	unit-48-15-hoolihan-street-denman-prospect-act-2611
+182301283	2024-02-15 16:12:07	unit-48-15-hoolihan-street-denman-prospect-act-2611
 182301477	2024-02-15 17:42:01	unit-46-11-kerridge-street-kingston-act-2604
 182301522	2024-02-15 16:52:01	unit-159-44-46-macquarie-street-barton-act-2600
 182301588	2024-02-15 16:45:03	5-delprat-circuit-monash-act-2904
@@ -2621,6 +2622,7 @@ ListingId	DateTime	URL
 182365501	2024-03-12 12:41:34	unit-12-566-cotter-road-wright-act-2611
 182365507	2024-03-12 11:51:25	unit-11-81-kelleway-avenue-nicholls-act-2913
 182365545	2024-03-12 13:00:46	50-antill-street-dickson-act-2602?tid=182365545
+182365557	2024-03-24 13:02:45	25-gornall-street-wright-act-2611
 182365742	2024-03-12 12:51:00	level-b-unit-1015-15-bowes-street-phillip-act-2606
 182365830	2024-03-12 12:30:48	50-antill-street-dickson-act-2602?tid=182365830
 182365848	2024-03-12 12:30:55	50-antill-street-dickson-act-2602?tid=182365848
@@ -2631,6 +2633,7 @@ ListingId	DateTime	URL
 182366430	2024-03-12 14:01:04	20-brooks-street-macquarie-act-2614
 182366508	2024-03-19 10:55:45	unit-12-26-otway-street-harrison-act-2914
 182366511	2024-03-22 18:43:32	32-penfold-street-gungahlin-act-2912
+182366512	2024-03-24 09:18:24	unit-609-1-elouera-street-braddon-act-2612
 182366517	2024-03-12 15:07:51	unit-44-20-eyre-street-kingston-act-2604?tid=182366517
 182366518	2024-03-13 10:28:29	unit-11-51-hampton-circuit-yarralumla-act-2600
 182366520	2024-03-18 22:31:01	29-currey-street-gowrie-act-2904
@@ -2833,6 +2836,7 @@ ListingId	DateTime	URL
 182381607	2024-03-18 16:30:50	90-darwinia-terrace-chapman-act-2611
 182381652	2024-03-18 16:51:26	unit-526-20-anzac-park-campbell-act-2612
 182381851	2024-03-23 15:06:47	unit-73-13-chandler-street-belconnen-act-2617
+182381853	2024-03-24 06:27:41	unit-13-9-totterdell-street-belconnen-act-2617
 182381870	2024-03-18 16:30:56	4-gascoyne-circuit-kaleen-act-2617
 182382034	2024-03-18 17:22:01	4-mckivat-close-gordon-act-2906
 182382201	2024-03-18 17:20:36	unit-8-5-nevertire-street-lawson-act-2617
@@ -3023,3 +3027,4 @@ ListingId	DateTime	URL
 182396983	2024-03-23 10:40:29	unit-25-2-david-street-turner-act-2612
 182397021	2024-03-23 16:40:22	14-smorgon-street-forde-act-2914
 182397039	2024-03-23 18:00:19	90-macarthur-place-o-connor-act-2602
+182397318	2024-03-24 22:10:13	unit-8-127-madigan-street-hackett-act-2602
