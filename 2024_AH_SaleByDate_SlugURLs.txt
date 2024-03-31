@@ -15,8 +15,8 @@ ListingId	DateTime	URL
 180005288	2021-11-23 13:01:06	21-snodgrass-crescent-kambah-act-2902
 180104133	2021-12-09 07:15:41	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104133
 180104133	2021-12-09 07:15:41	boulevard-take-a-walk-down-the-boulevard-denman-prospect-act-2611?tid=180104133
-180104142	2021-12-09 07:15:36	boulevard-take-a-walk-down-the-boulevard-denman-prospect-act-2611?tid=180104142
 180104142	2021-12-09 07:15:36	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104142
+180104142	2021-12-09 07:15:36	boulevard-take-a-walk-down-the-boulevard-denman-prospect-act-2611?tid=180104142
 180104168	2021-12-09 07:15:32	boulevard-take-a-walk-down-the-boulevard-denman-prospect-act-2611?tid=180104168
 180104168	2021-12-09 07:15:32	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104168
 180104169	2021-12-09 07:15:54	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104169
@@ -140,8 +140,8 @@ ListingId	DateTime	URL
 181529493	2023-04-13 09:31:45	karinya-stunning-four-bedroom-four-bathroom-townhouse-denman-prospect-act-2611?tid=181529493
 181529568	2023-04-13 09:32:03	karinya-residence-5-denman-prospect-act-2611?tid=181529568
 181529568	2023-04-13 09:32:03	karinya-premium-four-bedroom-plus-rumpus-denman-prospect-act-2611?tid=181529568
-181529607	2023-04-13 09:31:37	karinya-grand-four-bedroom-plus-study-denman-prospect-act-2611?tid=181529607
 181529607	2023-04-13 09:31:37	karinya-residence-1-denman-prospect-act-2611?tid=181529607
+181529607	2023-04-13 09:31:37	karinya-grand-four-bedroom-plus-study-denman-prospect-act-2611?tid=181529607
 181535024	2023-04-14 14:50:54	unit-6-20-de-burgh-street-lyneham-act-2602
 181550730	2023-04-21 15:35:58	the-lazenby-townhouse-1-strathnairn-act-2615?tid=181550730
 181550731	2023-04-21 15:36:02	the-lazenby-townhouse-3-strathnairn-act-2615?tid=181550731
@@ -164,8 +164,11 @@ ListingId	DateTime	URL
 181676846	2023-08-22 15:37:03	new-land-lot-1554-googong-nsw-2620?tid=181676846
 181710517	2023-06-19 16:32:05	17-captain-cook-crescent-griffith-act-2603?tid=181710517
 181710527	2023-06-19 17:01:07	17-captain-cook-crescent-griffith-act-2603?tid=181710527
+181713626	2023-07-04 16:50:23	horizon-hill-lot-54-strathnairn-act-2615?tid=181713626
+181713627	2023-07-04 16:44:39	horizon-hill-lot-50-strathnairn-act-2615?tid=181713627
 181713628	2023-06-27 09:06:05	48-speldewinde-street-strathnairn-act-2615?tid=181713628
 181713629	2023-06-30 08:56:53	48-speldewinde-street-strathnairn-act-2615?tid=181713629
+181713636	2023-07-04 16:42:17	horizon-hill-lot-47-strathnairn-act-2615?tid=181713636
 181713639	2023-06-23 13:04:43	48-speldewinde-street-strathnairn-act-2615?tid=181713639
 181713640	2023-06-26 09:55:48	48-speldewinde-street-strathnairn-act-2615?tid=181713640
 181713757	2023-06-29 10:55:07	48-speldewinde-street-strathnairn-act-2615?tid=181713757
@@ -179,8 +182,8 @@ ListingId	DateTime	URL
 181775657	2024-02-29 15:22:53	20-carstensz-street-griffith-act-2603
 181778746	2023-07-15 12:20:32	south-jerrabomberra-nsw-2620?tid=181778746
 181778752	2023-08-23 10:45:09	salus-unit-35-moncrieff-act-2914?tid=181778752
-181779937	2023-08-16 12:15:06	salus-unit-21-moncrieff-act-2914?tid=181779937
 181779937	2023-08-16 12:15:06	salus-unit-19-moncrieff-act-2914?tid=181779937
+181779937	2023-08-16 12:15:06	salus-unit-21-moncrieff-act-2914?tid=181779937
 181779948	2023-08-17 15:06:43	salus-unit-13-moncrieff-act-2914?tid=181779948
 181779949	2023-08-21 10:47:15	salus-unit-2-moncrieff-act-2914?tid=181779949
 181784353	2023-07-18 16:12:05	unit-16-2-pipeclay-street-lawson-act-2617
@@ -807,8 +810,8 @@ ListingId	DateTime	URL
 182224706	2024-01-17 13:10:34	unit-43-14-grace-munro-crescent-strathnairn-act-2615
 182224726	2024-02-21 10:40:45	solai-open-plan-living-just-2-mins-stroll-to-denman-shops-type-j-denman-prospect-act-2611?tid=182224726
 182224727	2024-01-18 11:34:25	unit-19-60-john-gorton-drive-coombs-act-2611
-182224729	2024-01-22 12:45:02	127-20-allara-canberra-act-2601?tid=182224729
 182224729	2024-01-22 12:45:02	127-20-allara-street-canberra-act-2601?tid=182224729
+182224729	2024-01-22 12:45:02	127-20-allara-canberra-act-2601?tid=182224729
 182224731	2024-01-22 13:26:15	unit-55-260-city-walk-city-act-2601
 182224770	2024-01-17 14:10:29	unit-12-30-cunningham-street-kingston-act-2604
 182225262	2024-01-17 14:20:38	5-lochee-place-stirling-act-2611
@@ -1346,8 +1349,8 @@ ListingId	DateTime	URL
 182266133	2024-02-02 12:02:08	unit-15-17-thynne-street-bruce-act-2617
 182266141	2024-02-02 07:30:14	unit-17-3-ovens-street-griffith-act-2603
 182266144	2024-02-02 09:20:56	unit-9-77-leichhardt-street-kingston-act-2604
-182266159	2024-02-02 12:59:19	unit-10-19-thynne-street-bruce-act-2617
 182266159	2024-02-02 12:59:19	bruce-act-2617?tid=182266159
+182266159	2024-02-02 12:59:19	unit-10-19-thynne-street-bruce-act-2617
 182266164	2024-02-08 10:25:52	13-easterbrook-place-gowrie-act-2904
 182266166	2024-02-12 11:40:40	13-cottrell-place-richardson-act-2905
 182266181	2024-02-02 08:50:15	9-bainton-crescent-melba-act-2615
