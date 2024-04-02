@@ -15,8 +15,8 @@ ListingId	DateTime	URL
 180005288	2021-11-23 13:01:06	21-snodgrass-crescent-kambah-act-2902
 180104133	2021-12-09 07:15:41	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104133
 180104133	2021-12-09 07:15:41	boulevard-take-a-walk-down-the-boulevard-denman-prospect-act-2611?tid=180104133
-180104142	2021-12-09 07:15:36	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104142
 180104142	2021-12-09 07:15:36	boulevard-take-a-walk-down-the-boulevard-denman-prospect-act-2611?tid=180104142
+180104142	2021-12-09 07:15:36	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104142
 180104168	2021-12-09 07:15:32	boulevard-take-a-walk-down-the-boulevard-denman-prospect-act-2611?tid=180104168
 180104168	2021-12-09 07:15:32	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104168
 180104169	2021-12-09 07:15:54	boulevard-display-apartment-grand-opening-this-saturday-16th-mar-11-3pm-denman-prospect-act-2611?tid=180104169
@@ -76,6 +76,7 @@ ListingId	DateTime	URL
 181112178	2022-11-23 09:23:03	the-chandler-everything-you-need-nothing-you-don-t-belconnen-act-2617?tid=181112178
 181113947	2022-11-07 15:20:31	the-chandler-everything-you-need-nothing-you-don-t-belconnen-act-2617?tid=181113947
 181114978	2023-10-04 15:44:36	125-monaro-station-road-royalla-nsw-2620?tid=181114978
+181114978	2024-01-25 17:04:59	125-monaro-station-road-royalla-nsw-2620?tid=181114978
 181115008	2024-01-25 17:02:07	125-monaro-station-road-royalla-nsw-2620?tid=181115008
 181120717	2022-11-14 14:19:54	the-chandler-everything-you-need-nothing-you-don-t-belconnen-act-2617?tid=181120717
 181120727	2022-11-28 16:43:42	the-chandler-everything-you-need-nothing-you-don-t-belconnen-act-2617?tid=181120727
@@ -134,8 +135,8 @@ ListingId	DateTime	URL
 181478267	2023-06-07 13:33:57	new-land-lot-2435-googong-nsw-2620?tid=181478267
 181478279	2023-03-24 15:21:16	dksn-1-bedroom-apartment-111-dickson-act-2602?tid=181478279
 181498642	2023-03-30 17:10:38	unit-2502-1-grazier-lane-belconnen-act-2617
-181529084	2023-04-13 09:31:54	karinya-gorgeous-tri-level-four-bedroom-with-stunning-views-denman-prospect-act-2611?tid=181529084
 181529084	2023-04-13 09:31:54	karinya-residence-4-denman-prospect-act-2611?tid=181529084
+181529084	2023-04-13 09:31:54	karinya-gorgeous-tri-level-four-bedroom-with-stunning-views-denman-prospect-act-2611?tid=181529084
 181529493	2023-04-13 09:31:45	karinya-residence-2-denman-prospect-act-2611?tid=181529493
 181529493	2023-04-13 09:31:45	karinya-stunning-four-bedroom-four-bathroom-townhouse-denman-prospect-act-2611?tid=181529493
 181529568	2023-04-13 09:32:03	karinya-residence-5-denman-prospect-act-2611?tid=181529568
@@ -590,8 +591,8 @@ ListingId	DateTime	URL
 182200058	2024-01-11 12:37:23	4-dempsey-place-gordon-act-2906
 182200061	2024-01-10 15:33:45	unit-59-44-jerrabomberra-avenue-narrabundah-act-2604
 182200088	2024-01-08 13:56:00	unit-35-1-mouat-street-lyneham-act-2602
-182200089	2024-01-18 09:34:59	79-freda-gibson-circuit-theodore-act-2905
 182200089	2024-03-06 18:07:01	79-freda-gibson-circuit-theodore-act-2905
+182200089	2024-01-18 09:34:59	79-freda-gibson-circuit-theodore-act-2905
 182200115	2024-01-08 14:30:52	118-fergus-road-queanbeyan-nsw-2620
 182200134	2024-01-08 14:20:31	level-g-unit-125-18-austin-street-griffith-act-2603
 182200275	2024-01-19 11:00:22	1-furzer-street-phillip-act-2606?tid=182200275
@@ -2619,6 +2620,7 @@ ListingId	DateTime	URL
 182369588	2024-03-13 13:50:31	7-byrne-street-wanniassa-act-2903
 182369821	2024-03-13 13:42:16	unit-34-1-hoffmann-street-moncrieff-act-2914
 182369840	2024-03-15 09:26:18	192-heagney-crescent-gilmore-act-2905
+182369841	2024-03-31 08:27:17	unit-ug07-17-the-causeway-kingston-act-2604
 182369909	2024-03-13 15:52:11	61-john-crawford-crescent-casey-act-2913
 182370189	2024-03-13 15:02:06	24-auburn-street-amaroo-act-2914
 182370309	2024-03-13 17:11:47	unit-218-7-irving-street-phillip-act-2606
@@ -2998,6 +3000,7 @@ ListingId	DateTime	URL
 182400686	2024-03-26 11:52:14	unit-3-5-taronga-place-o-malley-act-2606
 182400689	2024-03-29 12:07:59	19-mckeahnie-street-crestwood-nsw-2620?tid=182400689
 182400700	2024-03-29 12:09:31	19-mckeahnie-street-crestwood-nsw-2620?tid=182400700
+182400701	2024-04-01 12:03:13	25-marlock-street-rivett-act-2611
 182400726	2024-03-26 10:56:15	solai-final-type-a-townhome-remaining-with-walk-in-laundry-and-more-denman-prospect-act-2611?tid=182400726
 182400727	2024-03-28 11:13:05	8-sodersten-street-taylor-act-2913
 182400728	2024-03-29 12:10:16	19-mckeahnie-street-crestwood-nsw-2620?tid=182400728
@@ -3092,3 +3095,4 @@ ListingId	DateTime	URL
 182409491	2024-03-28 16:11:11	unit-38-43-constitution-avenue-reid-act-2612
 182409494	2024-03-28 16:52:13	4-bogan-place-kaleen-act-2617
 182410067	2024-03-28 18:50:18	22-mulgara-loop-throsby-act-2914?tid=182410067
+182410889	2024-03-29 13:30:18	168-temperley-street-nicholls-act-2913
