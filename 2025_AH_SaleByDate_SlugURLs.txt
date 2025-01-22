@@ -52,6 +52,7 @@ ListingId	DateTime	URL
 182297639	2024-10-09 12:44:11	90-swain-street-gungahlin-act-2912?tid=182297639
 182307728	2024-02-22 11:37:06	solai-east-facing-townhome-with-views-towards-the-arboretum-type-e-denman-prospect-act-2611?tid=182307728
 182341184	2024-03-01 00:00:00	15-timbarra-crescent-o-malley-act-2606
+182355266	2024-03-07 10:12:12	25-reginald-road-googong-nsw-2620
 182377495	2024-03-15 15:00:51	unit-13b-17-uriarra-road-crestwood-nsw-2620
 182445188	2024-04-12 17:10:57	south-jerrabomberra-homes-by-the-village-building-co-lot-22-tralee-nsw-2620?tid=182445188
 182455982	2024-04-17 16:12:05	unit-214-2-terry-connolly-street-coombs-act-2611
@@ -80,6 +81,7 @@ ListingId	DateTime	URL
 182671721	2024-07-19 10:41:53	90-northbourne-avenue-braddon-act-2612?tid=182671721
 182702898	2024-07-29 12:05:50	solai-functional-floor-plan-with-north-easterly-aspect-type-f-denman-prospect-act-2611?tid=182702898
 182706985	2024-08-01 18:51:55	17-captain-cook-crescent-griffith-act-2603?tid=182706985
+182709379	2024-07-31 00:00:00	20-edwin-oribin-street-taylor-act-2913
 182729687	2024-08-08 12:42:00	29-black-street-yarralumla-act-2600
 182780562	2024-08-28 14:42:01	unit-14-35-oakden-street-greenway-act-2900
 182785885	2024-08-30 14:42:12	2-rolls-street-franklin-act-2913
@@ -112,6 +114,7 @@ ListingId	DateTime	URL
 182883858	2024-10-10 08:51:10	unit-22-7-state-circle-forrest-act-2603
 182883861	2024-10-10 09:07:29	unit-504-335-anketell-street-greenway-act-2900
 182883986	2024-10-10 11:11:36	unit-223-15-irving-street-phillip-act-2606
+182884193	2024-10-10 13:02:13	3-weston-street-yarralumla-act-2600
 182884327	2024-10-10 14:32:30	unit-131-230-flemington-road-harrison-act-2914
 182884679	2024-11-19 08:25:35	central-park-enjoy-views-and-proximity-to-the-new-community-garden-type-q-denman-prospect-act-2611?tid=182884679
 182885548	2024-10-10 15:20:37	unit-1-11-aurora-close-mawson-act-2607
@@ -235,6 +238,7 @@ ListingId	DateTime	URL
 183035602	2024-12-10 14:02:09	unit-4-50-henry-kendall-street-franklin-act-2913
 183037745	2024-12-11 11:20:48	42-harrington-circuit-kambah-act-2902
 183039199	2024-12-11 15:30:51	unit-203-38-gozzard-street-gungahlin-act-2912
+183040438	2024-12-12 10:10:12	18-lindsay-pryor-street-wright-act-2611
 183042284	2024-12-13 08:52:04	56-branson-street-dunlop-act-2615
 183042697	2025-01-13 17:31:04	21-makinson-denman-prospect-act-2611?tid=183042697
 183044895	2025-01-09 13:21:42	unit-8-12-ellison-harvie-close-greenway-act-2900
@@ -389,6 +393,7 @@ ListingId	DateTime	URL
 183077352	2025-01-16 14:03:07	7-seaver-street-monash-act-2904
 183077353	2025-01-16 13:05:39	40-de-burgh-street-lyneham-act-2602?tid=183077353
 183077354	2025-01-17 09:13:09	40-de-burgh-street-lyneham-act-2602?tid=183077354
+183077356	2025-01-21 14:53:25	13-pademelon-street-throsby-act-2914
 183077549	2025-01-14 12:09:25	natura-93-7-summerfield-close-denman-prospect-act-2611?tid=183077549
 183078467	2025-01-10 09:42:28	unit-10m-4-grazier-lane-belconnen-act-2617
 183078684	2025-01-10 09:42:27	23a-derwent-street-lyons-act-2606
@@ -581,3 +586,23 @@ ListingId	DateTime	URL
 183100144	2025-01-20 16:42:58	20-bembrick-street-gungahlin-act-2912
 183100458	2025-01-20 16:32:03	5-dallachy-place-page-act-2614
 183100520	2025-01-20 17:20:56	6-golgerth-street-denman-prospect-act-2611
+183100837	2025-01-21 08:40:15	unit-70-227-flemington-road-franklin-act-2913
+183101622	2025-01-21 08:40:22	unit-49-44-constitution-avenue-parkes-act-2600
+183101720	2025-01-21 10:32:28	level-b-unit-52-58-cowlishaw-street-greenway-act-2900
+183101737	2025-01-21 13:01:05	13-agnes-avenue-crestwood-nsw-2620
+183101754	2025-01-21 12:42:03	126-jabanungga-avenue-ngunnawal-act-2913
+183101790	2025-01-21 08:20:12	30-dalabon-crescent-waramanga-act-2611
+183102009	2025-01-21 11:22:25	unit-2-75-grenfell-avenue-taylor-act-2913
+183102025	2025-01-21 12:33:27	25-pickering-street-monash-act-2904
+183102282	2025-01-21 13:50:51	19-6-high-street-queanbeyan-nsw-2620?tid=183102282
+183102296	2025-01-21 13:52:17	unit-25-1-bon-scott-crescent-moncrieff-act-2914
+183102338	2025-01-21 12:20:56	6-12-mulloon-street-queanbeyan-nsw-2620?tid=183102338
+183102420	2025-01-21 13:30:39	46-devenish-street-taylor-act-2913
+183102434	2025-01-21 13:52:04	wake-crescent-jacka-act-2914?tid=183102434
+183102493	2025-01-21 13:41:50	unit-15-2-eldridge-crescent-garran-act-2605
+183102807	2025-01-21 15:30:36	unit-102-161-mortimer-lewis-drive-greenway-act-2900
+183102897	2025-01-21 16:10:34	unit-8-11-tarra-place-ngunnawal-act-2913
+183103037	2025-01-21 16:02:11	43-djerrkura-street-bonner-act-2914
+183103271	2025-01-21 15:41:27	unit-18-35-clare-burton-crescent-franklin-act-2913
+183103374	2025-01-21 17:10:27	unit-4-38-isabella-street-queanbeyan-nsw-2620
+183103480	2025-01-21 16:32:26	unit-189-45-west-row-city-act-2601
