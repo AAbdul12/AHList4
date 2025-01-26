@@ -50,6 +50,7 @@ ListingId	DateTime	URL
 182174255	2024-07-19 10:30:26	90-northbourne-avenue-braddon-act-2612?tid=182174255
 182174566	2024-07-19 10:41:18	90-northbourne-avenue-braddon-act-2612?tid=182174566
 182246131	2024-01-25 15:16:04	20-edward-drive-googong-nsw-2620?tid=182246131
+182246824	2024-05-08 09:54:35	g6-2-bedroom-apartments-gungahlin-act-2912?tid=182246824
 182262439	2024-02-01 00:00:00	unit-163-7-irving-street-phillip-act-2606
 182289449	2024-02-15 14:03:06	40-de-burgh-street-lyneham-act-2602?tid=182289449
 182296630	2024-02-14 13:11:37	unit-4-51-akame-circuit-o-malley-act-2606
@@ -65,6 +66,7 @@ ListingId	DateTime	URL
 182461089	2024-04-23 13:01:50	125-monaro-station-road-royalla-nsw-2620?tid=182461089
 182461208	2024-04-23 12:58:55	125-monaro-station-road-royalla-nsw-2620?tid=182461208
 182468028	2024-04-23 11:33:49	17-captain-cook-crescent-griffith-act-2603?tid=182468028
+182480308	2024-04-30 12:34:16	209-john-gorton-drive-wright-act-2611?tid=182480308
 182486559	2024-05-02 10:53:17	solai-open-plan-living-just-2-mins-stroll-to-denman-shops-type-j-denman-prospect-act-2611?tid=182486559
 182486575	2024-10-11 15:55:23	53-casey-crescent-calwell-act-2905
 182507698	2025-01-13 09:59:45	26-cynthea-teague-crescent-greenway-act-2900?tid=182507698
@@ -86,6 +88,7 @@ ListingId	DateTime	URL
 182670294	2024-07-19 10:41:37	90-northbourne-avenue-braddon-act-2612?tid=182670294
 182671092	2024-07-18 10:12:04	11-launceston-street-phillip-act-2606?tid=182671092
 182671721	2024-07-19 10:41:53	90-northbourne-avenue-braddon-act-2612?tid=182671721
+182702861	2024-07-29 21:24:20	allegro-3-bedroom-with-double-side-by-side-garage-throsby-act-2914?tid=182702861
 182702898	2024-07-29 12:05:50	solai-functional-floor-plan-with-north-easterly-aspect-type-f-denman-prospect-act-2611?tid=182702898
 182706985	2024-08-01 18:51:55	17-captain-cook-crescent-griffith-act-2603?tid=182706985
 182709379	2024-07-31 00:00:00	20-edwin-oribin-street-taylor-act-2913
@@ -791,3 +794,6 @@ ListingId	DateTime	URL
 183113347	2025-01-24 17:02:18	unit-118-6-cape-street-dickson-act-2602
 183113538	2025-01-24 16:12:26	unit-30-30-bon-scott-crescent-moncrieff-act-2914
 183113548	2025-01-24 17:02:25	unit-25-20-allara-street-city-act-2601
+183114182	2025-01-25 08:22:03	unit-57-21-dawes-street-kingston-act-2604
+183114501	2025-01-25 12:42:01	unit-69-1-buninyong-street-watson-act-2602
+183114878	2025-01-25 00:00:00	unit-317-19-marcus-clarke-street-city-act-2601
