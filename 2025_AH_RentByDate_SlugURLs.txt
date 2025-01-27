@@ -103,8 +103,8 @@ ListingId	DateTime	URL
 183051154	2025-01-06 16:52:58	1-larcombe-crescent-fadden-act-2904
 183051156	2025-01-07 16:53:59	9-decima-circuit-nicholls-act-2913
 183051157	2025-01-09 14:50:51	30-max-purnell-street-forde-act-2914
-183051164	2025-01-21 10:28:14	level-a-unit-610-15-bowes-street-phillip-act-2606
 183051164	2025-01-04 08:48:54	level-a-unit-610-15-bowes-street-phillip-act-2606
+183051164	2025-01-21 10:28:14	level-a-unit-610-15-bowes-street-phillip-act-2606
 183051167	2025-01-07 23:08:40	unit-117-66-allara-street-city-act-2601
 183051170	2025-01-06 08:39:34	73-limestone-avenue-braddon-act-2612
 183051173	2025-01-14 11:21:29	unit-2314-120-eastern-valley-way-belconnen-act-2617
@@ -1051,6 +1051,8 @@ ListingId	DateTime	URL
 183113667	2025-01-25 00:02:00	12-douglas-waterhouse-drive-dunlop-act-2615
 183113793	2025-01-25 00:02:01	12-kurzia-street-tralee-nsw-2620
 183114023	2025-01-25 14:42:00	level-d-unit-78-116-easty-street-phillip-act-2606
+183114126	2025-01-26 10:42:00	5-lahiff-place-dunlop-act-2615
 183114336	2025-01-24 21:22:04	15-darambal-street-aranda-act-2614
+183114507	2025-01-26 21:42:00	32a-kinkead-street-evatt-act-2617
 183114569	2025-01-25 23:11:28	unit-7-36-cromwell-circuit-isabella-plains-act-2905
 183114698	2025-01-24 21:22:01	unit-812-2-grazier-lane-belconnen-act-2617
