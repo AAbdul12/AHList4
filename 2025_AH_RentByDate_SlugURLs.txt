@@ -79,6 +79,7 @@ ListingId	DateTime	URL
 183046516	2025-01-08 12:55:49	unit-52-30-blackall-street-barton-act-2600
 183046710	2025-01-05 17:01:21	11-hackett-gardens-turner-act-2612
 183046711	2025-01-21 20:51:37	11-mcgowan-street-dickson-act-2602
+183046712	2025-02-01 17:33:48	cotton-street-downer-act-2602?tid=183046712
 183046713	2025-01-21 13:38:14	25a-davenport-street-ainslie-act-2602
 183047541	2025-01-12 11:07:54	25-sturrock-place-gordon-act-2906
 183047542	2025-01-03 20:47:36	unit-1-42-buttle-street-queanbeyan-east-nsw-2620
@@ -999,6 +1000,7 @@ ListingId	DateTime	URL
 183108553	2025-01-23 09:42:09	unit-18-39-thurralilly-street-queanbeyan-east-nsw-2620
 183108568	2025-01-22 22:12:51	54-tyson-street-ainslie-act-2602
 183108569	2025-01-24 20:02:31	26-goiser-loop-googong-nsw-2620
+183108571	2025-02-01 12:06:12	gillespie-street-weetangera-act-2614?tid=183108571
 183108592	2025-01-23 10:12:02	unit-1318-39-london-circuit-city-act-2601
 183108649	2025-01-24 21:26:02	scrivener-street-o-connor-act-2602?tid=183108649
 183108650	2025-01-28 21:48:59	unit-5-10-coolac-place-braddon-act-2612
@@ -1291,3 +1293,4 @@ ListingId	DateTime	URL
 183129050	2025-01-31 16:52:05	4-wallaby-place-nicholls-act-2913
 183129148	2025-01-31 16:12:09	unit-50-40-torrens-street-braddon-act-2612
 183130229	2025-01-31 22:32:01	level-b-unit-162-8-limburg-way-greenway-act-2900
+183130729	2025-02-01 21:32:01	45-ronald-walker-street-casey-act-2913
