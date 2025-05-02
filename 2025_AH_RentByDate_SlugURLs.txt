@@ -128,8 +128,8 @@ ListingId	DateTime	URL
 183051154	2025-01-06 16:52:58	1-larcombe-crescent-fadden-act-2904
 183051156	2025-01-07 16:53:59	9-decima-circuit-nicholls-act-2913
 183051157	2025-01-09 14:50:51	30-max-purnell-street-forde-act-2914
-183051164	2025-01-04 08:48:54	level-a-unit-610-15-bowes-street-phillip-act-2606
 183051164	2025-01-21 10:28:14	level-a-unit-610-15-bowes-street-phillip-act-2606
+183051164	2025-01-04 08:48:54	level-a-unit-610-15-bowes-street-phillip-act-2606
 183051167	2025-01-07 23:08:40	unit-117-66-allara-street-city-act-2601
 183051170	2025-01-06 08:39:34	73-limestone-avenue-braddon-act-2612
 183051173	2025-01-14 11:21:29	unit-2314-120-eastern-valley-way-belconnen-act-2617
@@ -870,8 +870,8 @@ ListingId	DateTime	URL
 183098670	2025-01-20 10:42:19	unit-130-11-irving-street-phillip-act-2606
 183098690	2025-01-20 08:20:23	9-cavill-close-holt-act-2615
 183098699	2025-02-28 16:40:47	14-elsie-cornish-way-taylor-act-2913
-183098739	2025-01-20 09:52:04	unit-80-20-federal-highway-watson-act-2602
 183098739	2025-03-06 15:07:03	unit-80-20-federal-highway-watson-act-2602
+183098739	2025-01-20 09:52:04	unit-80-20-federal-highway-watson-act-2602
 183098792	2025-01-20 11:42:17	11-griffith-place-kambah-act-2902
 183098803	2025-01-20 13:12:01	unit-90-9-murdoch-street-lyneham-act-2602
 183098810	2025-01-28 15:12:07	58-dooring-street-dickson-act-2602
@@ -958,8 +958,8 @@ ListingId	DateTime	URL
 183102901	2025-01-21 14:52:38	unit-421-8-cape-street-dickson-act-2602
 183102913	2025-01-21 14:22:11	unit-100-2-woodberry-avenue-coombs-act-2611
 183102958	2025-01-23 12:42:09	69-a-beckett-street-watson-act-2602
-183102968	2025-02-19 12:46:18	9-benjee-place-isabella-plains-act-2905
 183102968	2025-01-21 14:22:30	9-benjee-place-isabella-plains-act-2905
+183102968	2025-02-19 12:46:18	9-benjee-place-isabella-plains-act-2905
 183102988	2025-01-21 14:43:49	unit-10-27-coxen-street-hughes-act-2605
 183103106	2025-01-21 16:20:43	unit-17-217-northbourne-avenue-turner-act-2612
 183103430	2025-01-21 16:20:50	unit-7-86-mawson-drive-mawson-act-2607
@@ -1147,8 +1147,8 @@ ListingId	DateTime	URL
 183115141	2025-01-28 08:12:18	unit-86-64-college-street-belconnen-act-2617
 183115150	2025-01-28 09:12:11	unit-16-60-paul-coe-crescent-ngunnawal-act-2913
 183115251	2025-01-28 09:12:06	5-schomburgk-street-yarralumla-act-2600?tid=183115251
-183115285	2025-01-28 12:32:14	7-paroo-place-kaleen-act-2617
 183115285	2025-02-24 14:01:04	7-paroo-place-kaleen-act-2617
+183115285	2025-01-28 12:32:14	7-paroo-place-kaleen-act-2617
 183115300	2025-01-31 14:44:21	66a-hawdon-street-ainslie-act-2602
 183115331	2025-01-28 11:04:20	unit-3-62-knox-street-watson-act-2602
 183115353	2025-01-28 11:20:54	unit-9-3-adventure-street-harrison-act-2914
@@ -1350,8 +1350,8 @@ ListingId	DateTime	URL
 183128760	2025-01-31 15:32:02	unit-303-90-swain-street-gungahlin-act-2912
 183128811	2025-01-31 17:02:19	10a-fergus-road-karabar-nsw-2620
 183129050	2025-01-31 16:52:05	4-wallaby-place-nicholls-act-2913
-183129148	2025-03-06 09:10:13	unit-50-40-torrens-street-braddon-act-2612
 183129148	2025-01-31 16:12:09	unit-50-40-torrens-street-braddon-act-2612
+183129148	2025-03-06 09:10:13	unit-50-40-torrens-street-braddon-act-2612
 183129765	2025-02-03 09:02:13	unit-2-2-archibald-street-lyneham-act-2602
 183129957	2025-02-03 11:52:36	unit-1-82-pro-hart-avenue-holt-act-2615
 183130229	2025-01-31 22:32:01	level-b-unit-162-8-limburg-way-greenway-act-2900
@@ -1890,8 +1890,8 @@ ListingId	DateTime	URL
 183174039	2025-02-19 15:22:03	44-quiros-street-red-hill-act-2603
 183174050	2025-02-19 16:52:11	unit-5-110-livingston-avenue-kambah-act-2902
 183174068	2025-02-20 14:12:06	5-burnett-street-kaleen-act-2617
-183174078	2025-03-15 17:25:48	unit-4-36-morell-close-belconnen-act-2617
 183174078	2025-02-19 15:42:07	unit-4-36-morell-close-belconnen-act-2617
+183174078	2025-03-15 17:25:48	unit-4-36-morell-close-belconnen-act-2617
 183174138	2025-02-19 16:53:48	3-wall-place-page-act-2614?tid=183174138
 183174140	2025-02-20 00:00:00	7-supply-place-red-hill-act-2603
 183174155	2025-02-28 14:26:52	unit-17-135-blamey-crescent-campbell-act-2612
@@ -2356,8 +2356,8 @@ ListingId	DateTime	URL
 183243550	2025-03-11 16:01:03	unit-4-170-flemington-road-harrison-act-2914
 183243558	2025-03-11 15:43:30	unit-11-18-dooring-street-braddon-act-2612
 183243561	2025-03-13 11:29:21	8-lowrie-street-dickson-act-2602
-183243563	2025-04-01 11:00:12	unit-1-7-sabine-close-garran-act-2605
 183243563	2025-03-14 10:37:11	unit-1-7-sabine-close-garran-act-2605
+183243563	2025-04-01 11:00:12	unit-1-7-sabine-close-garran-act-2605
 183243568	2025-03-11 16:00:32	19-pixie-lane-harrison-act-2914
 183243579	2025-03-11 16:00:57	level-b-unit-9-97-eastern-valley-way-belconnen-act-2617
 183243588	2025-03-11 16:00:52	unit-733-335-anketell-street-greenway-act-2900
@@ -2590,8 +2590,8 @@ ListingId	DateTime	URL
 183258138	2025-03-18 11:41:08	unit-11-41-blackall-street-barton-act-2600
 183258141	2025-03-18 13:02:05	10-eggleston-crescent-chifley-act-2606
 183258200	2025-03-19 14:40:30	unit-44-18-captain-cook-crescent-griffith-act-2603
-183258297	2025-04-02 12:11:00	unit-23-70-efkarpidis-street-gungahlin-act-2912
 183258297	2025-03-18 14:51:00	unit-23-70-efkarpidis-street-gungahlin-act-2912
+183258297	2025-04-02 12:11:00	unit-23-70-efkarpidis-street-gungahlin-act-2912
 183258361	2025-03-18 12:40:57	unit-25-41-blackall-street-barton-act-2600
 183258423	2025-03-18 13:02:13	4-medley-street-chifley-act-2606
 183258447	2025-03-18 14:50:58	unit-37-119-sutherland-crescent-taylor-act-2913
@@ -2706,8 +2706,8 @@ ListingId	DateTime	URL
 183266424	2025-03-20 16:30:43	unit-25-6-heard-street-mawson-act-2607
 183266424	2025-04-08 12:40:32	unit-25-6-heard-street-mawson-act-2607
 183266462	2025-03-20 16:30:55	level-f-unit-104-116-easty-street-phillip-act-2606
-183266561	2025-04-23 12:00:20	177-la-perouse-street-red-hill-act-2603
 183266561	2025-03-20 16:52:02	177-la-perouse-street-red-hill-act-2603
+183266561	2025-04-23 12:00:20	177-la-perouse-street-red-hill-act-2603
 183266572	2025-03-20 17:02:18	8-43-47-hutchinson-street-queanbeyan-nsw-2620?tid=183266572
 183266600	2025-03-21 10:42:11	18-cedar-street-harrison-act-2914
 183267086	2025-03-20 19:20:11	unit-34-16-alex-colley-crescent-wright-act-2611
@@ -2852,8 +2852,8 @@ ListingId	DateTime	URL
 183283964	2025-03-31 10:02:13	unit-4-71-tharwa-road-queanbeyan-nsw-2620
 183283968	2025-03-29 11:20:22	unit-2-38-bambridge-street-weetangera-act-2614
 183284149	2025-03-31 09:34:07	14-donoghoe-st-queanbeyan-east-nsw-2620?tid=183284149
-183284468	2025-05-01 15:00:10	54-benalla-street-crace-act-2911
 183284468	2025-03-30 18:20:11	54-benalla-street-crace-act-2911
+183284468	2025-05-01 15:00:10	54-benalla-street-crace-act-2911
 183284898	2025-03-31 10:52:13	unit-111-56-forbes-street-turner-act-2612
 183284977	2025-03-31 12:22:12	20-5-bowers-place-queanbeyan-nsw-2620?tid=183284977
 183284993	2025-03-31 12:32:06	unit-2-88-dawes-street-kingston-act-2604
@@ -3218,8 +3218,8 @@ ListingId	DateTime	URL
 183312386	2025-04-11 11:22:18	level-c-unit-17-6-trevillian-quay-kingston-act-2604
 183312402	2025-04-14 12:22:20	unit-714-6-furzer-street-phillip-act-2606
 183312404	2025-04-11 11:01:13	44-macfarland-crescent-chifley-act-2606
-183312417	2025-04-10 16:50:39	unit-45-4-hoolihan-street-denman-prospect-act-2611
 183312417	2025-04-24 16:37:24	unit-45-4-hoolihan-street-denman-prospect-act-2611
+183312417	2025-04-10 16:50:39	unit-45-4-hoolihan-street-denman-prospect-act-2611
 183312424	2025-04-11 08:20:21	unit-102a-2-gribble-street-gungahlin-act-2912
 183312443	2025-04-10 16:44:20	unit-90-170-flemington-road-harrison-act-2914
 183312483	2025-04-11 09:32:47	9-cumberlege-crescent-pearce-act-2607
