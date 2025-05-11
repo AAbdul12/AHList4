@@ -168,8 +168,8 @@ ListingId	DateTime	URL
 183061483	2025-01-01 09:52:42	unit-53-234-flemington-road-harrison-act-2914
 183061495	2025-01-02 10:42:56	unit-305-10-currie-crescent-griffith-act-2603
 183061515	2025-01-02 09:32:23	unit-302-45-honeysett-view-kingston-act-2604
-183061522	2025-02-11 16:12:58	16-fullwood-street-weston-act-2611
 183061522	2025-01-02 09:52:45	16-fullwood-street-weston-act-2611
+183061522	2025-02-11 16:12:58	16-fullwood-street-weston-act-2611
 183061799	2025-01-01 09:52:29	unit-2-27-ebor-lane-harrison-act-2914
 183061845	2025-01-02 09:32:02	27-maclaurin-crescent-chifley-act-2606
 183061862	2025-01-03 12:04:11	19-preddey-way-gordon-act-2906
@@ -1512,8 +1512,8 @@ ListingId	DateTime	URL
 183141215	2025-02-06 09:42:06	59-kingsland-parade-casey-act-2913
 183141259	2025-02-05 17:32:11	25-cunningham-street-queanbeyan-nsw-2620?tid=183141259
 183141336	2025-02-06 10:32:02	18-hugh-gilchrist-street-casey-act-2913
-183141667	2025-02-06 11:42:08	77-carman-loop-macgregor-act-2615
 183141667	2025-04-03 09:56:19	77-carman-loop-macgregor-act-2615
+183141667	2025-02-06 11:42:08	77-carman-loop-macgregor-act-2615
 183141688	2025-02-05 19:32:34	unit-188-1-mouat-street-lyneham-act-2602
 183141703	2025-02-06 08:32:01	unit-58-15-irving-street-phillip-act-2606
 183141795	2025-02-06 10:32:09	unit-319-335-anketell-street-greenway-act-2900
@@ -1716,8 +1716,8 @@ ListingId	DateTime	URL
 183157432	2025-02-12 16:30:30	28-burdekin-street-duffy-act-2611
 183157521	2025-02-12 16:30:28	unit-77-20-fairhall-street-coombs-act-2611
 183157530	2025-02-12 16:40:28	unit-1207-1-grazier-lane-belconnen-act-2617
-183157552	2025-02-12 16:02:00	unit-82-60-kingsland-parade-casey-act-2913
 183157552	2025-03-19 17:31:43	unit-82-60-kingsland-parade-casey-act-2913
+183157552	2025-02-12 16:02:00	unit-82-60-kingsland-parade-casey-act-2913
 183158285	2025-02-13 09:52:08	unit-14-3-campbell-street-queanbeyan-nsw-2620
 183158396	2025-02-13 10:01:37	1-welsh-place-chifley-act-2606
 183158904	2025-02-13 11:31:03	unit-407-2-batman-street-braddon-act-2612
@@ -1998,8 +1998,8 @@ ListingId	DateTime	URL
 183183622	2025-02-24 10:12:16	unit-97-122-macarthur-avenue-turner-act-2612
 183183726	2025-02-24 12:42:12	5b-noarlunga-crescent-bonython-act-2905
 183183748	2025-02-24 10:32:07	2b-avenal-street-crace-act-2911
-183183778	2025-03-27 14:20:05	unit-13-55-stuart-street-griffith-act-2603
 183183778	2025-02-24 11:32:12	unit-13-55-stuart-street-griffith-act-2603
+183183778	2025-03-27 14:20:05	unit-13-55-stuart-street-griffith-act-2603
 183183842	2025-02-24 12:22:24	unit-51-19-ijong-street-braddon-act-2612
 183183967	2025-02-24 13:42:15	unit-4-5-adams-street-queanbeyan-nsw-2620
 183184387	2025-02-24 16:32:24	unit-510-81-cooyong-street-reid-act-2612
@@ -2278,8 +2278,8 @@ ListingId	DateTime	URL
 183238589	2025-03-09 17:14:12	29-turbayne-crescent-forde-act-2914
 183238593	2025-03-14 12:25:47	unit-6g-2-parbery-street-kingston-act-2604
 183238594	2025-03-14 13:15:02	lyons-act-2606?tid=183238594
-183238654	2025-03-07 22:01:02	3-chevalier-street-weston-act-2611
 183238654	2025-04-08 15:41:58	3-chevalier-street-weston-act-2611
+183238654	2025-03-07 22:01:02	3-chevalier-street-weston-act-2611
 183238744	2025-03-31 14:01:16	unit-77-235-flemington-road-franklin-act-2913?tid=183238744
 183238744	2025-03-07 22:00:55	unit-77-235-flemington-road-franklin-act-2913?tid=183238744
 183238802	2025-03-07 22:00:59	unit-411-90-swain-street-gungahlin-act-2912?tid=183238802
@@ -3772,6 +3772,7 @@ ListingId	DateTime	URL
 183355994	2025-05-05 09:12:19	unit-612-2-furzer-street-phillip-act-2606
 183356002	2025-05-08 09:36:02	unit-62-2-newchurch-street-coombs-act-2611
 183356003	2025-05-09 12:55:22	unit-75-81-constitution-avenue-campbell-act-2612?tid=183356003
+183356004	2025-05-10 08:36:34	2-d-arcy-place-chifley-act-2606
 183356005	2025-05-09 17:20:39	253-antill-street-watson-act-2602
 183356074	2025-05-05 09:32:25	unit-44-18-kennedy-street-kingston-act-2604
 183356075	2025-05-05 09:52:08	unit-33-33-braybrooke-street-bruce-act-2617
@@ -3957,3 +3958,5 @@ ListingId	DateTime	URL
 183370869	2025-05-09 16:02:28	173-majura-avenue-dickson-act-2602
 183370919	2025-05-09 15:52:15	unit-145-46-macquarie-street-barton-act-2600
 183370938	2025-05-09 15:42:16	41b-quiros-street-red-hill-act-2603
+183371561	2025-05-10 13:52:06	unit-1-72-canberra-avenue-griffith-act-2603
+183372038	2025-05-10 18:03:56	23-gungahlin-place-gungahlin-act-2912
