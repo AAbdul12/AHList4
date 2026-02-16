@@ -344,6 +344,7 @@ ListingId	DateTime	URL
 183933556	2026-01-28 13:52:05	30-robson-street-garran-act-2605
 183933568	2026-01-28 13:02:20	unit-112-50-eastlake-parade-kingston-act-2604
 183933579	2026-02-04 00:19:59	11-talbot-street-forrest-act-2603
+183933580	2026-02-15 20:50:58	12a-mackaness-place-garran-act-2605
 183933674	2026-01-28 13:20:43	1-4-bowers-place-queanbeyan-nsw-2620?tid=183933674
 183933720	2026-01-30 07:39:53	unit-7-57-totterdell-street-belconnen-act-2617
 183933721	2026-01-30 12:16:54	unit-4-2-tauss-place-bruce-act-2617?tid=183933721
