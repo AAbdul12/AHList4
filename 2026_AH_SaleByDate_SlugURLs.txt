@@ -1667,6 +1667,7 @@ ListingId	DateTime	URL
 183971538	2026-02-13 10:54:40	tralee-nsw-2620?tid=183971538
 183971677	2026-02-13 12:21:01	unit-21-33-braybrooke-street-bruce-act-2617
 183972487	2026-02-13 17:20:03	unit-204-253-northbourne-avenue-lyneham-act-2602
+183972657	2026-02-15 10:42:05	unit-ug15-17-the-causeway-kingston-act-2604
 183972667	2026-02-14 16:22:05	unit-31-22-henry-kendall-street-franklin-act-2913
 183973267	2026-02-13 22:22:02	unit-2-76-hurley-street-mawson-act-2607
 183973339	2026-02-14 00:00:07	unit-16-31-moyes-crescent-holt-act-2615
