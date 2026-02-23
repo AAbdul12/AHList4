@@ -1033,3 +1033,7 @@ ListingId	DateTime	URL
 183988636	2026-02-21 09:10:09	unit-8-17-campbell-street-queanbeyan-nsw-2620
 183988781	2026-02-20 19:36:02	unit-804-86-northbourne-avenue-braddon-act-2612
 183989008	2026-02-20 21:41:10	20-jimmy-clements-crescent-bonner-act-2914
+183989381	2026-02-22 17:16:03	26-baudinette-circuit-bruce-act-2617
+183989398	2026-02-22 16:02:04	unit-1408-6-furzer-street-phillip-act-2606
+183989408	2026-02-22 16:02:10	unit-910-2-furzer-street-phillip-act-2606
+183989450	2026-02-22 18:24:01	unit-19-115-canberra-avenue-griffith-act-2603
