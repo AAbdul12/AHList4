@@ -223,6 +223,7 @@ ListingId	DateTime	URL
 183630767	2026-01-29 12:36:21	31-novar-street-yarralumla-act-2600
 183632008	2025-08-28 19:42:02	unit-22-77-northbourne-avenue-turner-act-2612
 183632103	2025-08-29 09:32:15	unit-303-42-mort-street-braddon-act-2612
+183634517	2025-09-01 08:54:13	28-pindari-crescent-o-malley-act-2606
 183641530	2025-09-03 10:53:28	unit-8-25-macrobertson-street-mawson-act-2607
 183641895	2025-10-10 06:59:45	ijong-north-terrace-9-braddon-act-2612?tid=183641895
 183644400	2025-09-04 09:20:13	25-howitt-street-kingston-act-2604?tid=183644400
@@ -1571,8 +1572,8 @@ ListingId	DateTime	URL
 183959922	2026-02-12 13:51:00	50-launceston-street-phillip-act-2606?tid=183959922
 183959923	2026-02-12 13:50:47	50-launceston-street-phillip-act-2606?tid=183959923
 183959924	2026-02-13 12:25:33	50-launceston-street-phillip-act-2606?tid=183959924
-183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
 183959927	2026-02-20 12:27:52	denman-prospect-cravens-vista-block-5-section-138-denman-prospect-act-2611?tid=183959927
+183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
 183959944	2026-02-09 14:12:05	unit-152-1-anthony-rolfe-avenue-gungahlin-act-2912
 183960253	2026-02-09 14:52:20	504-102-nourtbourne-avenue-braddon-act-2612?tid=183960253
 183960384	2026-02-09 14:22:02	9-carolyn-jackson-drive-jerrabomberra-nsw-2619
@@ -1621,15 +1622,15 @@ ListingId	DateTime	URL
 183965472	2026-02-11 12:42:12	18-gunyan-place-ngunnawal-act-2913
 183965571	2026-02-13 10:04:33	edition-116-type-c-townhouse-denman-prospect-act-2611?tid=183965571
 183965576	2026-02-17 11:30:51	edition-116-type-d-townhouse-denman-prospect-act-2611?tid=183965576
-183965577	2026-02-20 12:25:43	denman-prospect-cravens-vista-block-3-section-136-denman-prospect-act-2611?tid=183965577
 183965577	2026-02-20 12:25:43	9-romano-street-denman-prospect-act-2611?tid=183965577
+183965577	2026-02-20 12:25:43	denman-prospect-cravens-vista-block-3-section-136-denman-prospect-act-2611?tid=183965577
 183965579	2026-02-11 12:12:06	unit-32-82-henry-kendall-street-franklin-act-2913
 183965580	2026-02-11 12:12:26	unit-116-2-hinder-street-gungahlin-act-2912
 183965625	2026-02-11 14:02:29	27-marsden-street-dickson-act-2602
 183965634	2026-02-11 14:12:16	41-northmore-crescent-higgins-act-2615
 183965638	2026-02-11 12:39:53	unit-13-11-camilleri-way-gungahlin-act-2912
-183965643	2026-02-20 12:24:23	9-romano-street-denman-prospect-act-2611?tid=183965643
 183965643	2026-02-20 12:24:23	denman-prospect-cravens-vista-block-17-section-138-denman-prospect-act-2611?tid=183965643
+183965643	2026-02-20 12:24:23	9-romano-street-denman-prospect-act-2611?tid=183965643
 183965952	2026-02-11 14:22:26	3-risson-street-gungahlin-act-2912
 183966091	2026-02-11 14:12:33	13-canterbury-crescent-deakin-act-2600
 183966198	2026-02-11 14:22:21	unit-61-35-oakden-street-greenway-act-2900
