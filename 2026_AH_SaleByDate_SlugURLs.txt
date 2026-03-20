@@ -990,8 +990,8 @@ ListingId	DateTime	URL
 183933049	2026-01-28 10:04:07	edition-116-type-h-duplex-denman-prospect-act-2611?tid=183933049
 183933050	2026-03-04 10:34:53	59-mcfarlane-avenue-googong-nsw-2620?tid=183933050
 183933051	2026-02-04 16:03:51	unit-109-352-northbourne-avenue-dickson-act-2602
-183933055	2026-02-20 12:27:22	denman-prospect-cravens-vista-block-8-section-137-denman-prospect-act-2611?tid=183933055
 183933055	2026-02-20 12:27:22	9-romano-street-denman-prospect-act-2611?tid=183933055
+183933055	2026-02-20 12:27:22	denman-prospect-cravens-vista-block-8-section-137-denman-prospect-act-2611?tid=183933055
 183933056	2026-02-12 09:19:38	39-alabaster-street-monash-act-2904
 183933057	2026-02-09 13:48:23	52-leichhardt-street-griffith-act-2603?tid=183933057
 183933059	2026-01-28 10:22:16	16-shedden-street-casey-act-2913
@@ -1623,8 +1623,8 @@ ListingId	DateTime	URL
 183965472	2026-02-11 12:42:12	18-gunyan-place-ngunnawal-act-2913
 183965571	2026-02-13 10:04:33	edition-116-type-c-townhouse-denman-prospect-act-2611?tid=183965571
 183965576	2026-02-17 11:30:51	edition-116-type-d-townhouse-denman-prospect-act-2611?tid=183965576
-183965577	2026-02-20 12:25:43	denman-prospect-cravens-vista-block-3-section-136-denman-prospect-act-2611?tid=183965577
 183965577	2026-02-20 12:25:43	9-romano-street-denman-prospect-act-2611?tid=183965577
+183965577	2026-02-20 12:25:43	denman-prospect-cravens-vista-block-3-section-136-denman-prospect-act-2611?tid=183965577
 183965579	2026-02-11 12:12:06	unit-32-82-henry-kendall-street-franklin-act-2913
 183965580	2026-02-11 12:12:26	unit-116-2-hinder-street-gungahlin-act-2912
 183965625	2026-02-11 14:02:29	27-marsden-street-dickson-act-2602
@@ -2577,3 +2577,4 @@ ListingId	DateTime	URL
 184016199	2026-03-05 15:34:24	8-boxall-lane-strathnairn-act-2615
 184016208	2026-03-05 15:44:41	8-wade-street-watson-act-2602
 184018931	2026-03-06 15:44:07	24-fullagar-crescent-higgins-act-2615
+184033788	2026-03-13 17:22:32	19-boswell-crescent-florey-act-2615
