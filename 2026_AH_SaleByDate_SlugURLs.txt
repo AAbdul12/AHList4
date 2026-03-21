@@ -392,6 +392,7 @@ ListingId	DateTime	URL
 183789832	2025-11-07 10:32:14	3-beauchamp-street-deakin-act-2600
 183790325	2025-11-20 09:59:25	46-aspinall-street-watson-act-2602?tid=183790325
 183793824	2025-11-10 14:30:31	unit-2-19-torpy-place-jerrabomberra-nsw-2619
+183795877	2025-11-11 10:01:01	unit-6-34-leontine-loop-denman-prospect-act-2611
 183797155	2025-11-11 13:42:27	unit-14g-82-wentworth-avenue-kingston-act-2604
 183797585	2025-11-11 16:12:03	unit-24-35-bon-scott-crescent-moncrieff-act-2914
 183798059	2025-11-20 09:59:19	46-aspinall-street-watson-act-2602?tid=183798059
@@ -437,6 +438,7 @@ ListingId	DateTime	URL
 183820170	2025-11-20 07:36:11	3-sutton-place-farrer-act-2607
 183820175	2025-11-20 13:06:10	unit-3-8-aurora-close-mawson-act-2607
 183820200	2025-11-20 10:52:11	unit-5-73-dalkin-crescent-casey-act-2913
+183820304	2025-11-20 11:42:54	16-harrington-circuit-kambah-act-2902
 183820336	2025-11-20 15:02:25	41-inge-king-crescent-whitlam-act-2611
 183820338	2025-11-20 09:52:22	16-packham-place-charnwood-act-2615
 183820721	2025-11-20 12:02:03	19-malcolm-cole-terrace-whitlam-act-2611
@@ -1573,8 +1575,8 @@ ListingId	DateTime	URL
 183959922	2026-02-12 13:51:00	50-launceston-street-phillip-act-2606?tid=183959922
 183959923	2026-02-12 13:50:47	50-launceston-street-phillip-act-2606?tid=183959923
 183959924	2026-02-13 12:25:33	50-launceston-street-phillip-act-2606?tid=183959924
-183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
 183959927	2026-02-20 12:27:52	denman-prospect-cravens-vista-block-5-section-138-denman-prospect-act-2611?tid=183959927
+183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
 183959944	2026-02-09 14:12:05	unit-152-1-anthony-rolfe-avenue-gungahlin-act-2912
 183960253	2026-02-09 14:52:20	504-102-nourtbourne-avenue-braddon-act-2612?tid=183960253
 183960384	2026-02-09 14:22:02	9-carolyn-jackson-drive-jerrabomberra-nsw-2619
@@ -1861,10 +1863,10 @@ ListingId	DateTime	URL
 183977441	2026-02-17 13:36:16	25-taylor-place-greenleigh-nsw-2620
 183978054	2026-02-17 16:02:33	unit-44-58-eileen-good-street-greenway-act-2900
 183978100	2026-02-17 15:24:07	56-ian-potter-crescent-gungahlin-act-2912
-183978118	2026-02-20 12:26:14	9-romano-street-denman-prospect-act-2611?tid=183978118
 183978118	2026-02-20 12:26:14	denman-prospect-cravens-vista-block-16-section-137-denman-prospect-act-2611?tid=183978118
-183978119	2026-02-20 12:24:49	9-romano-street-denman-prospect-act-2611?tid=183978119
+183978118	2026-02-20 12:26:14	9-romano-street-denman-prospect-act-2611?tid=183978118
 183978119	2026-02-20 12:24:49	denman-prospect-cravens-vista-block-8-section-138-denman-prospect-act-2611?tid=183978119
+183978119	2026-02-20 12:24:49	9-romano-street-denman-prospect-act-2611?tid=183978119
 183978130	2026-02-17 16:12:48	15-warup-street-moncrieff-act-2914
 183978132	2026-02-17 16:51:17	unit-36-125-wellsvale-drive-googong-nsw-2620
 183978163	2026-02-17 16:31:30	52-cadell-street-downer-act-2602
@@ -2576,5 +2578,8 @@ ListingId	DateTime	URL
 184016170	2026-03-05 16:02:35	66-moorhouse-street-o-connor-act-2602
 184016199	2026-03-05 15:34:24	8-boxall-lane-strathnairn-act-2615
 184016208	2026-03-05 15:44:41	8-wade-street-watson-act-2602
+184017270	2026-03-06 10:24:31	unit-2-35-brockway-circuit-banks-act-2906
+184017412	2026-03-06 11:54:26	38-bainbridge-close-chisholm-act-2905
 184018931	2026-03-06 15:44:07	24-fullagar-crescent-higgins-act-2615
 184033788	2026-03-13 17:22:32	19-boswell-crescent-florey-act-2615
+184035816	2026-03-16 14:20:40	57-cuthbert-circuit-wanniassa-act-2903
