@@ -198,6 +198,7 @@ ListingId	DateTime	URL
 183576648	2025-08-07 07:41:41	solai-elevated-apartment-just-minutes-from-denman-shops-unit-61-denman-prospect-act-2611?tid=183576648
 183579838	2025-08-06 06:16:32	elm-lane-2-bedroom-apartments-up-to-106m2-of-total-living-denman-prospect-act-2611?tid=183579838
 183579848	2025-08-06 06:26:33	elm-lane-5-bedroom-duplexes-up-to-238m2-of-total-living-denman-prospect-act-2611?tid=183579848
+183580120	2025-08-06 10:32:06	71-coaldrake-avenue-denman-prospect-act-2611
 183581274	2025-08-06 14:52:07	unit-202-43-arthur-blakeley-way-coombs-act-2611
 183581548	2025-08-06 14:24:46	macnamara-at-ginninderry-37-ilma-stone-way-macnamara-act-2615?tid=183581548
 183584729	2025-08-07 14:12:02	unit-33-47-mcmillan-crescent-griffith-act-2603
@@ -1829,8 +1830,8 @@ ListingId	DateTime	URL
 183971530	2026-02-13 11:02:13	unit-104-189-gorman-drive-googong-nsw-2620
 183971531	2026-02-13 12:32:08	3-galbraith-close-banks-act-2906
 183971538	2026-02-13 10:54:40	tralee-nsw-2620?tid=183971538
-183971542	2026-02-20 12:23:34	9-romano-street-denman-prospect-act-2611?tid=183971542
 183971542	2026-02-20 12:23:34	denman-prospect-cravens-vista-block-11-section-139-denman-prospect-act-2611?tid=183971542
+183971542	2026-02-20 12:23:34	9-romano-street-denman-prospect-act-2611?tid=183971542
 183971543	2026-02-24 17:23:06	15-attwood-close-gordon-act-2906
 183971544	2026-02-17 17:38:12	32-sellbach-street-weston-act-2611
 183971677	2026-02-13 12:21:01	unit-21-33-braybrooke-street-bruce-act-2617
@@ -1856,8 +1857,8 @@ ListingId	DateTime	URL
 183976601	2026-02-17 09:50:44	23-hendry-close-nicholls-act-2913
 183976725	2026-02-17 11:22:13	35-oleria-street-karabar-nsw-2620
 183976764	2026-02-17 11:24:53	unit-2-30-trinculo-place-queanbeyan-east-nsw-2620
-183976970	2026-02-20 12:23:04	9-romano-street-denman-prospect-act-2611?tid=183976970
 183976970	2026-02-20 12:23:04	denman-prospect-cravens-vista-block-8-section-139-denman-prospect-act-2611?tid=183976970
+183976970	2026-02-20 12:23:04	9-romano-street-denman-prospect-act-2611?tid=183976970
 183977040	2026-02-20 12:24:01	denman-prospect-cravens-vista-block-4-section-135-denman-prospect-act-2611?tid=183977040
 183977040	2026-02-20 12:24:01	9-romano-street-denman-prospect-act-2611?tid=183977040
 183977441	2026-02-17 13:36:16	25-taylor-place-greenleigh-nsw-2620
