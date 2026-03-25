@@ -1576,8 +1576,8 @@ ListingId	DateTime	URL
 183959922	2026-02-12 13:51:00	50-launceston-street-phillip-act-2606?tid=183959922
 183959923	2026-02-12 13:50:47	50-launceston-street-phillip-act-2606?tid=183959923
 183959924	2026-02-13 12:25:33	50-launceston-street-phillip-act-2606?tid=183959924
-183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
 183959927	2026-02-20 12:27:52	denman-prospect-cravens-vista-block-5-section-138-denman-prospect-act-2611?tid=183959927
+183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
 183959944	2026-02-09 14:12:05	unit-152-1-anthony-rolfe-avenue-gungahlin-act-2912
 183960253	2026-02-09 14:52:20	504-102-nourtbourne-avenue-braddon-act-2612?tid=183960253
 183960384	2026-02-09 14:22:02	9-carolyn-jackson-drive-jerrabomberra-nsw-2619
@@ -1859,8 +1859,8 @@ ListingId	DateTime	URL
 183976764	2026-02-17 11:24:53	unit-2-30-trinculo-place-queanbeyan-east-nsw-2620
 183976970	2026-02-20 12:23:04	denman-prospect-cravens-vista-block-8-section-139-denman-prospect-act-2611?tid=183976970
 183976970	2026-02-20 12:23:04	9-romano-street-denman-prospect-act-2611?tid=183976970
-183977040	2026-02-20 12:24:01	denman-prospect-cravens-vista-block-4-section-135-denman-prospect-act-2611?tid=183977040
 183977040	2026-02-20 12:24:01	9-romano-street-denman-prospect-act-2611?tid=183977040
+183977040	2026-02-20 12:24:01	denman-prospect-cravens-vista-block-4-section-135-denman-prospect-act-2611?tid=183977040
 183977441	2026-02-17 13:36:16	25-taylor-place-greenleigh-nsw-2620
 183978054	2026-02-17 16:02:33	unit-44-58-eileen-good-street-greenway-act-2900
 183978100	2026-02-17 15:24:07	56-ian-potter-crescent-gungahlin-act-2912
@@ -2582,7 +2582,10 @@ ListingId	DateTime	URL
 184017006	2026-03-06 10:24:51	69-devonport-street-lyons-act-2606
 184017270	2026-03-06 10:24:31	unit-2-35-brockway-circuit-banks-act-2906
 184017412	2026-03-06 11:54:26	38-bainbridge-close-chisholm-act-2905
+184017483	2026-03-06 11:00:58	16-bathurst-place-macquarie-act-2614
 184017588	2026-03-06 09:06:10	24-ruth-bedford-street-franklin-act-2913
+184018112	2026-03-06 14:11:10	2-kurundi-place-hawker-act-2614
 184018931	2026-03-06 15:44:07	24-fullagar-crescent-higgins-act-2615
+184025868	2026-03-11 09:02:03	34-ferguson-circuit-ngunnawal-act-2913
 184033788	2026-03-13 17:22:32	19-boswell-crescent-florey-act-2615
 184035816	2026-03-16 14:20:40	57-cuthbert-circuit-wanniassa-act-2903
