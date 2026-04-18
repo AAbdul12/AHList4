@@ -154,8 +154,8 @@ ListingId	DateTime	URL
 183909485	2026-01-15 15:31:40	unit-301-2-grazier-lane-belconnen-act-2617
 183909757	2026-01-15 16:30:09	unit-212-21-captain-cook-crescent-griffith-act-2603
 183909867	2026-01-15 14:50:23	1a-anne-street-queanbeyan-nsw-2620?tid=183909867
-183909894	2026-02-18 14:00:00	unit-101-107-canberra-avenue-griffith-act-2603
 183909894	2026-01-15 15:31:04	unit-101-107-canberra-avenue-griffith-act-2603
+183909894	2026-02-18 14:00:00	unit-101-107-canberra-avenue-griffith-act-2603
 183909954	2026-01-15 15:31:14	unit-31-15-bowman-street-macquarie-act-2614
 183909991	2026-01-15 15:31:31	unit-65-2-torrens-street-braddon-act-2612
 183910089	2026-01-15 15:30:41	9-6-mowatt-street-queanbeyan-nsw-2620?tid=183910089
@@ -284,8 +284,8 @@ ListingId	DateTime	URL
 183926116	2026-01-23 14:34:09	unit-3-12-howitt-street-kingston-act-2604
 183926211	2026-01-23 12:46:14	2-leahy-place-gordon-act-2906
 183926261	2026-01-23 12:14:13	unit-702-2-furzer-street-phillip-act-2606
-183926263	2026-02-24 12:00:10	unit-11-102-henderson-road-crestwood-nsw-2620
 183926263	2026-01-23 12:34:03	unit-11-102-henderson-road-crestwood-nsw-2620
+183926263	2026-02-24 12:00:10	unit-11-102-henderson-road-crestwood-nsw-2620
 183926330	2026-01-23 14:34:12	279-anthony-rolfe-avenue-gungahlin-act-2912
 183926411	2026-01-23 13:52:11	unit-1104-2-marcus-clarke-street-city-act-2601
 183926525	2026-01-23 15:04:11	12-poynton-street-hughes-act-2605
@@ -467,8 +467,8 @@ ListingId	DateTime	URL
 183943744	2026-02-02 15:08:16	unit-66-109-canberra-avenue-griffith-act-2603
 183943785	2026-02-02 14:52:26	unit-15-21-christina-stead-street-franklin-act-2913
 183943855	2026-02-02 14:12:09	unit-429-181-sutherland-crescent-taylor-act-2913
-183943864	2026-04-10 17:00:40	21-boreham-lane-gungahlin-act-2912
 183943864	2026-02-02 14:32:16	21-boreham-lane-gungahlin-act-2912
+183943864	2026-04-10 17:00:40	21-boreham-lane-gungahlin-act-2912
 183943866	2026-02-02 15:08:24	12-buller-crescent-palmerston-act-2913
 183944003	2026-02-02 14:42:15	52-edgeworth-parade-coombs-act-2611
 183944012	2026-02-02 14:52:14	unit-55-40-swain-street-gungahlin-act-2912
@@ -543,8 +543,8 @@ ListingId	DateTime	URL
 183949553	2026-02-04 10:41:35	unit-10-6-howitt-street-kingston-act-2604
 183949564	2026-02-04 10:40:21	unit-33-11-irving-street-phillip-act-2606
 183949581	2026-02-04 12:00:51	35-bluestone-gardens-jerrabomberra-nsw-2619
-183949591	2026-03-05 16:00:10	1704-2-marcus-clarke-street-acton-act-2601?tid=183949591
 183949591	2026-02-04 10:21:16	1704-2-marcus-clarke-street-acton-act-2601?tid=183949591
+183949591	2026-03-05 16:00:10	1704-2-marcus-clarke-street-acton-act-2601?tid=183949591
 183949621	2026-02-04 11:50:13	unit-17-18-moore-street-turner-act-2612
 183949624	2026-02-04 12:11:00	unit-203-2-marcus-clarke-street-city-act-2601
 183949634	2026-02-04 12:11:19	level-b-unit-1610-15-bowes-street-phillip-act-2606
@@ -670,8 +670,8 @@ ListingId	DateTime	URL
 183958019	2026-02-06 17:12:05	unit-206-17-dooring-street-braddon-act-2612
 183958028	2026-02-06 16:52:12	131-totterdell-street-belconnen-act-2617
 183958040	2026-02-06 17:52:08	unit-341-39-owen-crescent-lyneham-act-2602
-183958049	2026-03-05 16:00:10	unit-21-26-28-watson-street-turner-act-2612
 183958049	2026-02-06 16:52:21	unit-21-26-28-watson-street-turner-act-2612
+183958049	2026-03-05 16:00:10	unit-21-26-28-watson-street-turner-act-2612
 183958050	2026-02-06 17:02:10	2-southern-close-chisholm-act-2905
 183958050	2026-02-25 16:00:10	2-southern-close-chisholm-act-2905
 183958069	2026-02-06 17:22:01	100-sculthorpe-avenue-whitlam-act-2611
@@ -1135,8 +1135,8 @@ ListingId	DateTime	URL
 183993458	2026-02-24 14:52:29	172-plimsoll-drive-casey-act-2913
 183993702	2026-02-24 16:32:10	unit-910-120-eastern-valley-way-belconnen-act-2617
 183993783	2026-02-24 16:01:24	14-trussell-place-kambah-act-2902
-183993841	2026-02-24 16:52:33	unit-a-3-phillip-avenue-watson-act-2602
 183993841	2026-02-24 16:52:33	3a-phillip-avenue-watson-act-2602
+183993841	2026-02-24 16:52:33	unit-a-3-phillip-avenue-watson-act-2602
 183994030	2026-02-24 17:02:31	9-myles-close-calwell-act-2905
 183994079	2026-02-25 08:46:56	4b-nicholas-street-higgins-act-2615
 183994445	2026-02-25 07:32:03	17-gamor-street-waramanga-act-2611
