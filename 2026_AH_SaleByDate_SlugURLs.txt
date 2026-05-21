@@ -1485,8 +1485,8 @@ ListingId	DateTime	URL
 183953678	2026-02-05 12:52:04	11-lemon-street-strathnairn-act-2615
 183953688	2026-02-05 12:52:12	unit-602-349-northbourne-avenue-lyneham-act-2602
 183953718	2026-02-05 14:30:41	9-ena-noel-street-coombs-act-2611
-183953724	2026-02-20 12:26:52	denman-prospect-cravens-vista-block-23-section-139-denman-prospect-act-2611?tid=183953724
 183953724	2026-02-20 12:26:52	9-romano-street-denman-prospect-act-2611?tid=183953724
+183953724	2026-02-20 12:26:52	denman-prospect-cravens-vista-block-23-section-139-denman-prospect-act-2611?tid=183953724
 183953728	2026-02-05 13:12:02	43-halloran-drive-jerrabomberra-nsw-2619
 183953775	2026-02-05 14:52:12	14-toorale-terrace-lawson-act-2617
 183953800	2026-02-05 14:10:53	76-wanderlight-avenue-lawson-act-2617
@@ -1630,8 +1630,8 @@ ListingId	DateTime	URL
 183965472	2026-02-11 12:42:12	18-gunyan-place-ngunnawal-act-2913
 183965571	2026-02-13 10:04:33	edition-116-type-c-townhouse-denman-prospect-act-2611?tid=183965571
 183965576	2026-02-17 11:30:51	edition-116-type-d-townhouse-denman-prospect-act-2611?tid=183965576
-183965577	2026-02-20 12:25:43	9-romano-street-denman-prospect-act-2611?tid=183965577
 183965577	2026-02-20 12:25:43	denman-prospect-cravens-vista-block-3-section-136-denman-prospect-act-2611?tid=183965577
+183965577	2026-02-20 12:25:43	9-romano-street-denman-prospect-act-2611?tid=183965577
 183965579	2026-02-11 12:12:06	unit-32-82-henry-kendall-street-franklin-act-2913
 183965580	2026-02-11 12:12:26	unit-116-2-hinder-street-gungahlin-act-2912
 183965625	2026-02-11 14:02:29	27-marsden-street-dickson-act-2602
@@ -1861,8 +1861,8 @@ ListingId	DateTime	URL
 183976601	2026-02-17 09:50:44	23-hendry-close-nicholls-act-2913
 183976725	2026-02-17 11:22:13	35-oleria-street-karabar-nsw-2620
 183976764	2026-02-17 11:24:53	unit-2-30-trinculo-place-queanbeyan-east-nsw-2620
-183976970	2026-02-20 12:23:04	9-romano-street-denman-prospect-act-2611?tid=183976970
 183976970	2026-02-20 12:23:04	denman-prospect-cravens-vista-block-8-section-139-denman-prospect-act-2611?tid=183976970
+183976970	2026-02-20 12:23:04	9-romano-street-denman-prospect-act-2611?tid=183976970
 183977040	2026-02-20 12:24:01	denman-prospect-cravens-vista-block-4-section-135-denman-prospect-act-2611?tid=183977040
 183977040	2026-02-20 12:24:01	9-romano-street-denman-prospect-act-2611?tid=183977040
 183977441	2026-02-17 13:36:16	25-taylor-place-greenleigh-nsw-2620
@@ -1870,8 +1870,8 @@ ListingId	DateTime	URL
 183978100	2026-02-17 15:24:07	56-ian-potter-crescent-gungahlin-act-2912
 183978118	2026-02-20 12:26:14	denman-prospect-cravens-vista-block-16-section-137-denman-prospect-act-2611?tid=183978118
 183978118	2026-02-20 12:26:14	9-romano-street-denman-prospect-act-2611?tid=183978118
-183978119	2026-02-20 12:24:49	9-romano-street-denman-prospect-act-2611?tid=183978119
 183978119	2026-02-20 12:24:49	denman-prospect-cravens-vista-block-8-section-138-denman-prospect-act-2611?tid=183978119
+183978119	2026-02-20 12:24:49	9-romano-street-denman-prospect-act-2611?tid=183978119
 183978130	2026-02-17 16:12:48	15-warup-street-moncrieff-act-2914
 183978132	2026-02-17 16:51:17	unit-36-125-wellsvale-drive-googong-nsw-2620
 183978163	2026-02-17 16:31:30	52-cadell-street-downer-act-2602
@@ -2878,7 +2878,9 @@ ListingId	DateTime	URL
 184113982	2026-04-23 12:56:11	unit-30-21-cossington-smith-crescent-lyneham-act-2602
 184114122	2026-04-23 12:32:15	54-hambidge-crescent-chisholm-act-2905
 184114465	2026-04-23 13:30:29	72-rob-riley-circuit-bonner-act-2914
+184114494	2026-04-23 15:52:07	26-lester-terrace-moncrieff-act-2914
 184114606	2026-04-23 16:54:34	7-drosera-place-rivett-act-2611
+184114779	2026-04-23 13:52:05	151-atherton-street-downer-act-2602
 184114878	2026-04-23 14:20:46	23-shortland-crescent-ainslie-act-2602
 184115330	2026-04-23 15:52:19	8-griffin-place-monash-act-2904
 184115458	2026-04-23 15:52:05	15-trephina-street-harrison-act-2914
@@ -2892,6 +2894,7 @@ ListingId	DateTime	URL
 184123703	2026-04-29 06:52:02	unit-46-41-philip-hodgins-street-wright-act-2611
 184123720	2026-04-29 10:02:10	unit-2-1-greenbank-avenue-karabar-nsw-2620
 184124049	2026-04-29 09:52:07	7-wilgabar-way-karabar-nsw-2620
+184124214	2026-04-29 11:30:53	6-kinloch-circuit-bruce-act-2617
 184124468	2026-04-29 09:12:09	7a-summerville-crescent-florey-act-2615
 184124837	2026-04-29 13:31:12	unit-603-20-anzac-park-campbell-act-2612
 184125185	2026-04-30 10:42:07	49-quinane-avenue-forde-act-2914
@@ -2919,6 +2922,7 @@ ListingId	DateTime	URL
 184127672	2026-04-30 10:10:55	92-scrivener-street-o-connor-act-2602
 184127711	2026-04-30 11:10:53	1-paul-place-monash-act-2904
 184127746	2026-04-30 11:41:01	12-breona-place-lyons-act-2606
+184127750	2026-04-30 08:32:16	79-webster-street-hughes-act-2605
 184127751	2026-04-30 09:10:55	unit-g02-45-honeysett-view-kingston-act-2604
 184127758	2026-04-30 05:30:31	6-lyle-place-chifley-act-2606
 184127778	2026-04-30 05:40:21	15-dame-zara-street-gungahlin-act-2912
@@ -2933,6 +2937,7 @@ ListingId	DateTime	URL
 184128122	2026-04-30 12:21:13	4-catani-place-monash-act-2904
 184128160	2026-04-30 11:52:04	unit-51-47-blackall-street-barton-act-2600
 184128201	2026-04-30 12:10:45	22-selwyn-street-hackett-act-2602
+184128251	2026-04-30 11:41:39	unit-7-1-judith-macintosh-crescent-taylor-act-2913
 184128346	2026-04-30 15:20:57	1-pikler-rise-moncrieff-act-2914
 184128350	2026-04-30 13:54:24	14-carmichael-street-deakin-act-2600
 184128353	2026-04-30 15:04:37	6-hohnen-street-bruce-act-2617
@@ -2948,5 +2953,6 @@ ListingId	DateTime	URL
 184132445	2026-05-01 16:12:30	unit-104-15-tench-street-kingston-act-2604
 184134460	2026-05-04 11:22:20	18-lindsay-pryor-street-wright-act-2611
 184137402	2026-05-05 16:02:23	5-lumsdaine-street-moncrieff-act-2914
+184140229	2026-05-06 11:04:26	6-gluyas-street-farrer-act-2607
 184146662	2026-05-08 11:52:33	21-nordeck-street-casey-act-2913
 184159123	2026-05-14 13:04:15	unit-49-174-clive-steele-avenue-monash-act-2904
