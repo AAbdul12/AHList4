@@ -1870,8 +1870,8 @@ ListingId	DateTime	URL
 183978100	2026-02-17 15:24:07	56-ian-potter-crescent-gungahlin-act-2912
 183978118	2026-02-20 12:26:14	9-romano-street-denman-prospect-act-2611?tid=183978118
 183978118	2026-02-20 12:26:14	denman-prospect-cravens-vista-block-16-section-137-denman-prospect-act-2611?tid=183978118
-183978119	2026-02-20 12:24:49	denman-prospect-cravens-vista-block-8-section-138-denman-prospect-act-2611?tid=183978119
 183978119	2026-02-20 12:24:49	9-romano-street-denman-prospect-act-2611?tid=183978119
+183978119	2026-02-20 12:24:49	denman-prospect-cravens-vista-block-8-section-138-denman-prospect-act-2611?tid=183978119
 183978130	2026-02-17 16:12:48	15-warup-street-moncrieff-act-2914
 183978132	2026-02-17 16:51:17	unit-36-125-wellsvale-drive-googong-nsw-2620
 183978163	2026-02-17 16:31:30	52-cadell-street-downer-act-2602
@@ -2989,6 +2989,7 @@ ListingId	DateTime	URL
 184159123	2026-05-14 13:04:15	unit-49-174-clive-steele-avenue-monash-act-2904
 184159263	2026-05-14 16:10:22	1-merrett-gardens-gordon-act-2906
 184159344	2026-05-14 14:32:37	50-jensen-street-hughes-act-2605
+184159436	2026-05-14 14:42:10	60-sturt-avenue-narrabundah-act-2604
 184159576	2026-05-14 15:52:29	7-ida-west-street-bonner-act-2914
 184159680	2026-05-14 16:02:10	15-kinleyside-crescent-weetangera-act-2614
 184160339	2026-05-14 16:31:03	6-newstead-street-amaroo-act-2914
