@@ -284,8 +284,8 @@ ListingId	DateTime	URL
 183926116	2026-01-23 14:34:09	unit-3-12-howitt-street-kingston-act-2604
 183926211	2026-01-23 12:46:14	2-leahy-place-gordon-act-2906
 183926261	2026-01-23 12:14:13	unit-702-2-furzer-street-phillip-act-2606
-183926263	2026-01-23 12:34:03	unit-11-102-henderson-road-crestwood-nsw-2620
 183926263	2026-02-24 12:00:10	unit-11-102-henderson-road-crestwood-nsw-2620
+183926263	2026-01-23 12:34:03	unit-11-102-henderson-road-crestwood-nsw-2620
 183926330	2026-01-23 14:34:12	279-anthony-rolfe-avenue-gungahlin-act-2912
 183926411	2026-01-23 13:52:11	unit-1104-2-marcus-clarke-street-city-act-2601
 183926525	2026-01-23 15:04:11	12-poynton-street-hughes-act-2605
@@ -1135,8 +1135,8 @@ ListingId	DateTime	URL
 183993458	2026-02-24 14:52:29	172-plimsoll-drive-casey-act-2913
 183993702	2026-02-24 16:32:10	unit-910-120-eastern-valley-way-belconnen-act-2617
 183993783	2026-02-24 16:01:24	14-trussell-place-kambah-act-2902
-183993841	2026-02-24 16:52:33	unit-a-3-phillip-avenue-watson-act-2602
 183993841	2026-02-24 16:52:33	3a-phillip-avenue-watson-act-2602
+183993841	2026-02-24 16:52:33	unit-a-3-phillip-avenue-watson-act-2602
 183994030	2026-02-24 17:02:31	9-myles-close-calwell-act-2905
 183994079	2026-02-25 08:46:56	4b-nicholas-street-higgins-act-2615
 183994445	2026-02-25 07:32:03	17-gamor-street-waramanga-act-2611
@@ -1332,8 +1332,8 @@ ListingId	DateTime	URL
 184069209	2026-04-07 19:00:33	unit-1-114-blamey-crescent-campbell-act-2612
 184070721	2026-04-09 08:19:18	37-swinden-street-downer-act-2602
 184074262	2026-04-02 18:34:03	unit-414-90-swain-street-gungahlin-act-2912
-184075338	2026-04-04 09:47:37	32-hirst-avenue-queanbeyan-nsw-2620
 184075338	2026-04-04 09:47:37	hirst-avenue-queanbeyan-nsw-2620?tid=184075338
+184075338	2026-04-04 09:47:37	32-hirst-avenue-queanbeyan-nsw-2620
 184077371	2026-04-07 15:02:39	unit-3-51-hampton-circuit-yarralumla-act-2600
 184078927	2026-04-08 11:11:34	12a-bailes-court-wanniassa-act-2903
 184079999	2026-04-08 11:54:08	unit-10-19-charles-street-queanbeyan-nsw-2620
@@ -1388,6 +1388,7 @@ ListingId	DateTime	URL
 184152528	2026-05-12 11:57:30	kaleen-act-2617?tid=184152528
 184155173	2026-05-13 11:52:20	unit-1-10-arthur-street-crestwood-nsw-2620
 184155567	2026-05-13 11:31:26	unit-14-124-henderson-road-queanbeyan-nsw-2620
+184155729	2026-05-22 14:23:16	unit-44-22-moore-street-turner-act-2612
 184156230	2026-05-13 14:10:52	4a-reid-place-kambah-act-2902
 184158052	2026-05-14 09:30:37	unit-21-124-henderson-road-queanbeyan-nsw-2620
 184158483	2026-05-14 14:02:11	9-56-trinculo-place-queanbeyan-nsw-2620?tid=184158483
@@ -1420,13 +1421,18 @@ ListingId	DateTime	URL
 184184117	2026-05-27 14:14:05	7-46-trinculo-place-queanbeyan-nsw-2620?tid=184184117
 184184651	2026-05-27 14:28:15	unit-71-27-coxen-street-hughes-act-2605
 184185666	2026-05-28 11:08:24	unit-2-55-bambridge-street-weetangera-act-2614
+184186003	2026-05-28 10:31:24	10-34-waniassa-street-queanbeyan-nsw-2620?tid=184186003
 184189478	2026-05-29 09:22:18	unit-17-122-henderson-road-queanbeyan-nsw-2620
 184191944	2026-06-01 11:56:18	unit-19-122-henderson-road-queanbeyan-nsw-2620
 184194849	2026-06-02 11:49:50	2-7-davison-street-queanbeyan-nsw-2620?tid=184194849
+184197883	2026-06-12 15:38:04	unit-101-9-cowper-street-ainslie-act-2602
 184197986	2026-06-03 13:02:12	unit-1-54-pattie-menzies-way-jacka-act-2914
 184198191	2026-06-03 12:54:12	unit-314-90-swain-street-gungahlin-act-2912
 184198298	2026-06-03 13:50:39	unit-41-47-mcmillan-crescent-griffith-act-2603
+184198303	2026-06-09 13:34:02	dickson-act-2602?tid=184198303
 184203638	2026-06-04 23:17:19	14-banksia-crescent-karabar-nsw-2620
 184204250	2026-06-11 09:21:44	kaleen-act-2617?tid=184204250
+184204251	2026-06-12 15:28:07	crace-act-2911?tid=184204251
 184204264	2026-06-05 14:42:17	unit-7-63-donald-road-queanbeyan-nsw-2620
 184213666	2026-06-11 11:32:44	unit-2-26-romberg-way-taylor-act-2913?tid=184213666
+184217441	2026-06-12 13:30:55	2-21-blackall-avenue-queanbeyan-nsw-2620?tid=184217441
