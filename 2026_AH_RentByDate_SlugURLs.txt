@@ -543,8 +543,8 @@ ListingId	DateTime	URL
 183949553	2026-02-04 10:41:35	unit-10-6-howitt-street-kingston-act-2604
 183949564	2026-02-04 10:40:21	unit-33-11-irving-street-phillip-act-2606
 183949581	2026-02-04 12:00:51	35-bluestone-gardens-jerrabomberra-nsw-2619
-183949591	2026-03-05 16:00:10	1704-2-marcus-clarke-street-acton-act-2601?tid=183949591
 183949591	2026-02-04 10:21:16	1704-2-marcus-clarke-street-acton-act-2601?tid=183949591
+183949591	2026-03-05 16:00:10	1704-2-marcus-clarke-street-acton-act-2601?tid=183949591
 183949621	2026-02-04 11:50:13	unit-17-18-moore-street-turner-act-2612
 183949624	2026-02-04 12:11:00	unit-203-2-marcus-clarke-street-city-act-2601
 183949634	2026-02-04 12:11:19	level-b-unit-1610-15-bowes-street-phillip-act-2606
@@ -638,8 +638,8 @@ ListingId	DateTime	URL
 183956215	2026-02-06 11:42:41	unit-46-98-corinna-street-phillip-act-2606
 183956275	2026-02-06 12:11:01	unit-25-77-leichhardt-street-kingston-act-2604
 183956338	2026-02-06 10:52:12	115-outtrim-avenue-calwell-act-2905
-183956340	2026-02-06 11:42:10	unit-55-14-hoolihan-street-denman-prospect-act-2611
 183956340	2026-02-24 10:00:00	unit-55-14-hoolihan-street-denman-prospect-act-2611
+183956340	2026-02-06 11:42:10	unit-55-14-hoolihan-street-denman-prospect-act-2611
 183956404	2026-02-06 13:42:24	803-19-marcus-clarke-st-acton-act-2601?tid=183956404
 183956425	2026-02-06 13:42:24	unit-25-2-8-corinna-street-lyons-act-2606
 183956426	2026-02-06 13:52:07	unit-15-110-davenport-street-dickson-act-2602
@@ -1300,8 +1300,8 @@ ListingId	DateTime	URL
 184017200	2026-03-05 19:50:12	unit-205-300-northbourne-avenue-dickson-act-2602
 184017309	2026-03-05 20:40:12	unit-118-70-efkarpidis-street-gungahlin-act-2912
 184018463	2026-03-06 14:10:55	unit-807-2-akuna-street-city-act-2601
-184018845	2026-03-06 16:04:17	unit-12-41-david-street-o-connor-act-2602
 184018845	2026-04-14 13:00:40	unit-12-41-david-street-o-connor-act-2602
+184018845	2026-03-06 16:04:17	unit-12-41-david-street-o-connor-act-2602
 184019221	2026-03-06 16:54:17	7-11-crest-road-queanbeyan-nsw-2620?tid=184019221
 184025989	2026-03-11 12:35:12	unit-20-6-marrawah-street-lyons-act-2606
 184026384	2026-03-11 13:21:00	unit-25-30-river-street-oaks-estate-act-2620
@@ -1440,7 +1440,10 @@ ListingId	DateTime	URL
 184213666	2026-06-11 11:32:44	unit-2-26-romberg-way-taylor-act-2913?tid=184213666
 184217441	2026-06-12 13:30:55	2-21-blackall-avenue-queanbeyan-nsw-2620?tid=184217441
 184220439	2026-06-15 13:41:09	unit-61-4-wilkins-street-mawson-act-2607
+184221382	2026-06-15 16:22:09	5b-elsie-cornish-way-taylor-act-2913
 184222748	2026-06-16 09:22:13	unit-3-2a-keith-street-scullin-act-2614
 184226647	2026-06-17 15:44:14	3-44-kinkora-place-queanbeyan-nsw-2620?tid=184226647
 184226931	2026-06-17 15:21:06	7-20-trinculo-place-queanbeyan-nsw-2620?tid=184226931
 184229260	2026-06-18 13:44:32	16-10-waniassa-street-queanbeyan-nsw-2620?tid=184229260
+184231447	2026-06-19 11:20:17	283a-crawford-street-queanbeyan-nsw-2620
+184232230	2026-06-19 12:52:02	20-63-molonglo-street-queanbeyan-nsw-2620?tid=184232230
