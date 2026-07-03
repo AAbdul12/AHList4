@@ -638,8 +638,8 @@ ListingId	DateTime	URL
 183956215	2026-02-06 11:42:41	unit-46-98-corinna-street-phillip-act-2606
 183956275	2026-02-06 12:11:01	unit-25-77-leichhardt-street-kingston-act-2604
 183956338	2026-02-06 10:52:12	115-outtrim-avenue-calwell-act-2905
-183956340	2026-02-06 11:42:10	unit-55-14-hoolihan-street-denman-prospect-act-2611
 183956340	2026-02-24 10:00:00	unit-55-14-hoolihan-street-denman-prospect-act-2611
+183956340	2026-02-06 11:42:10	unit-55-14-hoolihan-street-denman-prospect-act-2611
 183956404	2026-02-06 13:42:24	803-19-marcus-clarke-st-acton-act-2601?tid=183956404
 183956425	2026-02-06 13:42:24	unit-25-2-8-corinna-street-lyons-act-2606
 183956426	2026-02-06 13:52:07	unit-15-110-davenport-street-dickson-act-2602
@@ -672,8 +672,8 @@ ListingId	DateTime	URL
 183958040	2026-02-06 17:52:08	unit-341-39-owen-crescent-lyneham-act-2602
 183958049	2026-03-05 16:00:10	unit-21-26-28-watson-street-turner-act-2612
 183958049	2026-02-06 16:52:21	unit-21-26-28-watson-street-turner-act-2612
-183958050	2026-02-25 16:00:10	2-southern-close-chisholm-act-2905
 183958050	2026-02-06 17:02:10	2-southern-close-chisholm-act-2905
+183958050	2026-02-25 16:00:10	2-southern-close-chisholm-act-2905
 183958069	2026-02-06 17:22:01	100-sculthorpe-avenue-whitlam-act-2611
 183958082	2026-02-09 09:22:18	unit-31-18-glenmaggie-street-duffy-act-2611
 183958684	2026-02-07 09:06:02	7-durong-street-crace-act-2911
@@ -1198,8 +1198,8 @@ ListingId	DateTime	URL
 183998681	2026-02-26 15:02:23	34a-longerenong-street-farrer-act-2607
 183998701	2026-02-26 11:32:51	unit-42-122-macarthur-avenue-turner-act-2612
 183998734	2026-02-26 13:10:48	unit-209-82-thynne-street-bruce-act-2617
-183998743	2026-02-26 11:32:31	unit-2013-2-grazier-lane-belconnen-act-2617
 183998743	2026-02-26 11:32:31	unit-2013-2-grazier-lane-belconnen-act-2617?tid=183998743
+183998743	2026-02-26 11:32:31	unit-2013-2-grazier-lane-belconnen-act-2617
 183999030	2026-02-26 11:32:58	50-osprey-street-harrison-act-2914
 183999070	2026-02-26 11:32:42	9-weeroona-place-jerrabomberra-nsw-2619
 183999301	2026-02-26 13:21:07	34-quokka-street-throsby-act-2914
@@ -1300,8 +1300,8 @@ ListingId	DateTime	URL
 184017200	2026-03-05 19:50:12	unit-205-300-northbourne-avenue-dickson-act-2602
 184017309	2026-03-05 20:40:12	unit-118-70-efkarpidis-street-gungahlin-act-2912
 184018463	2026-03-06 14:10:55	unit-807-2-akuna-street-city-act-2601
-184018845	2026-04-14 13:00:40	unit-12-41-david-street-o-connor-act-2602
 184018845	2026-03-06 16:04:17	unit-12-41-david-street-o-connor-act-2602
+184018845	2026-04-14 13:00:40	unit-12-41-david-street-o-connor-act-2602
 184019221	2026-03-06 16:54:17	7-11-crest-road-queanbeyan-nsw-2620?tid=184019221
 184025989	2026-03-11 12:35:12	unit-20-6-marrawah-street-lyons-act-2606
 184026384	2026-03-11 13:21:00	unit-25-30-river-street-oaks-estate-act-2620
@@ -1357,9 +1357,9 @@ ListingId	DateTime	URL
 184096359	2026-04-15 15:11:16	unit-15-3-campbell-street-queanbeyan-nsw-2620
 184099590	2026-04-16 12:04:09	unit-18-22-lowe-street-queanbeyan-nsw-2620
 184103653	2026-04-17 16:10:28	unit-2-76-tharwa-road-queanbeyan-nsw-2620
-184103979	2026-05-15 12:00:00	284-pro-hart-avenue-strathnairn-act-2615
-184103979	2026-06-25 11:00:10	284-pro-hart-avenue-strathnairn-act-2615
 184103979	2026-04-17 17:03:59	284-pro-hart-avenue-strathnairn-act-2615
+184103979	2026-06-25 11:00:10	284-pro-hart-avenue-strathnairn-act-2615
+184103979	2026-05-15 12:00:00	284-pro-hart-avenue-strathnairn-act-2615
 184105715	2026-05-04 17:54:18	unit-2-133-rivett-street-hackett-act-2602
 184107837	2026-04-21 14:01:15	unit-34-22-mowatt-street-queanbeyan-east-nsw-2620
 184109957	2026-04-22 12:32:06	unit-603-90-swain-street-gungahlin-act-2912
@@ -1461,8 +1461,13 @@ ListingId	DateTime	URL
 184241219	2026-06-24 14:52:14	34-errol-street-crace-act-2911
 184241268	2026-06-24 15:12:16	unit-4-29-mowatt-street-queanbeyan-east-nsw-2620
 184241598	2026-06-24 15:21:00	5-15-yass-road-queanbeyan-nsw-2620?tid=184241598
+184243931	2026-06-30 15:02:46	unit-27-20-oliver-street-lyneham-act-2602
 184245988	2026-06-26 11:15:09	giralang-act-2617?tid=184245988
 184248249	2026-06-28 21:44:01	unit-25-14-chauvel-street-campbell-act-2612
 184248819	2026-06-29 12:54:06	unit-2-31-macquoid-street-queanbeyan-east-nsw-2620
 184249939	2026-06-29 15:32:39	unit-3-38-isabella-street-queanbeyan-nsw-2620
 184250442	2026-06-29 16:52:14	18-10-arthur-street-queanbeyan-nsw-2620?tid=184250442
+184257239	2026-07-01 13:04:29	28b-ulm-street-scullin-act-2614
+184257472	2026-07-01 14:14:09	13-15-crest-road-queanbeyan-nsw-2620?tid=184257472
+184262146	2026-07-03 11:11:08	12-46-trinculo-place-queanbeyan-nsw-2620?tid=184262146
+184262338	2026-07-03 10:52:22	1-46-trinculo-place-queanbeyan-nsw-2620?tid=184262338
