@@ -1867,8 +1867,8 @@ ListingId	DateTime	URL
 183976764	2026-02-17 11:24:53	unit-2-30-trinculo-place-queanbeyan-east-nsw-2620
 183976970	2026-02-20 12:23:04	9-romano-street-denman-prospect-act-2611?tid=183976970
 183976970	2026-02-20 12:23:04	denman-prospect-cravens-vista-block-8-section-139-denman-prospect-act-2611?tid=183976970
-183977040	2026-02-20 12:24:01	denman-prospect-cravens-vista-block-4-section-135-denman-prospect-act-2611?tid=183977040
 183977040	2026-02-20 12:24:01	9-romano-street-denman-prospect-act-2611?tid=183977040
+183977040	2026-02-20 12:24:01	denman-prospect-cravens-vista-block-4-section-135-denman-prospect-act-2611?tid=183977040
 183977441	2026-02-17 13:36:16	25-taylor-place-greenleigh-nsw-2620
 183978054	2026-02-17 16:02:33	unit-44-58-eileen-good-street-greenway-act-2900
 183978100	2026-02-17 15:24:07	56-ian-potter-crescent-gungahlin-act-2912
@@ -2779,6 +2779,7 @@ ListingId	DateTime	URL
 184073199	2026-04-02 15:31:21	3-scott-street-narrabundah-act-2604
 184076381	2026-04-07 11:41:37	unit-35-76-leichhardt-street-griffith-act-2603
 184079337	2026-04-08 12:36:23	12-les-edwards-street-forde-act-2914
+184079598	2026-04-08 11:10:26	37-castleton-crescent-gowrie-act-2904
 184081353	2026-04-18 10:41:09	unit-1203-335-anketell-street-greenway-act-2900
 184081441	2026-04-16 08:23:00	22-callaway-crescent-gordon-act-2906
 184081987	2026-04-09 07:40:20	34-threlfall-street-chifley-act-2606
@@ -2985,6 +2986,7 @@ ListingId	DateTime	URL
 184152021	2026-05-12 10:56:46	16-ryan-street-curtin-act-2605
 184152352	2026-05-12 12:52:25	10-broadbent-street-scullin-act-2614
 184154999	2026-05-13 10:42:30	31-oodgeroo-avenue-franklin-act-2913
+184155126	2026-05-13 11:20:39	80-outtrim-avenue-calwell-act-2905
 184155491	2026-05-13 11:42:03	3-wallace-place-melba-act-2615
 184155492	2026-05-13 14:26:08	9-sanamere-street-amaroo-act-2914
 184156096	2026-05-13 14:10:52	1-gray-place-weston-act-2611
@@ -3177,6 +3179,7 @@ ListingId	DateTime	URL
 184213207	2026-06-11 14:14:08	14-quong-tart-avenue-denman-prospect-act-2611
 184213213	2026-06-11 08:56:09	unit-66-20-gifford-street-coombs-act-2611
 184213215	2026-06-11 09:42:32	unit-809-35-furzer-street-phillip-act-2606
+184213243	2026-06-11 09:52:10	unit-70-109-canberra-avenue-griffith-act-2603
 184213256	2026-06-11 13:04:44	34-tardent-street-downer-act-2602
 184213315	2026-06-11 10:04:19	34-may-maxwell-crescent-gilmore-act-2905
 184213317	2026-06-11 10:11:11	17-terry-close-phillip-act-2606
@@ -3271,6 +3274,7 @@ ListingId	DateTime	URL
 184237582	2026-06-23 12:52:09	40-bambridge-street-weetangera-act-2614
 184239908	2026-06-24 07:12:03	26-casuarina-street-rivett-act-2611
 184239918	2026-06-24 07:12:03	unit-18-4-lady-nelson-place-red-hill-act-2603
+184240782	2026-06-26 14:42:58	macnamara-at-ginninderry-macnamara-village-land-auction-macnamara-act-2615?tid=184240782
 184241607	2026-06-25 11:32:18	242-southern-cross-drive-latham-act-2615
 184241767	2026-06-24 18:02:11	unit-122-6-torrens-street-braddon-act-2612
 184242147	2026-06-25 09:42:09	51-lindrum-crescent-holt-act-2615
@@ -3303,6 +3307,7 @@ ListingId	DateTime	URL
 184259464	2026-07-02 09:12:04	unit-417-17-summerfield-close-denman-prospect-act-2611
 184259481	2026-07-02 10:04:04	27-hannan-crescent-ainslie-act-2602
 184259539	2026-07-02 07:02:12	unit-18-21-dawes-street-kingston-act-2604
+184259563	2026-07-02 09:54:35	8-dixon-drive-holder-act-2611
 184259581	2026-07-02 09:42:38	unit-10-18-bennetts-close-mckellar-act-2617
 184259599	2026-07-02 08:52:17	3-beazley-crescent-calwell-act-2905
 184259614	2026-07-02 12:12:31	63-tarrant-crescent-dunlop-act-2615
@@ -3322,3 +3327,12 @@ ListingId	DateTime	URL
 184262136	2026-07-03 11:21:05	115-wattle-street-o-connor-act-2602
 184262145	2026-07-03 10:24:30	unit-18-23-temperley-street-nicholls-act-2913
 184264694	2026-07-06 11:52:44	8-baynton-street-richardson-act-2905
+184266826	2026-07-07 13:52:03	16-jackie-howe-crescent-macarthur-act-2904
+184267486	2026-07-07 16:44:24	unit-9-7-9-blackall-avenue-crestwood-nsw-2620
+184269285	2026-07-08 14:22:12	6-demaine-crescent-fadden-act-2904
+184271910	2026-07-09 05:14:07	98-arthur-circle-forrest-act-2603
+184271944	2026-07-09 09:36:06	9-irinyili-street-bonner-act-2914
+184272135	2026-07-09 10:22:07	44-corringle-close-amaroo-act-2914
+184272170	2026-07-09 09:44:42	unit-11-4-tench-street-kingston-act-2604
+184272398	2026-07-09 10:22:03	unit-86-9-irving-street-phillip-act-2606
+184273275	2026-07-10 09:04:27	19-frankland-street-holder-act-2611
