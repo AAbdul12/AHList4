@@ -1491,8 +1491,8 @@ ListingId	DateTime	URL
 183953678	2026-02-05 12:52:04	11-lemon-street-strathnairn-act-2615
 183953688	2026-02-05 12:52:12	unit-602-349-northbourne-avenue-lyneham-act-2602
 183953718	2026-02-05 14:30:41	9-ena-noel-street-coombs-act-2611
-183953724	2026-02-20 12:26:52	denman-prospect-cravens-vista-block-23-section-139-denman-prospect-act-2611?tid=183953724
 183953724	2026-02-20 12:26:52	9-romano-street-denman-prospect-act-2611?tid=183953724
+183953724	2026-02-20 12:26:52	denman-prospect-cravens-vista-block-23-section-139-denman-prospect-act-2611?tid=183953724
 183953728	2026-02-05 13:12:02	43-halloran-drive-jerrabomberra-nsw-2619
 183953775	2026-02-05 14:52:12	14-toorale-terrace-lawson-act-2617
 183953800	2026-02-05 14:10:53	76-wanderlight-avenue-lawson-act-2617
@@ -1586,8 +1586,8 @@ ListingId	DateTime	URL
 183959922	2026-02-12 13:51:00	50-launceston-street-phillip-act-2606?tid=183959922
 183959923	2026-02-12 13:50:47	50-launceston-street-phillip-act-2606?tid=183959923
 183959924	2026-02-13 12:25:33	50-launceston-street-phillip-act-2606?tid=183959924
-183959927	2026-02-20 12:27:52	denman-prospect-cravens-vista-block-5-section-138-denman-prospect-act-2611?tid=183959927
 183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
+183959927	2026-02-20 12:27:52	denman-prospect-cravens-vista-block-5-section-138-denman-prospect-act-2611?tid=183959927
 183959944	2026-02-09 14:12:05	unit-152-1-anthony-rolfe-avenue-gungahlin-act-2912
 183960253	2026-02-09 14:52:20	504-102-nourtbourne-avenue-braddon-act-2612?tid=183960253
 183960384	2026-02-09 14:22:02	9-carolyn-jackson-drive-jerrabomberra-nsw-2619
@@ -1636,8 +1636,8 @@ ListingId	DateTime	URL
 183965472	2026-02-11 12:42:12	18-gunyan-place-ngunnawal-act-2913
 183965571	2026-02-13 10:04:33	edition-116-type-c-townhouse-denman-prospect-act-2611?tid=183965571
 183965576	2026-02-17 11:30:51	edition-116-type-d-townhouse-denman-prospect-act-2611?tid=183965576
-183965577	2026-02-20 12:25:43	denman-prospect-cravens-vista-block-3-section-136-denman-prospect-act-2611?tid=183965577
 183965577	2026-02-20 12:25:43	9-romano-street-denman-prospect-act-2611?tid=183965577
+183965577	2026-02-20 12:25:43	denman-prospect-cravens-vista-block-3-section-136-denman-prospect-act-2611?tid=183965577
 183965579	2026-02-11 12:12:06	unit-32-82-henry-kendall-street-franklin-act-2913
 183965580	2026-02-11 12:12:26	unit-116-2-hinder-street-gungahlin-act-2912
 183965625	2026-02-11 14:02:29	27-marsden-street-dickson-act-2602
@@ -1840,8 +1840,8 @@ ListingId	DateTime	URL
 183971530	2026-02-13 11:02:13	unit-104-189-gorman-drive-googong-nsw-2620
 183971531	2026-02-13 12:32:08	3-galbraith-close-banks-act-2906
 183971538	2026-02-13 10:54:40	tralee-nsw-2620?tid=183971538
-183971542	2026-02-20 12:23:34	denman-prospect-cravens-vista-block-11-section-139-denman-prospect-act-2611?tid=183971542
 183971542	2026-02-20 12:23:34	9-romano-street-denman-prospect-act-2611?tid=183971542
+183971542	2026-02-20 12:23:34	denman-prospect-cravens-vista-block-11-section-139-denman-prospect-act-2611?tid=183971542
 183971543	2026-02-24 17:23:06	15-attwood-close-gordon-act-2906
 183971544	2026-02-17 17:38:12	32-sellbach-street-weston-act-2611
 183971677	2026-02-13 12:21:01	unit-21-33-braybrooke-street-bruce-act-2617
@@ -1867,8 +1867,8 @@ ListingId	DateTime	URL
 183976601	2026-02-17 09:50:44	23-hendry-close-nicholls-act-2913
 183976725	2026-02-17 11:22:13	35-oleria-street-karabar-nsw-2620
 183976764	2026-02-17 11:24:53	unit-2-30-trinculo-place-queanbeyan-east-nsw-2620
-183976970	2026-02-20 12:23:04	denman-prospect-cravens-vista-block-8-section-139-denman-prospect-act-2611?tid=183976970
 183976970	2026-02-20 12:23:04	9-romano-street-denman-prospect-act-2611?tid=183976970
+183976970	2026-02-20 12:23:04	denman-prospect-cravens-vista-block-8-section-139-denman-prospect-act-2611?tid=183976970
 183977040	2026-02-20 12:24:01	denman-prospect-cravens-vista-block-4-section-135-denman-prospect-act-2611?tid=183977040
 183977040	2026-02-20 12:24:01	9-romano-street-denman-prospect-act-2611?tid=183977040
 183977441	2026-02-17 13:36:16	25-taylor-place-greenleigh-nsw-2620
@@ -1876,8 +1876,8 @@ ListingId	DateTime	URL
 183978100	2026-02-17 15:24:07	56-ian-potter-crescent-gungahlin-act-2912
 183978118	2026-02-20 12:26:14	9-romano-street-denman-prospect-act-2611?tid=183978118
 183978118	2026-02-20 12:26:14	denman-prospect-cravens-vista-block-16-section-137-denman-prospect-act-2611?tid=183978118
-183978119	2026-02-20 12:24:49	denman-prospect-cravens-vista-block-8-section-138-denman-prospect-act-2611?tid=183978119
 183978119	2026-02-20 12:24:49	9-romano-street-denman-prospect-act-2611?tid=183978119
+183978119	2026-02-20 12:24:49	denman-prospect-cravens-vista-block-8-section-138-denman-prospect-act-2611?tid=183978119
 183978130	2026-02-17 16:12:48	15-warup-street-moncrieff-act-2914
 183978132	2026-02-17 16:51:17	unit-36-125-wellsvale-drive-googong-nsw-2620
 183978163	2026-02-17 16:31:30	52-cadell-street-downer-act-2602
@@ -3576,6 +3576,7 @@ ListingId	DateTime	URL
 184343402	2026-08-17 08:54:09	20-lycett-street-weston-act-2611
 184348713	2026-08-19 10:12:54	unit-6-49-pinkerton-circuit-kambah-act-2902
 184350827	2026-08-20 08:52:40	34-fullagar-crescent-higgins-act-2615
+184351046	2026-08-20 11:20:47	45-quiros-street-red-hill-act-2603
 184351394	2026-08-20 10:38:04	7-huggins-street-bonner-act-2914
 184351396	2026-08-20 10:42:05	41-macdonnell-street-yarralumla-act-2600
 184351404	2026-08-20 00:34:01	46-wagga-street-farrer-act-2607
@@ -3584,5 +3585,9 @@ ListingId	DateTime	URL
 184351642	2026-08-20 09:32:09	28-scratchley-place-monash-act-2904
 184351672	2026-08-20 09:52:04	42-harriott-street-wright-act-2611
 184351778	2026-08-20 07:12:06	41b-enderby-street-mawson-act-2607
+184352234	2026-08-20 11:52:10	21-lambrigg-street-farrer-act-2607
 184352371	2026-08-20 11:46:24	3-plunkett-street-chifley-act-2606
+184352675	2026-08-20 14:12:14	12-bundock-place-gowrie-act-2904
+184352946	2026-08-20 15:52:06	13-scarborough-street-red-hill-act-2603
+184353171	2026-08-20 15:42:22	30-quiros-street-red-hill-act-2603
 184355450	2026-08-21 16:10:23	3-blair-street-watson-act-2602
