@@ -3689,6 +3689,7 @@ ListingId	DateTime	URL
 184376062	2026-09-02 10:14:16	20-mcauliffe-court-nicholls-act-2913
 184376084	2026-09-02 10:14:27	7-lindrum-crescent-holt-act-2615
 184376634	2026-09-02 11:32:16	33-gibbons-street-chisholm-act-2905
+184376773	2026-09-02 10:52:08	1-mccawley-street-watson-act-2602
 184376964	2026-09-02 15:08:19	8-brinkley-circuit-palmerston-act-2913
 184377189	2026-09-02 12:21:26	111-dexter-street-cook-act-2614
 184377588	2026-09-02 13:12:12	19-wirraway-crescent-scullin-act-2614
@@ -3708,6 +3709,7 @@ ListingId	DateTime	URL
 184379688	2026-09-03 09:32:15	197b-la-perouse-street-red-hill-act-2603
 184379694	2026-09-03 11:32:37	7-cubillo-crescent-ngunnawal-act-2913
 184379780	2026-09-03 12:09:00	unit-33-36-morell-close-belconnen-act-2617
+184379786	2026-09-03 13:06:13	59-denny-street-latham-act-2615
 184379939	2026-09-03 11:32:21	141-thynne-street-bruce-act-2617
 184379958	2026-09-03 10:40:40	16-prout-place-weston-act-2611
 184379978	2026-09-03 10:41:01	12-fishburn-street-red-hill-act-2603
@@ -3719,3 +3721,5 @@ ListingId	DateTime	URL
 184381602	2026-09-03 19:10:26	4-lynd-place-downer-act-2602
 184382379	2026-09-04 08:22:03	3-mckail-crescent-stirling-act-2611
 184382444	2026-09-04 09:52:13	29-shumack-street-weetangera-act-2614
+184392133	2026-09-10 10:54:31	5-tabbara-crescent-crace-act-2911
+184392864	2026-09-10 14:10:34	5-rosenthal-street-campbell-act-2612
