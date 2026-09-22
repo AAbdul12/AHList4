@@ -2776,6 +2776,7 @@ ListingId	DateTime	URL
 184070661	2026-04-02 10:02:34	5-lowerson-place-gowrie-act-2904
 184070722	2026-04-09 16:22:16	10-loban-court-ngunnawal-act-2913
 184071137	2026-04-02 09:12:13	29-clancy-street-evatt-act-2617
+184071431	2026-04-02 05:22:02	126-schlich-street-yarralumla-act-2600
 184072602	2026-04-02 13:44:16	68-morton-street-crestwood-nsw-2620
 184072926	2026-04-02 17:02:22	23a-lachlan-street-macquarie-act-2614
 184073042	2026-04-02 15:52:18	3-bill-leng-street-coombs-act-2611
@@ -3704,6 +3705,7 @@ ListingId	DateTime	URL
 184379513	2026-09-03 10:24:18	16-merriman-crescent-macarthur-act-2904
 184379561	2026-09-03 10:04:41	25-edwards-street-higgins-act-2615
 184379629	2026-09-03 09:24:16	6-pratt-place-scullin-act-2614
+184379630	2026-09-03 09:32:19	7-tallara-parkway-narrabundah-act-2604
 184379659	2026-09-03 10:04:02	6-dymphna-place-franklin-act-2913
 184379668	2026-09-03 08:32:02	58-redfern-street-cook-act-2614
 184379688	2026-09-03 09:32:15	197b-la-perouse-street-red-hill-act-2603
@@ -3712,6 +3714,7 @@ ListingId	DateTime	URL
 184379786	2026-09-03 13:06:13	59-denny-street-latham-act-2615
 184379939	2026-09-03 11:32:21	141-thynne-street-bruce-act-2617
 184379958	2026-09-03 10:40:40	16-prout-place-weston-act-2611
+184379968	2026-09-03 10:40:58	8-maxwell-street-yarralumla-act-2600
 184379978	2026-09-03 10:41:01	12-fishburn-street-red-hill-act-2603
 184380028	2026-09-03 11:48:36	12-du-faur-street-mawson-act-2607
 184380058	2026-09-03 12:10:37	unit-1-48-moorhouse-street-o-connor-act-2602
