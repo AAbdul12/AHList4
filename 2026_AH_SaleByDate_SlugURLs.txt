@@ -1586,8 +1586,8 @@ ListingId	DateTime	URL
 183959922	2026-02-12 13:51:00	50-launceston-street-phillip-act-2606?tid=183959922
 183959923	2026-02-12 13:50:47	50-launceston-street-phillip-act-2606?tid=183959923
 183959924	2026-02-13 12:25:33	50-launceston-street-phillip-act-2606?tid=183959924
-183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
 183959927	2026-02-20 12:27:52	denman-prospect-cravens-vista-block-5-section-138-denman-prospect-act-2611?tid=183959927
+183959927	2026-02-20 12:27:52	9-romano-street-denman-prospect-act-2611?tid=183959927
 183959944	2026-02-09 14:12:05	unit-152-1-anthony-rolfe-avenue-gungahlin-act-2912
 183960253	2026-02-09 14:52:20	504-102-nourtbourne-avenue-braddon-act-2612?tid=183960253
 183960384	2026-02-09 14:22:02	9-carolyn-jackson-drive-jerrabomberra-nsw-2619
@@ -3690,6 +3690,7 @@ ListingId	DateTime	URL
 184376062	2026-09-02 10:14:16	20-mcauliffe-court-nicholls-act-2913
 184376084	2026-09-02 10:14:27	7-lindrum-crescent-holt-act-2615
 184376634	2026-09-02 11:32:16	33-gibbons-street-chisholm-act-2905
+184376742	2026-09-02 10:44:33	14-jackomos-street-bonner-act-2914
 184376773	2026-09-02 10:52:08	1-mccawley-street-watson-act-2602
 184376964	2026-09-02 15:08:19	8-brinkley-circuit-palmerston-act-2913
 184377189	2026-09-02 12:21:26	111-dexter-street-cook-act-2614
@@ -3704,6 +3705,8 @@ ListingId	DateTime	URL
 184379420	2026-09-03 08:20:12	53-lyttleton-crescent-cook-act-2614
 184379513	2026-09-03 10:24:18	16-merriman-crescent-macarthur-act-2904
 184379561	2026-09-03 10:04:41	25-edwards-street-higgins-act-2615
+184379567	2026-09-03 12:31:19	3-prisk-place-bonython-act-2905
+184379624	2026-09-03 11:06:09	20-tanderra-crescent-ngunnawal-act-2913
 184379629	2026-09-03 09:24:16	6-pratt-place-scullin-act-2614
 184379630	2026-09-03 09:32:19	7-tallara-parkway-narrabundah-act-2604
 184379659	2026-09-03 10:04:02	6-dymphna-place-franklin-act-2913
@@ -3716,12 +3719,16 @@ ListingId	DateTime	URL
 184379958	2026-09-03 10:40:40	16-prout-place-weston-act-2611
 184379968	2026-09-03 10:40:58	8-maxwell-street-yarralumla-act-2600
 184379978	2026-09-03 10:41:01	12-fishburn-street-red-hill-act-2603
+184380002	2026-09-03 12:10:27	51-mcdonagh-crescent-whitlam-act-2611
 184380028	2026-09-03 11:48:36	12-du-faur-street-mawson-act-2607
 184380058	2026-09-03 12:10:37	unit-1-48-moorhouse-street-o-connor-act-2602
 184380253	2026-09-03 14:20:37	39-casilda-street-harrison-act-2914
+184380531	2026-09-03 13:34:16	36-musgrave-street-yarralumla-act-2600
+184380630	2026-09-03 14:31:39	92-atherton-street-downer-act-2602
 184381211	2026-09-03 16:21:12	29-blackwood-terrace-holder-act-2611
 184381275	2026-09-03 16:46:52	20-rylah-crescent-wanniassa-act-2903
 184381602	2026-09-03 19:10:26	4-lynd-place-downer-act-2602
+184381667	2026-09-04 10:11:39	95-caley-crescent-narrabundah-act-2604
 184382379	2026-09-04 08:22:03	3-mckail-crescent-stirling-act-2611
 184382444	2026-09-04 09:52:13	29-shumack-street-weetangera-act-2614
 184392133	2026-09-10 10:54:31	5-tabbara-crescent-crace-act-2911
